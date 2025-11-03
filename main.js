@@ -6,7 +6,7 @@ const PAGE_STEP = 10;
 
 let libraries = [];
 let resources = [];
-let locById = new Map();
+let locBySlug = new Map();
 let categories = new Set();
 let userPoint = null;
 let searchQuery = '';
@@ -96,197 +96,211 @@ function debounce(fn, ms = 200) {
 }
 
 function mapHrefAddress(address) {
-	return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`;
+	return `https:
+}
+function addressText(obj){
+  const parts = [obj?.address ?? obj?.Address, obj?.city ?? obj?.City, obj?.state ?? obj?.State, obj?.zip ?? obj?.Zip].filter(Boolean);
+  return parts.join(', ');
+}
+function getMapLink(obj){
+  const direct = obj && (obj.gmapaddr ?? obj.gmapAddr ?? obj.GMapAddr);
+  if (typeof direct === 'string' && direct.trim()) return direct.trim();
+  const addr = addressText(obj);
+  return addr ? mapHrefAddress(addr) : '';
 }
 
-function addressText(obj) {
-	const parts = [obj?.address ?? obj?.Address, obj?.city ?? obj?.City, obj?.state ?? obj?.State, obj?.zip ?? obj?.Zip].filter(Boolean);
-	return parts.join(', ');
+function slugify(str){
+  return String(str || '')
+    .toLowerCase()
+    .normalize('NFKD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/[^a-z0-9]+/g,'-')
+    .replace(/^-+|-+$/g,'')
+    || 'loc';
 }
-
-function getMapLink(obj) {
-	const direct = obj && (obj.gmapaddr ?? obj.gmapAddr ?? obj.GMapAddr);
-	if(typeof direct === 'string' && direct.trim()) return direct.trim();
-	const addr = addressText(obj);
-	return addr ? mapHrefAddress(addr) : '';
-}
-
-function getParentIds(r) {
-	const v = r['parent id'];
-	if(Array.isArray(v)) return v.map(x => String(x));
-	if(typeof v === 'string') {
-		const s = v.trim();
-		if(!s) return [];
-		try {
-			const arr = JSON.parse(s);
-			return Array.isArray(arr) ? arr.map(x => String(x)) : [];
-		} catch {
-			const inner = s.replace(/^\[|\]$/g, '');
-			if(!inner) return [];
-			return inner.split(',').map(x => x.trim()).filter(Boolean).map(String);
-		}
+function slugFromLocation(l, idx){
+  const name = l.Name || l.name || `
+	location - $ {
+		idx
 	}
-	return [];
+	`;
+  const pt = toPoint(l);
+
+  const tail = pt ? ` - $ {
+		pt.lat.toFixed(4)
+	} - $ {
+		pt.lon.toFixed(4)
+	}
+	` : ` - $ {
+		idx
+	}
+	`;
+  return `
+	$ {
+		slugify(name)
+	}
+	$ {
+		tail
+	}
+	`;
 }
 
-function parseHash() {
-	const h = (location.hash || '').replace(/^#/, '');
-	if(!h) return {
-		type: 'home'
-	};
-	const m = h.match(/^loc-(.+)$/);
-	if(m) return {
-		type: 'loc',
-		id: m[1]
-	};
-	return {
-		type: 'home'
-	};
+function parseHash(){
+  const h = (location.hash || '').replace(/^#/, '');
+  if (!h) return { type: 'home' };
+  const m = h.match(/^loc-(.+)$/);
+  if (m) return { type: 'loc', slug: m[1] };
+  return { type: 'home' };
 }
-
-function goHome() {
-	location.hash = '';
-}
-
-function goToLoc(id) {
-	location.hash = `loc-${id}`;
-}
+function goHome(){ location.hash = ''; }
+function goToLoc(slug){ location.hash = `
+	loc - $ {
+		slug
+	}
+	`; }
 
 let map, resLayer, locLayer, userMarker;
 
-function makeIcon(file) {
-	return L.icon({
-		iconUrl: `./${file}`,
-		iconSize: [28, 28],
-		iconAnchor: [14, 14],
-		popupAnchor: [0, -14]
-	});
+function makeIcon(file){
+  return L.icon({
+    iconUrl: `. / $ {
+		file
+	}
+	`,
+    iconSize: [28, 28],
+    iconAnchor: [14, 14],
+    popupAnchor: [0, -14]
+  });
 }
 const ICONS = {
-	library: makeIcon('library.svg'),
-	shelter: makeIcon('shelter.svg'),
-	health: makeIcon('health.svg'),
-	financial: makeIcon('financial.svg'),
-	educational: makeIcon('education.svg'),
-	childcare: makeIcon('childcare.svg'),
-	food: makeIcon('food.svg')
+  library:   makeIcon('library.svg'),
+  shelter:   makeIcon('shelter.svg'),
+  health:    makeIcon('health.svg'),
+  financial: makeIcon('financial.svg'),
+  educational: makeIcon('education.svg'),
+  childcare: makeIcon('childcare.svg'),
+  food:      makeIcon('food.svg'),
+  giveaway:  makeIcon('giveaway.svg')
 };
-const CATEGORY_ORDER = ['shelter', 'health', 'financial', 'educational', 'childcare', 'food'];
 
-function iconForResource(r) {
-	const cats = normCat(r.category).map(c => c.toLowerCase());
-	for(const k of CATEGORY_ORDER) {
-		if(cats.includes(k)) return ICONS[k];
-	}
-	return null;
+const CATEGORY_ORDER = ['shelter','health','financial','educational','childcare','food','giveaway'];
+
+function iconForResource(r){
+  const cats = normCat(r.category).map(c => c.toLowerCase());
+  for (const k of CATEGORY_ORDER){
+    if (cats.includes(k)) return ICONS[k] || null; 
+  }
+  return null;
 }
 
-function ensureMap() {
-	if(map) return;
-	map = L.map('map', {
-		zoomControl: true,
-		preferCanvas: true
+function ensureMap(){
+  if (map) return;
+  map = L.map('map', { zoomControl: true, preferCanvas: true });
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19, attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+  resLayer = L.layerGroup().addTo(map);
+  locLayer = L.layerGroup().addTo(map);
+  requestAnimationFrame(() => map.invalidateSize());
+}
+function clearMap(){
+  if (!map) return;
+  resLayer.clearLayers(); locLayer.clearLayers();
+  if (userMarker){ map.removeLayer(userMarker); userMarker = null; }
+}
+function circle(lat, lon, opts = {}){
+  return L.circleMarker([lat, lon], Object.assign({
+    radius: 6, weight: 1.5, color: '#0B9A6D', fillColor: '#0B9A6D', fillOpacity: 0.95
+  }, opts));
+}
+
+function updateMap(shownResources, shownLocations){
+  if (!userPoint){ if (map) clearMap(); return; }
+  ensureMap(); clearMap();
+
+  requestAnimationFrame(() => {
+    const allLatLngs = [];
+
+    userMarker = L.circleMarker([userPoint.lat, userPoint.lon], {
+      radius: 7, weight: 2, color: '#18453B', fillColor: '#18453B', fillOpacity: 1
+    }).addTo(map).bindPopup('You are here');
+    allLatLngs.push([userPoint.lat, userPoint.lon]);
+
+    for (const r of (shownResources || [])){
+      const pt = toPoint(r); if (!pt) continue;
+      const nm = esc(r.name || 'Resource');
+      const addr = esc(addressText(r) || '');
+      const url = r.URL ? ` < a href = "${esc(r.URL)}"
+	target = "_blank"
+	rel = "noopener" > $ {
+		nm
+	} < /a>` : `<strong>${nm}</strong > `;
+      const icon = iconForResource(r);
+      const marker = icon ? L.marker([pt.lat, pt.lon], { icon }) : circle(pt.lat, pt.lon);
+      marker.addTo(resLayer).bindPopup(`
+	$ {
+		url
+	}
+	$ {
+		addr ? `<br/>${addr}` : ''
+	}
+	`);
+      allLatLngs.push([pt.lat, pt.lon]);
+    }
+
+    for (const l of (shownLocations || [])){
+      const pt = toPoint(l); if (!pt) continue;
+      const base = esc(l.Name || l.name || 'Library');
+      const group = l.Group || l.group;
+      const disp = group ? `
+	$ {
+		base
+	}–
+	$ {
+		esc(group)
+	}
+	` : base;
+      const slug = l.__slug;
+      L.marker([pt.lat, pt.lon], { icon: ICONS.library })
+        .addTo(locLayer)
+        .bindPopup(` < a href = "#"
+	onclick = "(function(){ location.hash='loc-${slug}'; })(); return false;" > $ {
+		disp
+	} < /a>`);
+	allLatLngs.push([pt.lat, pt.lon]);
+}
+
+if(allLatLngs.length > 1) {
+	const bounds = L.latLngBounds(allLatLngs);
+	map.fitBounds(bounds, {
+		padding: [28, 28],
+		maxZoom: 13
 	});
-	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		maxZoom: 19,
-		attribution: '&copy; OpenStreetMap contributors'
-	}).addTo(map);
-	resLayer = L.layerGroup().addTo(map);
-	locLayer = L.layerGroup().addTo(map);
-	requestAnimationFrame(() => map.invalidateSize());
+} else {
+	map.setView([userPoint.lat, userPoint.lon], 12);
 }
 
-function clearMap() {
-	if(!map) return;
-	resLayer.clearLayers();
-	locLayer.clearLayers();
-	if(userMarker) {
-		map.removeLayer(userMarker);
-		userMarker = null;
-	}
-}
-
-function circle(lat, lon, opts = {}) {
-	return L.circleMarker([lat, lon], Object.assign({
-		radius: 6,
-		weight: 1.5,
-		color: '#0B9A6D',
-		fillColor: '#0B9A6D',
-		fillOpacity: 0.95
-	}, opts));
-}
-
-function updateMap(shownResources, shownLocations) {
-	if(!userPoint) {
-		if(map) clearMap();
-		return;
-	}
-	ensureMap();
-	clearMap();
-
-	requestAnimationFrame(() => {
-		const allLatLngs = [];
-
-		userMarker = L.circleMarker([userPoint.lat, userPoint.lon], {
-			radius: 7,
-			weight: 2,
-			color: '#18453B',
-			fillColor: '#18453B',
-			fillOpacity: 1
-		}).addTo(map).bindPopup('You are here');
-		allLatLngs.push([userPoint.lat, userPoint.lon]);
-
-		for(const r of (shownResources || [])) {
-			const pt = toPoint(r);
-			if(!pt) continue;
-			const nm = esc(r.name || 'Resource');
-			const addr = esc(addressText(r) || '');
-			const url = r.URL ? `<a href="${esc(r.URL)}" target="_blank" rel="noopener">${nm}</a>` : `<strong>${nm}</strong>`;
-			const icon = iconForResource(r);
-			const marker = icon ? L.marker([pt.lat, pt.lon], {
-				icon
-			}) : circle(pt.lat, pt.lon);
-			marker.addTo(resLayer).bindPopup(`${url}${addr ? `<br/>${addr}` : ''}`);
-			allLatLngs.push([pt.lat, pt.lon]);
-		}
-
-		for(const l of (shownLocations || [])) {
-			const pt = toPoint(l);
-			if(!pt) continue;
-			const base = esc(l.Name || l.name || 'Library');
-			const group = l.Group || l.group;
-			const disp = group ? `${base} – ${esc(group)}` : base;
-			const locId = String(l.id);
-			L.marker([pt.lat, pt.lon], {
-					icon: ICONS.library
-				})
-				.addTo(locLayer)
-				.bindPopup(`<a href="#" onclick="(function(){ location.hash='loc-${locId}'; })(); return false;">${disp}</a>`);
-			allLatLngs.push([pt.lat, pt.lon]);
-		}
-
-		if(allLatLngs.length > 1) {
-			const bounds = L.latLngBounds(allLatLngs);
-			map.fitBounds(bounds, {
-				padding: [28, 28],
-				maxZoom: 13
-			});
-		} else {
-			map.setView([userPoint.lat, userPoint.lon], 12);
-		}
-
-		requestAnimationFrame(() => map.invalidateSize());
-	});
+requestAnimationFrame(() => map.invalidateSize());
+});
 }
 
 async function init() {
 	showSpinner('Loading data…');
 	try {
 		const [libsRaw, resRaw] = await Promise.all([loadJSON(LIBRARIES_URL), loadJSON(RESOURCES_URL)]);
-		libraries = coerceList(libsRaw);
-		resources = coerceList(resRaw);
-		locById = new Map(libraries.map(l => [String(l.id), l]));
+		libraries = coerceList(libsRaw).slice();
+		resources = coerceList(resRaw).slice();
+
+		locBySlug.clear();
+		libraries.forEach((l, i) => {
+			const slug = slugFromLocation(l, i);
+			l.__slug = slug;
+			locBySlug.set(slug, l);
+		});
+
+		categories.clear();
 		resources.forEach(r => normCat(r.category).forEach(c => categories.add(c)));
+
+		categorySel.innerHTML = '<option value="__ALL__">All categories</option>';
 		[...categories].sort((a, b) => a.localeCompare(b)).forEach(c => {
 			const opt = document.createElement('option');
 			opt.value = c;
@@ -406,11 +420,15 @@ function renderHome() {
 		return;
 	}
 
-	const filteredRes = filterByCategory(resources).filter(r => toPoint(r)).filter(r => matchesResQuery(r, searchQuery));
-	const rankedRes = filteredRes.map(r => ({
-		r,
-		m: haversine(userPoint, toPoint(r))
-	})).sort((a, b) => a.m - b.m);
+	const filteredRes = filterByCategory(resources)
+		.filter(r => toPoint(r))
+		.filter(r => matchesResQuery(r, searchQuery));
+	const rankedRes = filteredRes
+		.map(r => ({
+			r,
+			m: haversine(userPoint, toPoint(r))
+		}))
+		.sort((a, b) => a.m - b.m);
 
 	const toShow = rankedRes.slice(0, visibleCount);
 	resultsEl.innerHTML = toShow.length ? '' : `<article class="card">No resources match your filters.</article>`;
@@ -445,10 +463,13 @@ function renderHome() {
 
 	const withPts = libraries.filter(l => toPoint(l));
 	const filteredLibs = withPts.filter(l => matchesLocQuery(l, searchQuery));
-	const rankedLibs = filteredLibs.map(l => ({
-		l,
-		m: haversine(userPoint, toPoint(l))
-	})).sort((a, b) => a.m - b.m).slice(0, 5);
+	const rankedLibs = filteredLibs
+		.map(l => ({
+			l,
+			m: haversine(userPoint, toPoint(l))
+		}))
+		.sort((a, b) => a.m - b.m)
+		.slice(0, 5);
 
 	libsTitleEl.style.display = rankedLibs.length ? '' : 'none';
 	nearbyLibsEl.innerHTML = rankedLibs.length ? '' : `<article class="card">No libraries match your search.</article>`;
@@ -461,7 +482,7 @@ function renderHome() {
 		const baseName = esc(l.Name || l.name || 'Library');
 		const group = l.Group || l.group;
 		const displayName = group ? `${baseName} – ${esc(group)}` : baseName;
-		const nameHTML = `<a href="#" class="loc-link" data-id="${esc(String(l.id))}">${displayName}</a>`;
+		const nameHTML = `<a href="#" class="loc-link" data-slug="${esc(String(l.__slug))}">${displayName}</a>`;
 		const mapLink = getMapLink(l);
 		const card = document.createElement('article');
 		card.className = 'card';
@@ -479,26 +500,25 @@ function renderHome() {
 		const a = e.target.closest('.loc-link');
 		if(!a) return;
 		e.preventDefault();
-		const id = a.getAttribute('data-id');
-		if(id) goToLoc(id);
+		const slug = a.getAttribute('data-slug');
+		if(slug) goToLoc(slug);
 	}, {
 		once: true
 	});
 
 	updateMap(toShow.map(x => x.r), rankedLibs.map(x => x.l));
-	if(map) {
-		requestAnimationFrame(() => map.invalidateSize());
-	}
+	if(map) requestAnimationFrame(() => map.invalidateSize());
 }
 
-function renderLocationDetail(id) {
-	const loc = locById.get(String(id));
+function renderLocationDetail(slug) {
+	const loc = locBySlug.get(String(slug));
 	contentEl.innerHTML = '';
 	if(!loc) {
 		contentEl.innerHTML = `<a class="backlink" href="#" onclick="history.back(); return false;">← Back</a><article class="card"><p>Location not found.</p></article>`;
 		updateMap([], []);
 		return;
 	}
+	const locPt = toPoint(loc);
 	const addrStr = addressText(loc);
 	const baseName = esc(loc.Name || loc.name || 'Library');
 	const group = loc.Group || loc.group;
@@ -508,14 +528,19 @@ function renderLocationDetail(id) {
 	const locDesc = loc.desc ?? loc.Desc ?? loc.description ?? '';
 	const locMapLink = getMapLink(loc);
 
-	const associated = resources.filter(r => getParentIds(r).includes(String(id)));
-	const listed = (userPoint ?
-		associated.filter(toPoint).map(r => ({
+	const pool = resources.filter(r => toPoint(r));
+	const filteredByCat = filterByCategory(pool);
+	const rankedNearby = (locPt ?
+		filteredByCat.map(r => ({
 			r,
-			m: haversine(userPoint, toPoint(r))
-		})).sort((a, b) => a.m - b.m).map(x => x.r) :
-		associated.slice().sort((a, b) => String(a.name || '').localeCompare(String(b.name || '')))
+			m: haversine(locPt, toPoint(r))
+		})).sort((a, b) => a.m - b.m) :
+		filteredByCat.map(r => ({
+			r,
+			m: Infinity
+		}))
 	);
+	const nearest = rankedNearby.slice(0, 10).map(x => x.r);
 
 	const header = document.createElement('div');
 	header.innerHTML = `
@@ -525,23 +550,23 @@ function renderLocationDetail(id) {
       ${locDesc ? `<p>${esc(locDesc)}</p>` : ''}
       ${addrStr ? `<p class="muted"><a href="${esc(locMapLink)}" target="_blank" rel="noopener">${esc(addrStr)}</a></p>` : ''}
     </article>
-    <h2 class="section-title">Resources near this library (${associated.length})</h2>
+    <h2 class="section-title">10 nearest resources${categorySel.value!=='__ALL__' ? ` in “${esc(categorySel.value)}”` : ''}</h2>
   `;
 	contentEl.appendChild(header);
 
 	const listWrap = document.createElement('section');
 	listWrap.className = 'results';
-	if(!associated.length) {
+	if(!nearest.length) {
 		const empty = document.createElement('article');
 		empty.className = 'card';
-		empty.innerHTML = `<p>No resources found for this library.</p>`;
+		empty.innerHTML = `<p>No resources found for this library with the current filters.</p>`;
 		listWrap.appendChild(empty);
 	} else {
-		for(const r of listed) {
+		for(const r of nearest) {
 			const cats = normCat(r.category);
 			const addrR = addressText(r);
-			const nameHTML = r.URL ? `<a href="${esc(r.URL)}" target="_blank" rel="noopener">${esc(r.name || 'Untitled resource')}</a>` : esc(r.name || 'Untitled resource');
 			const mapLink = getMapLink(r);
+			const nameHTML = r.URL ? `<a href="${esc(r.URL)}" target="_blank" rel="noopener">${esc(r.name || 'Untitled resource')}</a>` : esc(r.name || 'Untitled resource');
 			const card = document.createElement('article');
 			card.className = 'card';
 			card.innerHTML = `
@@ -557,15 +582,13 @@ function renderLocationDetail(id) {
 	}
 	contentEl.appendChild(listWrap);
 
-	updateMap(listed, [loc]);
-	if(map) {
-		requestAnimationFrame(() => map.invalidateSize());
-	}
+	updateMap(nearest, [loc]);
+	if(map) requestAnimationFrame(() => map.invalidateSize());
 }
 
 function render() {
 	route = parseHash();
-	if(route.type === 'loc') renderLocationDetail(route.id);
+	if(route.type === 'loc') renderLocationDetail(route.slug);
 	else renderHome();
 }
 
@@ -573,13 +596,20 @@ useGeoBtn.addEventListener('click', setFromGeo, {
 	passive: true
 });
 categorySel.addEventListener('change', () => {
-	visibleCount = PAGE_STEP;
-	render();
+
+	if(route?.type === 'loc') renderLocationDetail(route.slug);
+	else {
+		visibleCount = PAGE_STEP;
+		render();
+	}
 });
 searchInput.addEventListener('input', debounce(e => {
 	searchQuery = e.target.value || '';
-	visibleCount = PAGE_STEP;
-	render();
+	if(route?.type === 'loc') renderLocationDetail(route.slug);
+	else {
+		visibleCount = PAGE_STEP;
+		render();
+	}
 }, 150), {
 	passive: true
 });

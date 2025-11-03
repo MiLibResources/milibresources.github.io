@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "Name": "Addison Township Public Library",
     "Group": "",
     "URL": "https://www.addisontwp.michlibrary.org/",
@@ -14,7 +13,6 @@
     "gmapaddr": "https://maps.app.goo.gl/kCdosaw4ruQTDHcFA"
   },
   {
-    "id": "2",
     "Name": "Adrian District Library",
     "Group": "",
     "URL": "https://www.adrian.lib.mi.us/",
@@ -28,7 +26,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Xv6bNZmvPxiogXoC7"
   },
   {
-    "id": "3",
     "Name": "Aitkin Memorial District Library",
     "Group": "",
     "URL": "https://croswell-library.com/",
@@ -42,7 +39,6 @@
     "gmapaddr": "https://maps.app.goo.gl/yKQc51NLgCA68FPw9"
   },
   {
-    "id": "4",
     "Name": "Alanson Area Public Library",
     "Group": "",
     "URL": "https://alansonlibrary.org/",
@@ -56,7 +52,6 @@
     "gmapaddr": "https://maps.app.goo.gl/uoG9y2S8DWcpCrTMA"
   },
   {
-    "id": "5",
     "Name": "Albion District Library",
     "Group": "",
     "URL": "https://www.albionlibrary.org/",
@@ -70,7 +65,6 @@
     "gmapaddr": "https://maps.app.goo.gl/WJrHrnnwS5sth6Dw7"
   },
   {
-    "id": "6",
     "Name": "Harrisville Branch",
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
@@ -84,7 +78,6 @@
     "gmapaddr": "https://maps.app.goo.gl/5wm9Z1G56iR8G3kc6"
   },
   {
-    "id": "7",
     "Name": "Caledonia Branch",
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
@@ -98,7 +91,6 @@
     "gmapaddr": "https://maps.app.goo.gl/bttiYYrTfbejN96V9"
   },
   {
-    "id": "8",
     "Name": "Curtis Township Branch",
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
@@ -112,7 +104,6 @@
     "gmapaddr": "https://maps.app.goo.gl/SdDfvm1BXQnk8kHu5"
   },
   {
-    "id": "9",
     "Name": "Lincoln Branch",
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
@@ -126,7 +117,6 @@
     "gmapaddr": "https://maps.app.goo.gl/fEnxBnZxs14F2H4a9"
   },
   {
-    "id": "10",
     "Name": "Mikado Township Library",
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
@@ -140,7 +130,6 @@
     "gmapaddr": "https://maps.app.goo.gl/gyjQMf26J22oCaScA"
   },
   {
-    "id": "11",
     "Name": "Alden District Library",
     "Group": "",
     "URL": "https://www.aldenlib.info/",
@@ -154,7 +143,6 @@
     "gmapaddr": "https://maps.app.goo.gl/nDR1xj9z5U55kHbF8"
   },
   {
-    "id": "12",
     "Name": "Allegan District Library",
     "Group": "",
     "URL": "https://www.alleganlibrary.org/",
@@ -168,7 +156,6 @@
     "gmapaddr": "https://maps.app.goo.gl/U3jfWKTREEpq1ptM9"
   },
   {
-    "id": "13",
     "Name": "Allen Park Public Library",
     "Group": "",
     "URL": "https://allenparklibrary.org/",
@@ -182,7 +169,6 @@
     "gmapaddr": "https://maps.app.goo.gl/n8wLuniT6oJvBBED8"
   },
   {
-    "id": "14",
     "Name": "Allendale Township Library",
     "Group": "",
     "URL": "https://www.allendalelibrary.org/",
@@ -196,7 +182,6 @@
     "gmapaddr": "https://maps.app.goo.gl/sVwSCg2TMYcgD1ru5"
   },
   {
-    "id": "15",
     "Name": "Alma Public Library",
     "Group": "",
     "URL": "https://alma.tlcdelivers.com/",
@@ -210,7 +195,6 @@
     "gmapaddr": "https://maps.app.goo.gl/G26hCaFxK7aSk92u6"
   },
   {
-    "id": "16",
     "Name": "Almont District Library",
     "Group": "",
     "URL": "https://www.adlmi.org/",
@@ -224,7 +208,6 @@
     "gmapaddr": "https://maps.app.goo.gl/uM2eCKBduk7AB5Ce9"
   },
   {
-    "id": "17",
     "Name": "Alpena County Library",
     "Group": "",
     "URL": "https://alpenalibrary.org/",
@@ -238,7 +221,6 @@
     "gmapaddr": "https://maps.app.goo.gl/n2QJ8NyCZRwwtwFs9"
   },
   {
-    "id": "18",
     "Name": "Alvah N. Belding Memorial Library",
     "Group": "",
     "URL": "https://www.alvahnbeldinglibrary.org/",
@@ -252,7 +234,6 @@
     "gmapaddr": "https://maps.app.goo.gl/kXuYReQM61hMTccSA"
   },
   {
-    "id": "19",
     "Name": "Amasa Community Library",
     "Group": "",
     "URL": "https://hematitetownship.org/library.htm",
@@ -266,7 +247,6 @@
     "gmapaddr": "https://maps.app.goo.gl/yrhtxYEqPqNvqvZR6"
   },
   {
-    "id": "20",
     "Name": "Downtown Branch",
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/downtown",
@@ -280,7 +260,6 @@
     "gmapaddr": "https://maps.app.goo.gl/auxQ2MoZ79nrSTLY7"
   },
   {
-    "id": "21",
     "Name": "Malletts Creek Branch",
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/mallettscreek",
@@ -294,7 +273,6 @@
     "gmapaddr": "https://maps.app.goo.gl/YgaRZDPBxk328gJz6"
   },
   {
-    "id": "22",
     "Name": "Pittsfield Branch",
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/pittsfield",
@@ -308,7 +286,6 @@
     "gmapaddr": "https://maps.app.goo.gl/91tnRCNznPHaD7Jn6"
   },
   {
-    "id": "23",
     "Name": "Traverwood Branch",
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/traverwood",
@@ -322,7 +299,6 @@
     "gmapaddr": "https://maps.app.goo.gl/HVRQR5YRXMzh2WZn9"
   },
   {
-    "id": "24",
     "Name": "Westgate Branch",
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/westgate",
@@ -336,7 +312,6 @@
     "gmapaddr": "https://maps.app.goo.gl/DY3VU4Ku3ShJCeWM8"
   },
   {
-    "id": "25",
     "Name": "Armada Free Public Library",
     "Group": "",
     "URL": "https://www.armadalib.org/",
@@ -350,7 +325,6 @@
     "gmapaddr": "https://maps.app.goo.gl/qP4LipGKMzMhHQBV6"
   },
   {
-    "id": "26",
     "Name": "Ashley District Library",
     "Group": "",
     "URL": "https://www.ashleyschools.net/o/acs/page/library",
@@ -364,7 +338,6 @@
     "gmapaddr": "https://maps.app.goo.gl/iPWPhDd7NpfVQjM36"
   },
   {
-    "id": "27",
     "Name": "Athens Community Library",
     "Group": "",
     "URL": "https://www.athenscommunitylibrary.org/",
@@ -378,7 +351,6 @@
     "gmapaddr": "https://maps.app.goo.gl/LA8dtZj7zYvb3dev5"
   },
   {
-    "id": "28",
     "Name": "Auburn Hills Public Library",
     "Group": "",
     "URL": "https://ahplibrary.org/",
@@ -392,7 +364,6 @@
     "gmapaddr": "https://maps.app.goo.gl/VUG8mmekCZuRtQeB9"
   },
   {
-    "id": "29",
     "Name": "Augusta-Ross Township District Library",
     "Group": "",
     "URL": "https://www.mckaylibrary.org/",
@@ -406,7 +377,6 @@
     "gmapaddr": "https://maps.app.goo.gl/LWMc2ayNzFeEc7TV6"
   },
   {
-    "id": "30",
     "Name": "Bacon Memorial District Library",
     "Group": "",
     "URL": "https://www.baconlibrary.org/",
@@ -420,7 +390,6 @@
     "gmapaddr": "https://maps.app.goo.gl/9ZSPDpPGHa6jp55P6"
   },
   {
-    "id": "31",
     "Name": "Bad Axe District Library",
     "Group": "",
     "URL": "https://www.badaxelibrary.org/",
@@ -434,7 +403,6 @@
     "gmapaddr": "https://maps.app.goo.gl/SdoKJ7UCMdAEtGWU8"
   },
   {
-    "id": "32",
     "Name": "Baldwin Public Library",
     "Group": "",
     "URL": "https://www.baldwinlib.org/",
@@ -448,7 +416,6 @@
     "gmapaddr": "https://maps.app.goo.gl/4huwBo8ZPwf2gPjW9"
   },
   {
-    "id": "33",
     "Name": "Barryton Public Library",
     "Group": "Barryton Public Library",
     "URL": "https://www.barrytonlibrary.com/",
@@ -462,7 +429,6 @@
     "gmapaddr": "https://maps.app.goo.gl/y5bgFMvgVVDNnZRNA"
   },
   {
-    "id": "34",
     "Name": "Chippewa Branch",
     "Group": "Barryton Public Library",
     "URL": "https://www.barrytonlibrary.com/",
@@ -476,7 +442,6 @@
     "gmapaddr": "https://maps.app.goo.gl/C764AAtQshWrVYpQ6"
   },
   {
-    "id": "35",
     "Name": "Bath Township Public Library",
     "Group": "",
     "URL": "https://www.bathtownshippubliclibrary.org/",
@@ -490,7 +455,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jaPuFStx2CfHF7zi9"
   },
   {
-    "id": "36",
     "Name": "Alice and Jack Wirt Public Library",
     "Group": "Bay County Library System",
     "URL": "https://www.baycountylibrary.org/about/hours-locations/alice-jack-wirt-public-library",
@@ -504,7 +468,6 @@
     "gmapaddr": "https://maps.app.goo.gl/BKKsr7SpiMNKpd7p9"
   },
   {
-    "id": "37",
     "Name": "Auburn Area Branch",
     "Group": "Bay County Library System",
     "URL": "https://www.baycountylibrary.org/about/hours-locations/auburn-area-branch-library",
@@ -518,7 +481,6 @@
     "gmapaddr": "https://maps.app.goo.gl/E8LPq1tamPu1Dkju9"
   },
   {
-    "id": "38",
     "Name": "Pinconning Branch",
     "Group": "Bay County Library System",
     "URL": "https://www.baycountylibrary.org/about/hours-locations/pinconning-branch-library",
@@ -532,7 +494,6 @@
     "gmapaddr": "https://maps.app.goo.gl/SxZgGHFNbPKwjKR28"
   },
   {
-    "id": "39",
     "Name": "Sage Branch",
     "Group": "Bay County Library System",
     "URL": "https://www.baycountylibrary.org/about/hours-locations/historical-sage-library",
@@ -546,7 +507,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ynqPbykx1gR4d6ic7"
   },
   {
-    "id": "40",
     "Name": "Beaver Island District Library",
     "Group": "",
     "URL": "https://www.beaverisland.michlibrary.org/",
@@ -560,7 +520,6 @@
     "gmapaddr": "https://maps.app.goo.gl/wzgfCZAmgBXEnAPT6"
   },
   {
-    "id": "41",
     "Name": "Bellaire Public Library",
     "Group": "",
     "URL": "https://www.bellairelibrary.org/",
@@ -574,7 +533,6 @@
     "gmapaddr": "https://maps.app.goo.gl/quWPZ6XAqztQVouD6"
   },
   {
-    "id": "42",
     "Name": "Belleville Area District Library",
     "Group": "Belleville Area District Library",
     "URL": "https://www.belleville.lib.mi.us/",
@@ -588,7 +546,6 @@
     "gmapaddr": "https://maps.app.goo.gl/LrCzJc8DWhar23Pf7"
   },
   {
-    "id": "43",
     "Name": "Sumpter Media Center",
     "Group": "Belleville Area District Library",
     "URL": "https://www.belleville.lib.mi.us/",
@@ -602,7 +559,6 @@
     "gmapaddr": "https://maps.app.goo.gl/BSJi9qTACuNxsVpB9"
   },
   {
-    "id": "44",
     "Name": "Bellevue Township Library",
     "Group": "",
     "URL": "https://bellevuetownship.org/library/",
@@ -616,7 +572,6 @@
     "gmapaddr": "https://maps.app.goo.gl/t6UMJXbBdoXcT6M99"
   },
   {
-    "id": "45",
     "Name": "Benton Harbor Public Library",
     "Group": "",
     "URL": "https://www.bentonharborlibrary.com/",
@@ -630,7 +585,6 @@
     "gmapaddr": "https://maps.app.goo.gl/7irdMBsHPNugvR2A8"
   },
   {
-    "id": "46",
     "Name": "Benzie Shores District Library",
     "Group": "",
     "URL": "https://bsdlibrary.org/",
@@ -644,7 +598,6 @@
     "gmapaddr": "https://maps.app.goo.gl/AyrDs5S2iPTRcM4dA"
   },
   {
-    "id": "47",
     "Name": "Benzonia Public Library",
     "Group": "",
     "URL": "https://www.benzonialibrary.org/",
@@ -658,7 +611,6 @@
     "gmapaddr": "https://maps.app.goo.gl/t1zG71phusirBwLP9"
   },
   {
-    "id": "48",
     "Name": "Berkley Public Library",
     "Group": "",
     "URL": "https://www.berkleymi.gov/library",
@@ -672,7 +624,6 @@
     "gmapaddr": "https://maps.app.goo.gl/6G3zVjwMqGsduJKX6"
   },
   {
-    "id": "49",
     "Name": "Berrien Springs Community Library",
     "Group": "",
     "URL": "https://www.bsclibrary.org/",
@@ -686,7 +637,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ZLS2kSgsgdKv8gZM7"
   },
   {
-    "id": "50",
     "Name": "Bessemer Public Library",
     "Group": "",
     "URL": "https://www.bessemerlibrary.com/",
@@ -700,7 +650,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jMamGDGHYpQm9JyZ7"
   },
   {
-    "id": "51",
     "Name": "Betsie Valley District Library",
     "Group": "",
     "URL": "https://www.betsievalleydistrictlibrary.org/",
@@ -714,7 +663,6 @@
     "gmapaddr": "https://maps.app.goo.gl/uRycW4T1tntwChxC9"
   },
   {
-    "id": "52",
     "Name": "Big Rapids Community Library",
     "Group": "",
     "URL": "https://www.bigrapidslibrary.org/",
@@ -728,7 +676,6 @@
     "gmapaddr": "https://maps.app.goo.gl/zBuhGTA92R4Bj6tU7"
   },
   {
-    "id": "53",
     "Name": "Blair Memorial Library",
     "Group": "",
     "URL": "https://www.clawson.lib.mi.us/",
@@ -742,7 +689,6 @@
     "gmapaddr": "https://maps.app.goo.gl/9aMzVfeoJkidAMWT7"
   },
   {
-    "id": "54",
     "Name": "Bloomfield Township Public Library",
     "Group": "",
     "URL": "https://btpl.org/",
@@ -756,7 +702,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ecnHaVmitDCBF5j4A"
   },
   {
-    "id": "55",
     "Name": "Boyne District Library",
     "Group": "Boyne District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -770,7 +715,6 @@
     "gmapaddr": "https://maps.app.goo.gl/N588cv3f93ytfWWU8"
   },
   {
-    "id": "56",
     "Name": "Algansee Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -784,7 +728,6 @@
     "gmapaddr": "https://maps.app.goo.gl/wD1esGuN43gqnW1y7"
   },
   {
-    "id": "57",
     "Name": "Coldwater Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -798,7 +741,6 @@
     "gmapaddr": "https://maps.app.goo.gl/z3mDHu5uLQGpuF8B8"
   },
   {
-    "id": "58",
     "Name": "Bronson Library Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -812,7 +754,6 @@
     "gmapaddr": "https://maps.app.goo.gl/M8ZsUDZxLm2p94aeA"
   },
   {
-    "id": "59",
     "Name": "Quincy Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -826,7 +767,6 @@
     "gmapaddr": "https://maps.app.goo.gl/CokP4Ns8VCXYTSUa6"
   },
   {
-    "id": "60",
     "Name": "Sherwood Library Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -840,7 +780,6 @@
     "gmapaddr": "https://maps.app.goo.gl/sgRC4CC5u2SfabFd7"
   },
   {
-    "id": "61",
     "Name": "Union Township Library Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
@@ -854,7 +793,6 @@
     "gmapaddr": "https://maps.app.goo.gl/JqiVMZWaN8CgxHxe9"
   },
   {
-    "id": "62",
     "Name": "Brandon Township Public Library",
     "Group": "",
     "URL": "https://www.brandonlibrary.org/",
@@ -868,7 +806,6 @@
     "gmapaddr": "https://maps.app.goo.gl/x2qkm9bavkgeJk516"
   },
   {
-    "id": "63",
     "Name": "Bridgeport Public Library",
     "Group": "",
     "URL": "https://www.bridgeportlibrary.org/",
@@ -882,7 +819,6 @@
     "gmapaddr": "https://maps.app.goo.gl/x7JJuBLqnmPMmVDq8"
   },
   {
-    "id": "64",
     "Name": "Bridgman Public Library",
     "Group": "",
     "URL": "https://bridgmanlibrary.com/",
@@ -896,7 +832,6 @@
     "gmapaddr": "https://maps.app.goo.gl/TCQGJTNFrn7SUm8C9"
   },
   {
-    "id": "65",
     "Name": "Briggs District Library",
     "Group": "",
     "URL": "https://www.briggsdistrictlibrary.org/offsite-programs",
@@ -910,7 +845,6 @@
     "gmapaddr": "https://maps.app.goo.gl/t98wnSrFDnbwsf6a6"
   },
   {
-    "id": "66",
     "Name": "Brighton District Library",
     "Group": "",
     "URL": "https://brightonlibrary.info/",
@@ -924,7 +858,6 @@
     "gmapaddr": "https://maps.app.goo.gl/uLiEZTuWRQTaL9Lp9"
   },
   {
-    "id": "67",
     "Name": "Brown City District Library",
     "Group": "",
     "URL": "https://browncitylibrary.com/",
@@ -938,7 +871,6 @@
     "gmapaddr": "https://maps.app.goo.gl/B75dfxD9pLxgvjf7A"
   },
   {
-    "id": "68",
     "Name": "Buchanan District Library",
     "Group": "",
     "URL": "https://www.buchananlibrary.org/",
@@ -952,7 +884,6 @@
     "gmapaddr": "https://maps.app.goo.gl/W9oxmwQfKZKysfp6A"
   },
   {
-    "id": "69",
     "Name": "Bullard Sanford Memorial Library",
     "Group": "",
     "URL": "https://www.vassarlibrary.org/",
@@ -966,7 +897,6 @@
     "gmapaddr": "https://maps.app.goo.gl/gXJY46bL48dDpBpr6"
   },
   {
-    "id": "70",
     "Name": "Burlington Township Library",
     "Group": "",
     "URL": "https://burlingtontownshipcalhouncountymi.com/library-information/",
@@ -980,7 +910,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Vhjp2q1csvJk3CMdA"
   },
   {
-    "id": "71",
     "Name": "Burr Oak Township Library",
     "Group": "",
     "URL": "https://www.burroaklibrary.michlibrary.org/",
@@ -994,7 +923,6 @@
     "gmapaddr": "https://maps.app.goo.gl/rRBV9UWYjxfkvVS89"
   },
   {
-    "id": "72",
     "Name": "Buckley Branch",
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/our-locations-and-hours/buckley-public-library",
@@ -1008,7 +936,6 @@
     "gmapaddr": "https://maps.app.goo.gl/zE5GM3hnRS3TPWwa7"
   },
   {
-    "id": "73",
     "Name": "Cadillac-Wexford County Public Library",
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/our-locations-and-hours/cadillac-wexford-public-library",
@@ -1022,7 +949,6 @@
     "gmapaddr": "https://maps.app.goo.gl/GgMqpQ9EEAFR93RDA"
   },
   {
-    "id": "74",
     "Name": "Manton Public Library",
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/our-locations-and-hours/manton-public-library",
@@ -1036,7 +962,6 @@
     "gmapaddr": "https://maps.app.goo.gl/3MS1KmjQmnpD5gMA8"
   },
   {
-    "id": "75",
     "Name": "Mesick Public Library",
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/our-locations-and-hours/mesick-public-library",
@@ -1050,7 +975,6 @@
     "gmapaddr": "https://maps.app.goo.gl/F7i4sZzvwQLy7fdw8"
   },
   {
-    "id": "76",
     "Name": "Tustin Community Library",
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/about-us/location-hours",
@@ -1064,7 +988,6 @@
     "gmapaddr": "https://maps.app.goo.gl/fhrYLmoX8PuDDuds7"
   },
   {
-    "id": "77",
     "Name": "Calumet Public-School Library",
     "Group": "",
     "URL": "https://www.clkschools.org/library.php",
@@ -1078,7 +1001,6 @@
     "gmapaddr": "https://maps.app.goo.gl/HMQs9ze3MpMCzSkt7"
   },
   {
-    "id": "78",
     "Name": "Camden Township Library",
     "Group": "",
     "URL": "https://www.camdenlibrary.org/",
@@ -1092,7 +1014,6 @@
     "gmapaddr": "https://maps.app.goo.gl/GrhcwoK6AVGxhXnG8"
   },
   {
-    "id": "79",
     "Name": "Canton Public Library",
     "Group": "",
     "URL": "https://www.cantonpl.org/",
@@ -1106,7 +1027,6 @@
     "gmapaddr": "https://maps.app.goo.gl/LTgLDaqrdWJgmAfz7"
   },
   {
-    "id": "80",
     "Name": "Aurelius Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/aurelius",
@@ -1120,7 +1040,6 @@
     "gmapaddr": "https://maps.app.goo.gl/cMi6T4tpKWkyJNRc9"
   },
   {
-    "id": "81",
     "Name": "Dansville Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/dansville",
@@ -1134,7 +1053,6 @@
     "gmapaddr": "https://maps.app.goo.gl/xMPeATFh8JM4MG1u9"
   },
   {
-    "id": "82",
     "Name": "Downtown Lansing Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/downtown-lansing",
@@ -1148,7 +1066,6 @@
     "gmapaddr": "https://maps.app.goo.gl/h1gpvCs4ATno3C2x7"
   },
   {
-    "id": "83",
     "Name": "Foster Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/foster",
@@ -1162,7 +1079,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ybacZ3ey6Bjors7LA"
   },
   {
-    "id": "84",
     "Name": "Haslett Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/haslett",
@@ -1176,7 +1092,6 @@
     "gmapaddr": "https://maps.app.goo.gl/aFoRbEzv3nojpiHi9"
   },
   {
-    "id": "85",
     "Name": "Holt-Delhi Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/holt-delhi",
@@ -1190,7 +1105,6 @@
     "gmapaddr": "https://maps.app.goo.gl/rvSKc4K2w9DvfTX48"
   },
   {
-    "id": "86",
     "Name": "Hope Borbas Okemos Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/okemos",
@@ -1204,7 +1118,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ZGzvx2Ww8XGXYZbC8"
   },
   {
-    "id": "87",
     "Name": "Leslie Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/leslie",
@@ -1218,7 +1131,6 @@
     "gmapaddr": "https://maps.app.goo.gl/zupMvuhtfQaHifw78"
   },
   {
-    "id": "88",
     "Name": "Mason Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/mason",
@@ -1232,7 +1144,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Xb81BpXBik31jLkh6"
   },
   {
-    "id": "89",
     "Name": "South Lansing Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/south-lansing",
@@ -1246,7 +1157,6 @@
     "gmapaddr": "https://maps.app.goo.gl/5hqBPicgQ3yYKJBdA"
   },
   {
-    "id": "90",
     "Name": "Stockbridge Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/stockbridge",
@@ -1260,7 +1170,6 @@
     "gmapaddr": "https://maps.app.goo.gl/7HcbubtWGVsHvJez9"
   },
   {
-    "id": "91",
     "Name": "Webberville Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/webberville",
@@ -1274,7 +1183,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ukZCF44TNzYy4b4U8"
   },
   {
-    "id": "92",
     "Name": "Williamston Branch",
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/williamston",
@@ -1288,7 +1196,6 @@
     "gmapaddr": "https://maps.app.goo.gl/YXnp24sw6j5nW6h49"
   },
   {
-    "id": "93",
     "Name": "Caro Area District Library",
     "Group": "",
     "URL": "https://www.carolibrary.org/",
@@ -1302,7 +1209,6 @@
     "gmapaddr": "https://maps.app.goo.gl/QmTVJgo8Wx88UDQG8"
   },
   {
-    "id": "94",
     "Name": "Carp Lake Township Library",
     "Group": "",
     "URL": "https://superiorlandlibrary.org/libraries/name/carp-lake-township-library/",
@@ -1316,7 +1222,6 @@
     "gmapaddr": "https://maps.app.goo.gl/vjjwwFyHYD82iQwK6"
   },
   {
-    "id": "95",
     "Name": "Carson City Public Library",
     "Group": "Carson City Public Library",
     "URL": "https://www.carsoncity.michlibrary.org/",
@@ -1330,7 +1235,6 @@
     "gmapaddr": "https://maps.app.goo.gl/uZiLkeQ5DzmGir5m6"
   },
   {
-    "id": "96",
     "Name": "Crystal Community Library",
     "Group": "Carson City Public Library",
     "URL": "https://www.carsoncity.michlibrary.org/",
@@ -1344,7 +1248,6 @@
     "gmapaddr": "https://maps.app.goo.gl/9SA2LseWmwwraiq36"
   },
   {
-    "id": "97",
     "Name": "Main Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/main-branch",
@@ -1358,7 +1261,6 @@
     "gmapaddr": "https://maps.app.goo.gl/vQjqYaKsS4MPmT6K8"
   },
   {
-    "id": "98",
     "Name": "Edwardsburg Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/edwardsburg-branch/",
@@ -1372,7 +1274,6 @@
     "gmapaddr": "https://maps.app.goo.gl/7czTjo5nP6McwRBn6"
   },
   {
-    "id": "99",
     "Name": "Howard Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/howard-branch/",
@@ -1386,7 +1287,6 @@
     "gmapaddr": "https://maps.app.goo.gl/VbPzmppkYfjUvi9t9"
   },
   {
-    "id": "100",
     "Name": "Local History Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/local-history-branch/",
@@ -1400,7 +1300,6 @@
     "gmapaddr": "https://maps.app.goo.gl/9Dk69iby7WDSciPe8"
   },
   {
-    "id": "101",
     "Name": "Mason-Union Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/mason-union-branch/",
@@ -1414,7 +1313,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ao7K4pvLXedd4P9p9"
   },
   {
-    "id": "102",
     "Name": "Cedar Springs Public Library",
     "Group": "",
     "URL": "https://www.cedarspringslibrary.org/",
@@ -1428,7 +1326,6 @@
     "gmapaddr": "https://maps.app.goo.gl/m1AmknsLwJhAy2E69"
   },
   {
-    "id": "103",
     "Name": "Center Line Public Library",
     "Group": "",
     "URL": "https://www.centerline.gov/202/Library",
@@ -1442,7 +1339,6 @@
     "gmapaddr": "https://maps.app.goo.gl/YpYs3vrZZhGkdcHs6"
   },
   {
-    "id": "104",
     "Name": "Central Lake District Library",
     "Group": "",
     "URL": "https://www.centrallakelibrary.com/",
@@ -1456,7 +1352,6 @@
     "gmapaddr": "https://maps.app.goo.gl/MDC4xkqas1PftbweA"
   },
   {
-    "id": "105",
     "Name": "Charles A. Ransom District Library",
     "Group": "",
     "URL": "https://www.ransomlibrary.org/",
@@ -1470,7 +1365,6 @@
     "gmapaddr": "https://maps.app.goo.gl/WqbLp99NYwSiBDLn6"
   },
   {
-    "id": "106",
     "Name": "Charlevoix Public Library",
     "Group": "",
     "URL": "https://www.charlevoixlibrary.org/",
@@ -1484,7 +1378,6 @@
     "gmapaddr": "https://maps.app.goo.gl/oP7QqyGyDqybAr217"
   },
   {
-    "id": "107",
     "Name": "Charlotte Community Library",
     "Group": "",
     "URL": "https://charlottelibrary.org/",
@@ -1498,7 +1391,6 @@
     "gmapaddr": "https://maps.app.goo.gl/3R3WWgSPJ4LWvTuS8"
   },
   {
-    "id": "108",
     "Name": "Chase Township Public Library",
     "Group": "",
     "URL": "https://chasetownship.org/library/",
@@ -1512,7 +1404,6 @@
     "gmapaddr": "https://maps.app.goo.gl/iugp4zSHC5hiev348"
   },
   {
-    "id": "109",
     "Name": "Cheboygan Area Public Library",
     "Group": "",
     "URL": "https://cheboyganlibrary.org/",
@@ -1526,7 +1417,6 @@
     "gmapaddr": "https://maps.app.goo.gl/5gVvpXEGUFTyuZhy8"
   },
   {
-    "id": "110",
     "Name": "Chelsea District Library",
     "Group": "",
     "URL": "https://www.chelseadistrictlibrary.org/",
@@ -1540,7 +1430,6 @@
     "gmapaddr": "https://maps.app.goo.gl/K1of49sRifF7Vayi6"
   },
   {
-    "id": "111",
     "Name": "Chesterfield Township Library",
     "Group": "",
     "URL": "https://www.chelibrary.org/",
@@ -1554,7 +1443,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ZzC9EsYNcviNFibB7"
   },
   {
-    "id": "112",
     "Name": "Faith Johnston Memorial Library",
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/faith-johnston-memorial-library",
@@ -1568,7 +1456,6 @@
     "gmapaddr": "https://maps.app.goo.gl/618CEKZyS6Sey2vu6"
   },
   {
-    "id": "113",
     "Name": "Fremont Township Branch",
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/fremont-township-community-library",
@@ -1582,7 +1469,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jZNiCTsv9wdfrFTAA"
   },
   {
-    "id": "114",
     "Name": "Shepherd Community Library",
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/shepherd-community-library",
@@ -1596,7 +1482,6 @@
     "gmapaddr": "https://maps.app.goo.gl/nmfsr9bT3XJjHApg8"
   },
   {
-    "id": "115",
     "Name": "Tate Memorial Library",
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/tate-memorial-library",
@@ -1610,7 +1495,6 @@
     "gmapaddr": "https://maps.app.goo.gl/JnfdrJxaZdUfGGt77"
   },
   {
-    "id": "116",
     "Name": "Veterans Memorial Library",
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/veterans-memorial-library",
@@ -1624,7 +1508,6 @@
     "gmapaddr": "https://maps.app.goo.gl/arMKynGhC6aXwxoB8"
   },
   {
-    "id": "117",
     "Name": "Clarkston Independence District Library",
     "Group": "",
     "URL": "https://www.cidlibrary.org/",
@@ -1638,7 +1521,6 @@
     "gmapaddr": "https://maps.app.goo.gl/rAYaEjFZ9tLfTAq76"
   },
   {
-    "id": "118",
     "Name": "Clinton Township Public Library",
     "Group": "",
     "URL": "https://www.clintontownshiplibrary.org/",
@@ -1652,7 +1534,6 @@
     "gmapaddr": "https://maps.app.goo.gl/WqzxSSaAoL8Ya42v7"
   },
   {
-    "id": "119",
     "Name": "Clinton-Macomb Public Library",
     "Group": "Clinton-Macomb Public Library",
     "URL": "https://cmpl.org/",
@@ -1666,7 +1547,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Y6nXFioLbQVbGBnVA"
   },
   {
-    "id": "120",
     "Name": "North Branch",
     "Group": "Clinton-Macomb Public Library",
     "URL": "https://cmpl.org/",
@@ -1680,7 +1560,6 @@
     "gmapaddr": "https://maps.app.goo.gl/1oxpPmBWzAepchLv5"
   },
   {
-    "id": "121",
     "Name": "South Branch",
     "Group": "Clinton-Macomb Public Library",
     "URL": "https://cmpl.org/",
@@ -1694,7 +1573,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Dxzg4iB1ueNMPFqHA"
   },
   {
-    "id": "122",
     "Name": "Coleman Area Library",
     "Group": "",
     "URL": "https://www.colemanlibrary.org/",
@@ -1708,7 +1586,6 @@
     "gmapaddr": "https://maps.app.goo.gl/wJw6AQeTMwWjww9AA"
   },
   {
-    "id": "123",
     "Name": "Coloma Public Library",
     "Group": "",
     "URL": "https://www.colomapubliclibrary.net/",
@@ -1722,7 +1599,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Anx3XvtBzUkoQdeF6"
   },
   {
-    "id": "124",
     "Name": "Colon Township Library",
     "Group": "",
     "URL": "https://www.colonlibrary.org/",
@@ -1736,7 +1612,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Q1iFpwWXXuj3Vuvt5"
   },
   {
-    "id": "125",
     "Name": "Columbia Township Library",
     "Group": "",
     "URL": "https://columbia.biblionix.com/",
@@ -1750,7 +1625,6 @@
     "gmapaddr": "https://maps.app.goo.gl/G5YUTWs4WxEPnSPW9"
   },
   {
-    "id": "126",
     "Name": "Commerce Township Community Library",
     "Group": "",
     "URL": "https://commercetwp.com/LIBRARY",
@@ -1764,7 +1638,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Xai8chQNDtmGSTP99"
   },
   {
-    "id": "127",
     "Name": "Bentley Memorial Library of Perry",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/perry",
@@ -1778,7 +1651,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ASiMk2TjQ3WJcpET9"
   },
   {
-    "id": "128",
     "Name": "Burns Township/George Vince Library Community Library",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/byron",
@@ -1792,7 +1664,6 @@
     "gmapaddr": "https://maps.app.goo.gl/b2Kk8deu9RvUUQ7D6"
   },
   {
-    "id": "129",
     "Name": "Corunna-Caledonia Township Library",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/corunna",
@@ -1806,7 +1677,6 @@
     "gmapaddr": "https://maps.app.goo.gl/AWFLy3cG8CGbNx498"
   },
   {
-    "id": "130",
     "Name": "New Lothrop School Library",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/new-lothrop",
@@ -1820,7 +1690,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Fr7ACSqDzXQ9XgXc7"
   },
   {
-    "id": "131",
     "Name": "Perkins Library of Lennon",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/lennon",
@@ -1834,7 +1703,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "132",
     "Name": "Perry Township/Morrice Library",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/morrice",
@@ -1848,7 +1716,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "133",
     "Name": "Shiawassee Township Library",
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/bancroft",
@@ -1862,7 +1729,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "134",
     "Name": "Comstock Township Library",
     "Group": "",
     "URL": "https://www.comstocklibrary.org/",
@@ -1876,7 +1742,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "135",
     "Name": "Constantine Township Library",
     "Group": "",
     "URL": "https://www.constantine.michlibrary.org/",
@@ -1890,7 +1755,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "136",
     "Name": "Coopersville Area District Library",
     "Group": "",
     "URL": "https://www.coopersvillelibrary.org/",
@@ -1904,7 +1768,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "137",
     "Name": "Crawford County Library",
     "Group": "Crawford County Library",
     "URL": "https://www.crawfordcolibrary.org/",
@@ -1918,7 +1781,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "138",
     "Name": "Frederic Community Library",
     "Group": "Crawford County Library",
     "URL": "https://www.crawfordcolibrary.org/",
@@ -1932,7 +1794,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "139",
     "Name": "Cromaine District Library",
     "Group": "",
     "URL": "https://www.cromaine.org/",
@@ -1946,7 +1807,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "140",
     "Name": "Boyne Falls Branch",
     "Group": "Crooked Tree District Library",
     "URL": "https://citylibrary.com/public-libraries/crooked-tree-district-library/",
@@ -1960,7 +1820,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "141",
     "Name": "Crooked Tree District Library",
     "Group": "Crooked Tree District Library",
     "URL": "https://citylibrary.com/public-libraries/crooked-tree-district-library/",
@@ -1974,7 +1833,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "142",
     "Name": "Croton Township Library",
     "Group": "",
     "URL": "https://mi-crotonlibrary.org/",
@@ -1988,7 +1846,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "143",
     "Name": "Crystal Falls District Community Library",
     "Group": "",
     "URL": "https://crystalfallslibrary.org/",
@@ -2002,7 +1859,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "144",
     "Name": "Curtis Public Library",
     "Group": "",
     "URL": "https://curtispubliclibrary.org/",
@@ -2016,7 +1872,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "145",
     "Name": "Darcy Library of Beulah",
     "Group": "",
     "URL": "https://www.darcylibraryofbeulah.org/",
@@ -2030,7 +1885,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "146",
     "Name": "Dearborn Heights City Libraries",
     "Group": "Dearborn Heights City Libraries",
     "URL": "https://www.dhlibrary.org/",
@@ -2044,7 +1898,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "147",
     "Name": "John F. Kennedy Jr. Library",
     "Group": "Dearborn Heights City Libraries",
     "URL": "https://www.dhlibrary.org/",
@@ -2058,7 +1911,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "148",
     "Name": "Bryant Branch",
     "Group": "Dearborn Public Library",
     "URL": "https://dearbornlibrary.org/",
@@ -2072,7 +1924,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "149",
     "Name": "Esper Branch",
     "Group": "Dearborn Public Library",
     "URL": "https://dearbornlibrary.org/",
@@ -2086,7 +1937,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "150",
     "Name": "Henry Ford Centennial Library",
     "Group": "Dearborn Public Library",
     "URL": "https://dearbornlibrary.org/",
@@ -2100,7 +1950,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "151",
     "Name": "Deckerville Public Library",
     "Group": "",
     "URL": "https://deckerville.lib.mi.us/",
@@ -2114,7 +1963,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "152",
     "Name": "Delta Township District Library",
     "Group": "",
     "URL": "https://www.dtdl.org/",
@@ -2128,7 +1976,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "153",
     "Name": "Delton District Library",
     "Group": "",
     "URL": "https://www.deltonlib.org/",
@@ -2142,7 +1989,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "154",
     "Name": "Bowen Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/bowen",
@@ -2156,7 +2002,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "155",
     "Name": "Campbell Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/campbell",
@@ -2170,7 +2015,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "156",
     "Name": "Chandler Park Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/chandler",
@@ -2184,7 +2028,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "157",
     "Name": "Chaney Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/chaney",
@@ -2198,7 +2041,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "158",
     "Name": "Chase Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/chase",
@@ -2212,7 +2054,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "159",
     "Name": "Conely Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/conely",
@@ -2226,7 +2067,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "160",
     "Name": "Main Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/main",
@@ -2240,7 +2080,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "161",
     "Name": "Duffield Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/duffield",
@@ -2254,7 +2093,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "162",
     "Name": "Edison Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/edison",
@@ -2268,7 +2106,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "163",
     "Name": "Elmwood Park Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/elmwood",
@@ -2282,7 +2119,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "164",
     "Name": "Franklin Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/franklin",
@@ -2296,7 +2132,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "165",
     "Name": "Frederick Douglass Branch For Specialized Services",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/douglass",
@@ -2310,7 +2145,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "166",
     "Name": "Hubbard Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/hubbard",
@@ -2324,7 +2158,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "167",
     "Name": "Jefferson Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/jefferson",
@@ -2338,7 +2171,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "168",
     "Name": "Knapp Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/knapp",
@@ -2352,7 +2184,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "169",
     "Name": "Lincoln Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/lincoln",
@@ -2366,7 +2197,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "170",
     "Name": "Montieth Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/monteith",
@@ -2380,7 +2210,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "171",
     "Name": "Parkman Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/parkman",
@@ -2394,7 +2223,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "172",
     "Name": "Redford Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/redford",
@@ -2408,7 +2236,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "173",
     "Name": "Sherwood Forest Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/sherwood",
@@ -2422,7 +2249,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "174",
     "Name": "Skillman Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/skillman",
@@ -2436,7 +2262,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "175",
     "Name": "Wilder Branch",
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/wilder",
@@ -2450,7 +2275,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "176",
     "Name": "DeWitt District Library",
     "Group": "",
     "URL": "https://dewittlibrary.org/",
@@ -2464,7 +2288,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "177",
     "Name": "Dexter District Library",
     "Group": "",
     "URL": "https://dexter.lib.mi.us/",
@@ -2478,7 +2301,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "178",
     "Name": "Dickinson County Library",
     "Group": "Dickinson County Library",
     "URL": "https://www.dcl-lib.org/locations-and-hours#MainBranch",
@@ -2492,7 +2314,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "179",
     "Name": "North Dickinson Branch",
     "Group": "Dickinson County Library",
     "URL": "https://www.dcl-lib.org/locations-and-hours#NorthDickinsonBranch",
@@ -2506,7 +2327,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "180",
     "Name": "Solomonson Branch",
     "Group": "Dickinson County Library",
     "URL": "https://www.dcl-lib.org/locations-and-hours#SolomonsonBranch",
@@ -2520,7 +2340,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "181",
     "Name": "Dorothy Hull Library - Windsor Township",
     "Group": "",
     "URL": "https://windsor-township.ploud.net/",
@@ -2534,7 +2353,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "182",
     "Name": "Dorr Township Library",
     "Group": "",
     "URL": "https://www.dorrlibrary.michlibrary.org/",
@@ -2548,7 +2366,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "183",
     "Name": "Dowagiac District Library",
     "Group": "",
     "URL": "https://www.dowagiacdl.org/",
@@ -2562,7 +2379,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "184",
     "Name": "Dowling Public Library",
     "Group": "",
     "URL": "https://dowlinglibrary.com/",
@@ -2576,7 +2392,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "185",
     "Name": "Dryden Township Library",
     "Group": "",
     "URL": "https://www.drydentownshiplibrary.org/",
@@ -2590,7 +2405,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "186",
     "Name": "East Lansing Public Library",
     "Group": "",
     "URL": "https://www.elpl.org/",
@@ -2604,7 +2418,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "187",
     "Name": "Eastpointe Memorial Library",
     "Group": "",
     "URL": "https://www.cityofeastpointe.net/departments/eastpointe_memorial_library/",
@@ -2618,7 +2431,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "188",
     "Name": "Eaton Rapids Area District Library",
     "Group": "",
     "URL": "https://eradl.org/",
@@ -2632,7 +2444,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "189",
     "Name": "Eau Claire District Library",
     "Group": "",
     "URL": "https://eauclairedistrictlibrary.org/",
@@ -2646,7 +2457,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "190",
     "Name": "Ecorse Public Library",
     "Group": "",
     "URL": "https://ecorselibrary.org/",
@@ -2660,7 +2470,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "191",
     "Name": "Elk Rapids District Library",
     "Group": "",
     "URL": "https://www.elkrapidslibrary.org/",
@@ -2674,7 +2483,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "192",
     "Name": "Elk Township Library",
     "Group": "",
     "URL": "https://librarytechnology.org/library/19519",
@@ -2688,7 +2496,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "193",
     "Name": "Elsie Public Library",
     "Group": "",
     "URL": "https://www.elsiepubliclibrary.org/",
@@ -2702,7 +2509,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "194",
     "Name": "Escanaba Public Library",
     "Group": "",
     "URL": "https://escanabalibrary.org/",
@@ -2716,7 +2522,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "195",
     "Name": "Evart Public Library",
     "Group": "",
     "URL": "https://evartlibrary.com/",
@@ -2730,7 +2535,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "196",
     "Name": "Fairgrove District Library",
     "Group": "",
     "URL": "https://www.fairgrove.michlibrary.org/",
@@ -2744,7 +2548,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "197",
     "Name": "Falmouth Area Library",
     "Group": "",
     "URL": "https://falmoutharealibrary.wordpress.com/",
@@ -2758,7 +2561,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "198",
     "Name": "Farmington Branch",
     "Group": "Farmington Community Library",
     "URL": "https://www.farmlib.org/",
@@ -2772,7 +2574,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "199",
     "Name": "Farmington Community Library",
     "Group": "Farmington Community Library",
     "URL": "https://www.farmlib.org/",
@@ -2786,7 +2587,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "200",
     "Name": "Fennville District Library",
     "Group": "",
     "URL": "https://www.fennvilledl.michlibrary.org/",
@@ -2800,7 +2600,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "201",
     "Name": "Ferndale Area District Library",
     "Group": "",
     "URL": "https://www.fadl.org/",
@@ -2814,7 +2613,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "202",
     "Name": "Fife Lake Public Library",
     "Group": "",
     "URL": "https://www.tadl.org/about/fife-lake-public-library",
@@ -2828,7 +2626,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "203",
     "Name": "Flat River Community Library",
     "Group": "",
     "URL": "https://www.flatriverlibrary.org/",
@@ -2842,7 +2639,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "204",
     "Name": "Flat Rock Public Library",
     "Group": "",
     "URL": "https://www.frlib.org/",
@@ -2856,7 +2652,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "205",
     "Name": "Forsyth Township Public Library",
     "Group": "",
     "URL": "https://forsythtwplibrary.org/",
@@ -2870,7 +2665,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "206",
     "Name": "Fowlerville District Library",
     "Group": "",
     "URL": "https://www.fowlervillelibrary.net/",
@@ -2884,7 +2678,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "207",
     "Name": "Frankenmuth James E. Wickson District Library",
     "Group": "",
     "URL": "https://www.wicksonlibrary.org/",
@@ -2898,7 +2691,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "208",
     "Name": "Franklin Public Library",
     "Group": "",
     "URL": "https://www.franklin.lib.mi.us/",
@@ -2912,7 +2704,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "209",
     "Name": "Fraser Public Library",
     "Group": "",
     "URL": "https://www.fraserpubliclibrary.org/",
@@ -2926,7 +2717,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "210",
     "Name": "Freeport District Library",
     "Group": "",
     "URL": "https://www.freeportdl.michlibrary.org/",
@@ -2940,7 +2730,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "211",
     "Name": "Fremont Area District Library",
     "Group": "",
     "URL": "https://www.fremontlibrary.net/",
@@ -2954,7 +2743,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "212",
     "Name": "Fruitport District Library",
     "Group": "",
     "URL": "https://www.fruitportlibrary.org/",
@@ -2968,7 +2756,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "213",
     "Name": "Galesburg-Charleston Memorial District Library",
     "Group": "",
     "URL": "https://www.galesburgcharlestonlibrary.org/",
@@ -2982,7 +2769,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "214",
     "Name": "Galien Township Public Library",
     "Group": "",
     "URL": "https://www.galienpl.org/",
@@ -2996,7 +2782,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "215",
     "Name": "Garden City Public Library",
     "Group": "",
     "URL": "https://www.gardencitylib.org/",
@@ -3010,7 +2795,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "216",
     "Name": "Gary Byker Memorial Library of Hudsonville",
     "Group": "",
     "URL": "https://www.hudsonville.org/directory/library/index.php",
@@ -3024,7 +2808,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "217",
     "Name": "Baker Park Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/baker-park-library/",
@@ -3038,7 +2821,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "218",
     "Name": "Beecher Vera B. Rison Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/beecher-vera-b-rison-library/",
@@ -3052,7 +2834,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "219",
     "Name": "Burton Memorial Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/burton-memorial-library/",
@@ -3066,7 +2847,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "220",
     "Name": "Clio Area Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/clio-area-library/",
@@ -3080,7 +2860,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "221",
     "Name": "Davison Area Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/davison-area-library/",
@@ -3094,7 +2873,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "222",
     "Name": "Fenton-Jack R. Winegarden Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/fenton-winegarden-library/",
@@ -3108,7 +2886,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "223",
     "Name": "Flint Township-McCarty Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/flint-township-mccarty-library/",
@@ -3122,7 +2899,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "224",
     "Name": "Flushing Area Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/flushing-area-library/",
@@ -3136,7 +2912,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "225",
     "Name": "Forest Township Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/forest-township-library/",
@@ -3150,7 +2925,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "226",
     "Name": "Gaines Station Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/gaines-station-library/",
@@ -3164,7 +2938,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "227",
     "Name": "Genesee District Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/",
@@ -3178,7 +2951,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "228",
     "Name": "Genesee Township-Johnson Memorial Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/genesee-johnson-library/",
@@ -3192,7 +2964,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "229",
     "Name": "Genesee Valley Demonstration Location",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/genesee-valley-center-library/",
@@ -3206,7 +2977,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "230",
     "Name": "Goodrich Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/goodrich-library/",
@@ -3220,7 +2990,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "231",
     "Name": "Grand Blanc-McFarlen Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/grand-blanc-mcfarlen-library/",
@@ -3234,7 +3003,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "232",
     "Name": "Linden Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/linden-library/",
@@ -3248,7 +3016,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "233",
     "Name": "Montrose-Jennings Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/montrose-jennings-library/",
@@ -3262,7 +3029,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "234",
     "Name": "Mount Morris Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/mt-morris-library/",
@@ -3276,7 +3042,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "235",
     "Name": "Swartz Creek-Perkins Library",
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/swartz-creek-perkins-library/",
@@ -3290,7 +3055,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "236",
     "Name": "George W. Spindler Memorial Library",
     "Group": "",
     "URL": "https://www.spindler.michlibrary.org/",
@@ -3304,7 +3068,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "237",
     "Name": "Georgetown Township Public Library",
     "Group": "",
     "URL": "https://www.gtwp.com/453/Library",
@@ -3318,7 +3081,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "238",
     "Name": "Gladstone School & Public Library",
     "Group": "",
     "URL": "https://superiorlandlibrary.org/libraries/name/gladstone-school-public-library/",
@@ -3332,7 +3094,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "239",
     "Name": "Beaverton Branch",
     "Group": "Gladwin County District Library",
     "URL": "https://gcdl.org/beaverton-branch/",
@@ -3346,7 +3107,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "240",
     "Name": "Gladwin County District Library",
     "Group": "Gladwin County District Library",
     "URL": "https://gcdl.org/",
@@ -3360,7 +3120,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "241",
     "Name": "Glen Lake Community Library",
     "Group": "",
     "URL": "https://glenlakelibrary.net/",
@@ -3374,7 +3133,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "242",
     "Name": "Gloria Coles Flint Public Library",
     "Group": "",
     "URL": "https://www.fpl.info/",
@@ -3388,7 +3146,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "243",
     "Name": "Goodland Township Library",
     "Group": "",
     "URL": "https://goodlandtownshiplibrary.org/",
@@ -3402,7 +3159,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "244",
     "Name": "Grace A. Dow Memorial Library",
     "Group": "",
     "URL": "https://www.gadml.org/",
@@ -3416,7 +3172,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "245",
     "Name": "Grand Ledge Area District Library",
     "Group": "",
     "URL": "https://gladl.org/",
@@ -3430,7 +3185,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "246",
     "Name": "Grand Rapids Public Library",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/10",
@@ -3444,7 +3198,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "247",
     "Name": "Madison Square Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/11",
@@ -3458,7 +3211,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "248",
     "Name": "Ottawa Hills Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/12",
@@ -3472,7 +3224,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "249",
     "Name": "Seymour Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/13",
@@ -3486,7 +3237,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "250",
     "Name": "Van Belkum Branch at Creston",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/14",
@@ -3500,7 +3250,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "251",
     "Name": "West Leonard Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/15",
@@ -3514,7 +3263,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "252",
     "Name": "West Side Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/16",
@@ -3528,7 +3276,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "253",
     "Name": "Yankee Clipper Branch",
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/17",
@@ -3542,7 +3289,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "254",
     "Name": "Grant Area District Library",
     "Group": "",
     "URL": "https://www.grantlibrary.net/",
@@ -3556,7 +3302,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "255",
     "Name": "Ewald Branch",
     "Group": "Grosse Pointe Public Library",
     "URL": "https://grossepointelibrary.org/ewald-branch",
@@ -3570,7 +3315,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "256",
     "Name": "Grosse Pointe Public Library",
     "Group": "Grosse Pointe Public Library",
     "URL": "https://grossepointelibrary.org/central-library",
@@ -3584,7 +3328,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "257",
     "Name": "Grosse Pointe Woods Public Library",
     "Group": "Grosse Pointe Public Library",
     "URL": "https://grossepointelibrary.org/woods-branch",
@@ -3598,7 +3341,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "258",
     "Name": "Hackley Public Library",
     "Group": "",
     "URL": "https://www.hackleylibrary.org/",
@@ -3612,7 +3354,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "259",
     "Name": "Hamburg Township Library",
     "Group": "",
     "URL": "https://www.hamburglibrary.org/",
@@ -3626,7 +3367,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "260",
     "Name": "Hamtramck Public Library",
     "Group": "",
     "URL": "https://hamtramck.lib.mi.us/",
@@ -3640,7 +3380,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "261",
     "Name": "Harbor Beach Area District Library",
     "Group": "",
     "URL": "https://www.hbadl.org/",
@@ -3654,7 +3393,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "262",
     "Name": "Harper Woods Public Library",
     "Group": "",
     "URL": "https://www.harperwoodslibrary.org/",
@@ -3668,7 +3406,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "263",
     "Name": "Harrison District Library",
     "Group": "",
     "URL": "https://hdl.org/",
@@ -3682,7 +3419,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "264",
     "Name": "Harrison Township Public Library",
     "Group": "",
     "URL": "https://www.htlibrary.org/",
@@ -3696,7 +3432,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "265",
     "Name": "Hart Area Public Library",
     "Group": "",
     "URL": "https://www.hartpubliclibrary.org/",
@@ -3710,7 +3445,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "266",
     "Name": "Hartford Public Library",
     "Group": "",
     "URL": "https://www.hartfordpl.michlibrary.org/",
@@ -3724,7 +3458,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "267",
     "Name": "Hastings Public Library",
     "Group": "",
     "URL": "https://www.hastingspubliclibrary.org/",
@@ -3738,7 +3471,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "268",
     "Name": "Hazel Park Memorial District Library",
     "Group": "",
     "URL": "https://hazel-park.lib.mi.us/",
@@ -3752,7 +3484,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "269",
     "Name": "Henika District Library",
     "Group": "",
     "URL": "https://www.henikalibrary.org/",
@@ -3766,7 +3497,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "270",
     "Name": "Herrick District Library",
     "Group": "Herrick District Library",
     "URL": "https://herrickdl.org/locations/ho/",
@@ -3780,7 +3510,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "271",
     "Name": "North Side Branch",
     "Group": "Herrick District Library",
     "URL": "https://herrickdl.org/locations/hn/",
@@ -3794,7 +3523,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "272",
     "Name": "Hesperia Community Library",
     "Group": "",
     "URL": "https://hesperialibrary.org/",
@@ -3808,7 +3536,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "273",
     "Name": "Highland Township Public Library",
     "Group": "",
     "URL": "https://highlandlibrary.info/",
@@ -3822,7 +3549,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "274",
     "Name": "Hillsdale Community Library",
     "Group": "",
     "URL": "https://hillsdale-library.org/",
@@ -3836,7 +3562,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "275",
     "Name": "Holly Township Library",
     "Group": "",
     "URL": "https://hollylibrary.org/",
@@ -3850,7 +3575,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "276",
     "Name": "Home Township Library",
     "Group": "",
     "URL": "https://www.edmore.llcoop.org/",
@@ -3864,7 +3588,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "277",
     "Name": "Homer Public Library",
     "Group": "",
     "URL": "https://www.homerpl.michlibrary.org/",
@@ -3878,7 +3601,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "278",
     "Name": "Hopkins District Library",
     "Group": "",
     "URL": "https://www.hopkinspl.michlibrary.org/",
@@ -3892,7 +3614,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "279",
     "Name": "Houghton Lake Public Library",
     "Group": "",
     "URL": "https://hlpl.org/",
@@ -3906,7 +3627,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "280",
     "Name": "Howard Miller Library",
     "Group": "",
     "URL": "https://www.hmpl.org/",
@@ -3920,7 +3640,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "281",
     "Name": "Howe Memorial Library",
     "Group": "",
     "URL": "https://www.howemempl.michlibrary.org/",
@@ -3934,7 +3653,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "282",
     "Name": "Howell Carnegie District Library",
     "Group": "",
     "URL": "https://howelllibrary.org/",
@@ -3948,7 +3666,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "283",
     "Name": "Hudson Public Library",
     "Group": "",
     "URL": "https://hudsoncdl.org/",
@@ -3962,7 +3679,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "284",
     "Name": "Huntington Woods Public Library",
     "Group": "",
     "URL": "https://huntingtonwoodslib.org/",
@@ -3976,7 +3692,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "285",
     "Name": "Indian River Area Library",
     "Group": "",
     "URL": "https://www.indianriverlibrary.org/",
@@ -3990,7 +3705,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "286",
     "Name": "Interlochen Public Library",
     "Group": "",
     "URL": "https://interlochenpubliclibrary.org/",
@@ -4004,7 +3718,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "287",
     "Name": "Ionia Community Library",
     "Group": "",
     "URL": "https://www.ioniacommunitylibrary.org/",
@@ -4018,7 +3731,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "288",
     "Name": "Au Gres Community Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/au%20gres.htm",
@@ -4032,7 +3744,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "289",
     "Name": "East Tawas Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/east%20tawas.htm",
@@ -4046,7 +3757,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "290",
     "Name": "Mary Johnston Memorial Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/standish.htm",
@@ -4060,7 +3770,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "291",
     "Name": "Omer Little Eagle`s Nest Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/omer.htm",
@@ -4074,7 +3783,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "292",
     "Name": "Plainfield Township Branch",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/plainfield.htm",
@@ -4088,7 +3796,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "293",
     "Name": "Robert J. Parks Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/oscoda.htm",
@@ -4102,7 +3809,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "294",
     "Name": "Tawas City Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/tawas%20city.htm",
@@ -4116,7 +3822,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "295",
     "Name": "Whittemore Library",
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/whittemore.htm",
@@ -4130,7 +3835,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "296",
     "Name": "Ironwood Carnegie Library",
     "Group": "",
     "URL": "https://ironwoodcarnegie.org/",
@@ -4144,7 +3848,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "297",
     "Name": "Ishpeming Carnegie Public Library",
     "Group": "",
     "URL": "https://ishpeminglibrary.info/",
@@ -4158,7 +3861,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "298",
     "Name": "J. C. Wheeler Public Library",
     "Group": "",
     "URL": "https://www.wheelerpl.michlibrary.org/",
@@ -4172,7 +3874,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "299",
     "Name": "Brooklyn Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/brooklyn-branch",
@@ -4186,7 +3887,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "300",
     "Name": "Concord Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/concord-branch",
@@ -4200,7 +3900,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "301",
     "Name": "Eastern Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/eastern-branch",
@@ -4214,7 +3913,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "302",
     "Name": "Grass Lake Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/grass-lake-branch",
@@ -4228,7 +3926,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "303",
     "Name": "Hanover Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/hanover-branch",
@@ -4242,7 +3939,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "304",
     "Name": "Henrietta Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/henrietta-branch",
@@ -4256,7 +3952,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "305",
     "Name": "Carnegie Library",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/carnegie-library",
@@ -4270,7 +3965,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "306",
     "Name": "Meijer Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/meijer-branch",
@@ -4284,7 +3978,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "307",
     "Name": "Napoleon Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/napoleon-branch",
@@ -4298,7 +3991,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "308",
     "Name": "Parma Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/parma-branch",
@@ -4312,7 +4004,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "309",
     "Name": "Spring Arbor Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/spring-arbor-branch",
@@ -4326,7 +4017,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "310",
     "Name": "Springport Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/springport-branch",
@@ -4340,7 +4030,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "311",
     "Name": "Summit Branch",
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/summit-branch",
@@ -4354,7 +4043,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "312",
     "Name": "Jacquelin E. Opperman Memorial Library",
     "Group": "",
     "URL": "https://www.oppermanmemoriallibrary.com/",
@@ -4368,7 +4056,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "313",
     "Name": "Jonesville District Library",
     "Group": "",
     "URL": "https://jonesvilledistrictlibrary.org/",
@@ -4382,7 +4069,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "314",
     "Name": "Jordan Valley District Library",
     "Group": "",
     "URL": "https://jvdl.info/",
@@ -4396,7 +4082,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "315",
     "Name": "Alma Powell Branch",
     "Group": "Kalamazoo Public Library",
     "URL": "https://www.kpl.gov/alma-powell/",
@@ -4410,7 +4095,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "316",
     "Name": "Eastwood Branch",
     "Group": "Kalamazoo Public Library",
     "URL": "https://www.kpl.gov/eastwood/",
@@ -4424,7 +4108,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "317",
     "Name": "Central Library",
     "Group": "Kalamazoo Public Library",
     "URL": "https://www.kpl.gov/central/",
@@ -4438,7 +4121,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "318",
     "Name": "Oshtemo Branch",
     "Group": "Kalamazoo Public Library",
     "URL": "https://www.kpl.gov/oshtemo/",
@@ -4452,7 +4134,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "319",
     "Name": "Washington Square Branch",
     "Group": "Kalamazoo Public Library",
     "URL": "https://www.kpl.gov/washington-square/",
@@ -4466,7 +4147,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "320",
     "Name": "Kalkaska County Library",
     "Group": "",
     "URL": "https://www.kalkaskalibrary.org/",
@@ -4480,7 +4160,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "321",
     "Name": "Alpine Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/alp/",
@@ -4494,7 +4173,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "322",
     "Name": "Alto Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/alt/",
@@ -4508,7 +4186,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "323",
     "Name": "Amy Van Andel Library (Ada)",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/ada/",
@@ -4522,7 +4199,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "324",
     "Name": "Byron Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/byr/",
@@ -4536,7 +4212,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "325",
     "Name": "Caledonia Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/cal/",
@@ -4550,7 +4225,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "326",
     "Name": "Cascade Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/cas/",
@@ -4564,7 +4238,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "327",
     "Name": "Comstock Park Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/com/",
@@ -4578,7 +4251,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "328",
     "Name": "East Grand Rapids Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/egr/",
@@ -4592,7 +4264,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "329",
     "Name": "Englehardt Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/low/",
@@ -4606,7 +4277,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "330",
     "Name": "Gaines Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/gns/",
@@ -4620,7 +4290,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "331",
     "Name": "Grandville Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/gdv/",
@@ -4634,7 +4303,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "332",
     "Name": "Kelloggsville Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/kel/",
@@ -4648,7 +4316,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "333",
     "Name": "Kentwood Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/kwd/",
@@ -4662,7 +4329,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "334",
     "Name": "Krause Memorial Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/roc/",
@@ -4676,7 +4342,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "335",
     "Name": "Nelson Township/Sand Lake Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/nel/",
@@ -4690,7 +4355,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "336",
     "Name": "Plainfield Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/pfd/",
@@ -4704,7 +4368,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "337",
     "Name": "Spencer Township Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/spe/",
@@ -4718,7 +4381,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "338",
     "Name": "Tyrone Township/Kent City Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/tyr/",
@@ -4732,7 +4394,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "339",
     "Name": "Walker Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/wal/",
@@ -4746,7 +4407,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "340",
     "Name": "Wyoming Branch",
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/wyo/",
@@ -4760,7 +4420,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "341",
     "Name": "L'Anse Area School-Public Library",
     "Group": "",
     "URL": "https://lanseschools.org/district-library.php",
@@ -4774,7 +4433,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "342",
     "Name": "Laingsburg Public Library",
     "Group": "",
     "URL": "https://www.laingsburg.michlibrary.org/",
@@ -4788,7 +4446,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "343",
     "Name": "Lake Linden-Hubbell School/Public Library",
     "Group": "",
     "URL": "https://www.lakelindenschools.org/library.php",
@@ -4802,7 +4459,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "344",
     "Name": "Lake Odessa Community Library",
     "Group": "",
     "URL": "https://www.lakeodessalibrary.org/",
@@ -4816,7 +4472,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "345",
     "Name": "Clifford Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/clifford",
@@ -4830,7 +4485,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "346",
     "Name": "Columbiaville Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/columbiaville",
@@ -4844,7 +4498,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "347",
     "Name": "Elba Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/elba",
@@ -4858,7 +4511,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "348",
     "Name": "Hadley Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/hadley",
@@ -4872,7 +4524,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "349",
     "Name": "Lapeer District Library Admin",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/administration",
@@ -4886,7 +4537,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "350",
     "Name": "Marguerite deAngeli Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/deangeli",
@@ -4900,7 +4550,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "351",
     "Name": "Metamora Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/metamora",
@@ -4914,7 +4563,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "352",
     "Name": "Otter Lake Branch",
     "Group": "Lapeer District Library",
     "URL": "https://www.library.lapeer.org/about/locations/otter-lake",
@@ -4928,7 +4576,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "353",
     "Name": "Lawrence Memorial District Library",
     "Group": "",
     "URL": "https://www.lawrencememorialdistrictlibrary.org/",
@@ -4942,7 +4589,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "354",
     "Name": "Lawton Public Library",
     "Group": "",
     "URL": "https://www.lawtonlibrary.org/",
@@ -4956,7 +4602,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "355",
     "Name": "Leanna Hicks Public Library of Inkster",
     "Group": "",
     "URL": "https://inkster.lib.mi.us/",
@@ -4970,7 +4615,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "356",
     "Name": "Leelanau Township Library",
     "Group": "",
     "URL": "https://www.leelanautownshiplibrary.org/",
@@ -4984,7 +4628,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "357",
     "Name": "Leighton Township Library",
     "Group": "",
     "URL": "https://www.leightonlibrary.org/",
@@ -4998,7 +4641,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "358",
     "Name": "Leland Township Public Library",
     "Group": "",
     "URL": "https://www.lelandlibrary.org/",
@@ -5012,7 +4654,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "359",
     "Name": "Addison Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/addison-branch",
@@ -5026,7 +4667,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "360",
     "Name": "Britton Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/britton-branch",
@@ -5040,7 +4680,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "361",
     "Name": "Clayton Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/clayton-branch",
@@ -5054,7 +4693,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "362",
     "Name": "Deerfield Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/deerfield-branch",
@@ -5068,7 +4706,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "363",
     "Name": "Main Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/main-branch",
@@ -5082,7 +4719,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "364",
     "Name": "Onsted Branch",
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/onsted-branch",
@@ -5096,7 +4732,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "365",
     "Name": "Lenox Township Library",
     "Group": "",
     "URL": "https://www.lenoxlibrary.org/",
@@ -5110,7 +4745,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "366",
     "Name": "LeRoy Community Library",
     "Group": "",
     "URL": "https://www.leroylibrary.org/",
@@ -5124,7 +4758,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "367",
     "Name": "Lincoln Park Public Library",
     "Group": "",
     "URL": "https://www.lincoln-parklibrary.org/",
@@ -5138,7 +4771,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "368",
     "Name": "Lincoln Township Public Library",
     "Group": "",
     "URL": "https://www.lincolntownshiplibrary.org/",
@@ -5152,7 +4784,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "369",
     "Name": "Litchfield District Library",
     "Group": "",
     "URL": "https://www.litchfielddistrictlibrary.org/",
@@ -5166,7 +4797,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "370",
     "Name": "Carl Sandburg Branch",
     "Group": "Livonia Public Library",
     "URL": "https://livoniapubliclibrary.org/hours-locations/#LIVS2",
@@ -5180,7 +4810,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "371",
     "Name": "Civic Center",
     "Group": "Livonia Public Library",
     "URL": "https://livoniapubliclibrary.org/hours-locations#LVCC",
@@ -5194,7 +4823,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "372",
     "Name": "Vest Pocket Library",
     "Group": "Livonia Public Library",
     "URL": "https://livoniapubliclibrary.org/hours-locations#VP",
@@ -5208,7 +4836,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "373",
     "Name": "Lois Wagner Memorial Library",
     "Group": "",
     "URL": "https://www.richmondtwp.org/community/lois_wagner_memorial_library.php",
@@ -5222,7 +4849,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "374",
     "Name": "Loutit District Library",
     "Group": "",
     "URL": "https://www.loutitlibrary.org/",
@@ -5236,7 +4862,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "375",
     "Name": "Luther Area Public Library",
     "Group": "",
     "URL": "https://www.lutherlibrary.michlibrary.org/",
@@ -5250,7 +4875,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "376",
     "Name": "Lyon Township Public Library",
     "Group": "",
     "URL": "https://lyon.lib.mi.us/",
@@ -5264,7 +4888,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "377",
     "Name": "Lyons Township District Library",
     "Group": "",
     "URL": "https://www.lyons.michlibrary.org/",
@@ -5278,7 +4901,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "378",
     "Name": "MacDonald Public Library",
     "Group": "",
     "URL": "https://www.macdonaldlibrary.org/",
@@ -5292,7 +4914,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "379",
     "Name": "Mackinac Island Public Library",
     "Group": "",
     "URL": "https://mackinacislandlibrary.org/",
@@ -5306,7 +4927,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "380",
     "Name": "Bliss Branch",
     "Group": "Mackinaw Area Public Library",
     "URL": "https://mackinawlibrary.org/",
@@ -5320,7 +4940,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "381",
     "Name": "Mackinaw Area Public Library",
     "Group": "Mackinaw Area Public Library",
     "URL": "https://mackinawlibrary.org/",
@@ -5334,7 +4953,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "382",
     "Name": "Pellston Branch",
     "Group": "Mackinaw Area Public Library",
     "URL": "https://mackinawlibrary.org/",
@@ -5348,7 +4966,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "383",
     "Name": "Madison Heights Public Library",
     "Group": "",
     "URL": "https://www.madison-heights.org/library",
@@ -5362,7 +4979,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "384",
     "Name": "Mancelona Township Library",
     "Group": "",
     "URL": "https://www.mancelonatownship.com/amenities/library",
@@ -5376,7 +4992,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "385",
     "Name": "Manchester District Library",
     "Group": "",
     "URL": "https://www.manchesterlibrary.info/",
@@ -5390,7 +5005,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "386",
     "Name": "Arcadia Branch",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/branches-arcadia-branch-library/",
@@ -5404,7 +5018,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "387",
     "Name": "Bear Lake Library",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/branches-keddie-norconk-memorial-library/",
@@ -5418,7 +5031,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "388",
     "Name": "Kaleva Branch",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/branches-kaleva-branch-library/",
@@ -5432,7 +5044,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "389",
     "Name": "Manistee Main Library",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/branches-manistee-library/",
@@ -5446,7 +5057,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "390",
     "Name": "Onekama Branch",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/manistee-library-branches/branches-onekama-branch-library/",
@@ -5460,7 +5070,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "391",
     "Name": "Wellston Branch",
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/manistee-library-branches/branches-wellston-branch-library/",
@@ -5474,7 +5083,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "392",
     "Name": "Manistique School & Public Library",
     "Group": "",
     "URL": "https://www.manistiquelibrary.org/",
@@ -5488,7 +5096,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "393",
     "Name": "Maple Rapids Public Library",
     "Group": "",
     "URL": "https://www.wplc.org/mrpl/",
@@ -5502,7 +5109,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "394",
     "Name": "Marcellus Township Wood Memorial Library",
     "Group": "",
     "URL": "https://www.marcellus.michlibrary.org/",
@@ -5516,7 +5122,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "395",
     "Name": "Marenisco Township Library",
     "Group": "",
     "URL": "",
@@ -5530,7 +5135,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "396",
     "Name": "Marion Area District Library",
     "Group": "",
     "URL": "https://marion-library.org/",
@@ -5544,7 +5148,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "397",
     "Name": "Marlette District Library",
     "Group": "",
     "URL": "https://www.marlettelibrary.org/",
@@ -5558,7 +5161,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "398",
     "Name": "Marshall District Library",
     "Group": "",
     "URL": "https://www.yourmdl.org/",
@@ -5572,7 +5174,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "399",
     "Name": "Mason County District Library",
     "Group": "Mason County District Library",
     "URL": "https://www.masoncounty.lib.mi.us/",
@@ -5586,7 +5187,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "400",
     "Name": "Scottville Library",
     "Group": "Mason County District Library",
     "URL": "https://www.masoncounty.lib.mi.us/",
@@ -5600,7 +5200,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "401",
     "Name": "Maud Preston Palenske Memorial Library",
     "Group": "",
     "URL": "https://www.youseemore.com/maudpreston/default.asp",
@@ -5614,7 +5213,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "402",
     "Name": "Mayville District Public Library",
     "Group": "",
     "URL": "https://www.mayvillelibrary.org/",
@@ -5628,7 +5226,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "403",
     "Name": "McBain Community Library",
     "Group": "",
     "URL": "https://www.mcbain.michlibrary.org/",
@@ -5642,7 +5239,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "404",
     "Name": "McMillan Township Library",
     "Group": "",
     "URL": "https://superiorlandlibrary.org/libraries/name/mcmillan-township-library/",
@@ -5656,7 +5252,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "405",
     "Name": "Melvindale Public Library",
     "Group": "",
     "URL": "https://melvindale.lib.mi.us/",
@@ -5670,7 +5265,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "406",
     "Name": "Mendon Township Library",
     "Group": "",
     "URL": "https://www.mendontownshiplibrary.michlibrary.org/",
@@ -5684,7 +5278,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "407",
     "Name": "Hermansville Branch",
     "Group": "Menominee County Library",
     "URL": "https://www.menomineecountylibrary.org/our-locations-and-hours/hermansville-branch",
@@ -5698,7 +5291,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "408",
     "Name": "Main Branch",
     "Group": "Menominee County Library",
     "URL": "https://www.menomineecountylibrary.org/our-locations-and-hours/your-public-library",
@@ -5712,7 +5304,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "409",
     "Name": "Merrill District Library",
     "Group": "",
     "URL": "https://merrilldistrictlibrary.org/",
@@ -5726,7 +5317,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "410",
     "Name": "Milan Public Library",
     "Group": "",
     "URL": "https://milanlibrary.org/",
@@ -5740,7 +5330,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "411",
     "Name": "Milford Public Library",
     "Group": "",
     "URL": "https://www.milfordlibrary.info/",
@@ -5754,7 +5343,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "412",
     "Name": "Millington Arbela District Library",
     "Group": "",
     "URL": "https://millingtonlibrary.info/",
@@ -5768,7 +5356,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "413",
     "Name": "Missaukee District Library",
     "Group": "",
     "URL": "https://www.missaukeelibrary.org/",
@@ -5782,7 +5369,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "414",
     "Name": "Bedford Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/bedford-branch-library/",
@@ -5796,7 +5382,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "415",
     "Name": "Blue Bush Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/blue-bush-branch-library/",
@@ -5810,7 +5395,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "416",
     "Name": "Carleton Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/carleton-branch-library/",
@@ -5824,7 +5408,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "417",
     "Name": "Dorsch Memorial Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/dorsch-memorial-branch-library/",
@@ -5838,7 +5421,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "418",
     "Name": "Dundee Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/dundee-branch-library/",
@@ -5852,7 +5434,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "419",
     "Name": "Ellis Library and Reference Center",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/ellis-library-reference-center/",
@@ -5866,7 +5447,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "420",
     "Name": "Erie Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/erie-branch-library/",
@@ -5880,7 +5460,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "421",
     "Name": "Frenchtown-Dixie Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/frenchtown-dixie-branch-library/",
@@ -5894,7 +5473,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "422",
     "Name": "Ida Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/ida-branch-library/",
@@ -5908,7 +5486,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "423",
     "Name": "L. S. Navarre Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/l-s-navarre-branch-library/",
@@ -5922,7 +5499,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "424",
     "Name": "Maybee Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/maybee-branch-library/",
@@ -5936,7 +5512,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "425",
     "Name": "Newport Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/newport-branch-library/",
@@ -5950,7 +5525,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "426",
     "Name": "Rasey Memorial Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/rasey-memorial-branch-library/",
@@ -5964,7 +5538,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "427",
     "Name": "Robert A. Vivian Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/robert-a-vivian-branch-library/",
@@ -5978,7 +5551,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "428",
     "Name": "South Rockwood Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/south-rockwood-branch-library/",
@@ -5992,7 +5564,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "429",
     "Name": "Summerfield-Petersburg Branch",
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/summerfield-petersburg-branch-library/",
@@ -6006,7 +5577,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "430",
     "Name": "Hillman Branch",
     "Group": "Montmorency County Public Libraries",
     "URL": "https://montmorencylibrary.com/hillman-branch/",
@@ -6020,7 +5590,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "431",
     "Name": "Lewiston Branch",
     "Group": "Montmorency County Public Libraries",
     "URL": "https://montmorencylibrary.com/lewiston-branch/",
@@ -6034,7 +5603,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "432",
     "Name": "Atlanta Branch",
     "Group": "Montmorency County Public Libraries",
     "URL": "https://montmorencylibrary.com/atlanta-branch/",
@@ -6048,7 +5616,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "433",
     "Name": "Moore Public Library",
     "Group": "",
     "URL": "https://www.moorepubliclibrary.org/",
@@ -6062,7 +5629,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "434",
     "Name": "Morton Township Public Library",
     "Group": "",
     "URL": "https://www.morton.michlibrary.org/",
@@ -6076,7 +5642,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "435",
     "Name": "Mount Clemens Public Library",
     "Group": "",
     "URL": "https://www.mtclib.org/",
@@ -6090,7 +5655,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "436",
     "Name": "Mulliken District Library",
     "Group": "",
     "URL": "https://www.mullikendistrictlibrary.org/",
@@ -6104,7 +5668,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "437",
     "Name": "Munising School Public Library",
     "Group": "",
     "URL": "https://msplonline.org/",
@@ -6118,7 +5681,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "438",
     "Name": "Dalton Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/ud/",
@@ -6132,7 +5694,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "439",
     "Name": "Egelston Township Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/ue/",
@@ -6146,7 +5707,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "440",
     "Name": "Holton Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uh/",
@@ -6160,7 +5720,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "441",
     "Name": "Laketon Township Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/ua/",
@@ -6174,7 +5733,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "442",
     "Name": "Montague Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uo/",
@@ -6188,7 +5746,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "443",
     "Name": "Administration",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/um/",
@@ -6202,7 +5759,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "444",
     "Name": "Muskegon Heights Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uu/",
@@ -6216,7 +5772,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "445",
     "Name": "Muskegon Township Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/ub/",
@@ -6230,7 +5785,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "446",
     "Name": "North Muskegon Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uw/",
@@ -6244,7 +5798,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "447",
     "Name": "Norton Shores Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/un/",
@@ -6258,7 +5811,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "448",
     "Name": "Ravenna Branch",
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uv/",
@@ -6272,7 +5824,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "449",
     "Name": "Negaunee Public Library",
     "Group": "",
     "URL": "https://www.cityofnegaunee.com/negaunee-public-library",
@@ -6286,7 +5837,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "450",
     "Name": "New Buffalo Township Public Library",
     "Group": "",
     "URL": "https://newbuffalotownshiplibrary.org/",
@@ -6300,7 +5850,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "451",
     "Name": "Newaygo Area District Library",
     "Group": "",
     "URL": "https://newaygolibrary.org/",
@@ -6314,7 +5863,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "452",
     "Name": "Niles District Library",
     "Group": "",
     "URL": "https://nileslibrary.com/",
@@ -6328,7 +5876,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "453",
     "Name": "North Adams Community Memorial Library",
     "Group": "",
     "URL": "https://www.northadamscml.michlibrary.org/",
@@ -6342,7 +5889,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "454",
     "Name": "North Branch Township Library",
     "Group": "",
     "URL": "https://northbranch.ploud.net/",
@@ -6356,7 +5902,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "455",
     "Name": "Northfield Township Area Library",
     "Group": "",
     "URL": "https://www.ntal.org/",
@@ -6370,7 +5915,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "456",
     "Name": "Northville District Library",
     "Group": "",
     "URL": "https://northvillelibrary.org/",
@@ -6384,7 +5928,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "457",
     "Name": "Nottawa Township Library",
     "Group": "",
     "URL": "https://www.nottawatownshiplibrary.com/",
@@ -6398,7 +5941,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "458",
     "Name": "Novi Public Library",
     "Group": "",
     "URL": "https://www.novilibrary.org/",
@@ -6412,7 +5954,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "459",
     "Name": "Oak Park Public Library",
     "Group": "",
     "URL": "https://www.oakparkmi.gov/departments/library/index.php",
@@ -6426,7 +5967,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "460",
     "Name": "Ogemaw District Library",
     "Group": "Ogemaw District Library",
     "URL": "https://www.ogemawlibrary.org/",
@@ -6440,7 +5980,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "461",
     "Name": "Ogemaw East Branch",
     "Group": "Ogemaw District Library",
     "URL": "https://www.ogemawlibrary.org/",
@@ -6454,7 +5993,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "462",
     "Name": "Skidway Lake Branch",
     "Group": "Ogemaw District Library",
     "URL": "https://www.ogemawlibrary.org/",
@@ -6468,7 +6006,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "463",
     "Name": "Ontonagon Township Library",
     "Group": "Ontonagon Township Library",
     "URL": "https://ontonagoncounty.org/",
@@ -6482,7 +6019,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "464",
     "Name": "Rockland Township Library",
     "Group": "Ontonagon Township Library",
     "URL": "https://ontonagoncounty.org/",
@@ -6496,7 +6032,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "465",
     "Name": "Orion Township Public Library",
     "Group": "Orion Township Public Library",
     "URL": "https://www.orionlibrary.org/",
@@ -6510,7 +6045,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "466",
     "Name": "Osceola Township School Public Library",
     "Group": "",
     "URL": "https://www.dbschools.us/article/osceola-db-tc-school-library",
@@ -6524,7 +6058,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "467",
     "Name": "Fairview Branch",
     "Group": "Oscoda County District Library",
     "URL": "https://www.oscoda.lib.mi.us/our-locations-and-hours/fairview-branch",
@@ -6538,7 +6071,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "468",
     "Name": "Main Library",
     "Group": "Oscoda County District Library",
     "URL": "https://www.oscoda.lib.mi.us/our-locations-and-hours/your-public-library",
@@ -6552,7 +6084,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "469",
     "Name": "Johannesburg Branch",
     "Group": "Otsego County Library",
     "URL": "https://www.otsego.lib.mi.us/about/johannesburg-branch",
@@ -6566,7 +6097,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "470",
     "Name": "Main Branch",
     "Group": "Otsego County Library",
     "URL": "https://www.otsego.lib.mi.us/about/main-branch",
@@ -6580,7 +6110,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "471",
     "Name": "Vanderbilt Branch",
     "Group": "Otsego County Library",
     "URL": "https://www.otsego.lib.mi.us/about/vanderbilt-branch",
@@ -6594,7 +6123,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "472",
     "Name": "Otsego District Public Library",
     "Group": "",
     "URL": "https://otsegolibrary.org/",
@@ -6608,7 +6136,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "473",
     "Name": "Ovid Public Library",
     "Group": "",
     "URL": "https://ovidpubliclibrary.com/",
@@ -6622,7 +6149,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "474",
     "Name": "Oxford Public Library",
     "Group": "",
     "URL": "https://www.miopl.org/",
@@ -6636,7 +6162,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "475",
     "Name": "Parchment Community Library",
     "Group": "",
     "URL": "https://www.parchmentlibrary.org/",
@@ -6650,7 +6175,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "476",
     "Name": "Pathfinder Community Library",
     "Group": "",
     "URL": "https://www.pathfinderlibrary.org/",
@@ -6664,7 +6188,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "477",
     "Name": "Patmos Library",
     "Group": "",
     "URL": "https://www.patmoslibrary.org/",
@@ -6678,7 +6201,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "478",
     "Name": "Paw Paw District Library",
     "Group": "",
     "URL": "https://www.pawpawlib.org/",
@@ -6692,7 +6214,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "479",
     "Name": "Peninsula Community Library",
     "Group": "",
     "URL": "https://peninsulacommunitylibrary.org/",
@@ -6706,7 +6227,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "480",
     "Name": "Pentwater Township Library",
     "Group": "",
     "URL": "https://www.pentwaterlibrary.org/",
@@ -6720,7 +6240,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "481",
     "Name": "Pere Marquette District Library",
     "Group": "",
     "URL": "https://pmdl.org/",
@@ -6734,7 +6253,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "482",
     "Name": "Peter White Public Library",
     "Group": "",
     "URL": "https://pwpl.info/",
@@ -6748,7 +6266,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "483",
     "Name": "Petoskey District Library",
     "Group": "",
     "URL": "https://www.petoskeylibrary.org/en/index.aspx",
@@ -6762,7 +6279,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "484",
     "Name": "Pigeon District Library",
     "Group": "",
     "URL": "https://www.pigeondistrictlibrary.com/",
@@ -6776,7 +6292,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "485",
     "Name": "Pinckney Community Public Library",
     "Group": "",
     "URL": "https://villageofpinckney.org/library/",
@@ -6790,7 +6305,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "486",
     "Name": "Pittsford Public Library",
     "Group": "",
     "URL": "https://www.townofpittsford.org/library",
@@ -6804,7 +6318,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "487",
     "Name": "Plymouth District Library",
     "Group": "",
     "URL": "https://plymouthlibrary.org/",
@@ -6818,7 +6331,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "488",
     "Name": "Pontiac Public Library",
     "Group": "",
     "URL": "https://pontiaclibrary.org/",
@@ -6832,7 +6344,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "489",
     "Name": "Port Austin Township Library",
     "Group": "",
     "URL": "https://www.portaustinlibrary.org/",
@@ -6846,7 +6357,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "490",
     "Name": "Portage District Library",
     "Group": "",
     "URL": "https://www.portagelibrary.info/",
@@ -6860,7 +6370,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "491",
     "Name": "Hancock School Public Library",
     "Group": "Portage Lake District Library",
     "URL": "https://pldl.org/hancock/",
@@ -6874,7 +6383,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "492",
     "Name": "Portage Lake District Library",
     "Group": "Portage Lake District Library",
     "URL": "https://pldl.org/",
@@ -6888,7 +6396,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "493",
     "Name": "Portland District Library",
     "Group": "",
     "URL": "https://www.pdl.michlibrary.org/",
@@ -6902,7 +6409,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "494",
     "Name": "Potterville-Benton Township District Library",
     "Group": "",
     "URL": "https://www.pottervillelibrary.org/",
@@ -6916,7 +6422,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "495",
     "Name": "Grand Lake Branch",
     "Group": "Presque Isle District Library",
     "URL": "https://pidl.org/grand-lake/",
@@ -6930,7 +6435,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "496",
     "Name": "Millersburg Branch",
     "Group": "Presque Isle District Library",
     "URL": "https://pidl.org/millersburg/",
@@ -6944,7 +6448,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "497",
     "Name": "Onaway Branch",
     "Group": "Presque Isle District Library",
     "URL": "https://pidl.org/onaway/",
@@ -6958,7 +6461,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "498",
     "Name": "Posen Branch",
     "Group": "Presque Isle District Library",
     "URL": "https://pidl.org/posen/",
@@ -6972,7 +6474,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "499",
     "Name": "Presque Isle District Library",
     "Group": "Presque Isle District Library",
     "URL": "https://pidl.org/",
@@ -6986,7 +6487,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "500",
     "Name": "Butman-Fish Branch",
     "Group": "Public Libraries of Saginaw",
     "URL": "https://www.saginawlibrary.org/branch/butman-fish",
@@ -7000,7 +6500,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "501",
     "Name": "Hoyt Main Library",
     "Group": "Public Libraries of Saginaw",
     "URL": "https://www.saginawlibrary.org/branch/hoyt-main",
@@ -7014,7 +6513,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "502",
     "Name": "Rudolph C. Zauel Memorial Library",
     "Group": "Public Libraries of Saginaw",
     "URL": "https://www.saginawlibrary.org/branch/zauel-memorial",
@@ -7028,7 +6526,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "503",
     "Name": "Ruth Brady Wickes Library",
     "Group": "Public Libraries of Saginaw",
     "URL": "https://www.saginawlibrary.org/",
@@ -7042,7 +6539,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "504",
     "Name": "Putnam District Library",
     "Group": "",
     "URL": "https://www.putnamlib.org/",
@@ -7056,7 +6552,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "505",
     "Name": "Rauchholz Memorial Library",
     "Group": "",
     "URL": "https://www.rauchholzlibrary.org/",
@@ -7070,7 +6565,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "506",
     "Name": "Rawson Memorial Library",
     "Group": "",
     "URL": "https://www.rawsonlibrary.org/",
@@ -7084,7 +6578,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "507",
     "Name": "Ray Township Public Library",
     "Group": "",
     "URL": "https://www.raylibrary.org/",
@@ -7098,7 +6591,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "508",
     "Name": "Reading Community Library",
     "Group": "",
     "URL": "https://www.rcl.michlibrary.org/",
@@ -7112,7 +6604,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "509",
     "Name": "Redford Township District Library",
     "Group": "",
     "URL": "https://www.rtdl.org/",
@@ -7126,7 +6617,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "510",
     "Name": "Reed City Public Library",
     "Group": "",
     "URL": "https://www.reedcitylibrary.org/",
@@ -7140,7 +6630,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "511",
     "Name": "Reese Unity District Library",
     "Group": "",
     "URL": "https://www.villageofreese.net/district-library",
@@ -7154,7 +6643,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "512",
     "Name": "Republic-Michigamme Public Library",
     "Group": "",
     "URL": "https://superiorlandlibrary.org/libraries/name/republic-michigamme-school-public-library/",
@@ -7168,7 +6656,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "513",
     "Name": "Richfield Township Public Library",
     "Group": "",
     "URL": "https://www.richfieldtpl.michlibrary.org/",
@@ -7182,7 +6669,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "514",
     "Name": "Richland Community Library",
     "Group": "",
     "URL": "https://www.richlandlibrary.org/",
@@ -7196,7 +6682,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "515",
     "Name": "Richland Township Library",
     "Group": "",
     "URL": "https://richlandtownshiplibrary.com/",
@@ -7210,7 +6695,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "516",
     "Name": "Richmond Township Library",
     "Group": "",
     "URL": "https://richmond.ploud.net/",
@@ -7224,7 +6708,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "517",
     "Name": "River Rapids District Library",
     "Group": "",
     "URL": "https://riverrapidslibrary.org/",
@@ -7238,7 +6721,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "518",
     "Name": "River Rouge Public Library",
     "Group": "",
     "URL": "https://www.river-rouge.lib.mi.us/",
@@ -7252,7 +6734,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "519",
     "Name": "Riverview Veterans Memorial Library",
     "Group": "",
     "URL": "https://riverviewpubliclibrary.com/",
@@ -7266,7 +6747,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "520",
     "Name": "Rochester Hills Public Library",
     "Group": "",
     "URL": "https://www.rhpl.org/",
@@ -7280,7 +6760,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "521",
     "Name": "Kezar Library",
     "Group": "Romeo District Library",
     "URL": "https://romeodistrictlibrary.org/?cat=17",
@@ -7294,7 +6773,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "522",
     "Name": "Romeo District Library",
     "Group": "Romeo District Library",
     "URL": "https://romeodistrictlibrary.org/",
@@ -7308,7 +6786,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "523",
     "Name": "Romulus Public Library",
     "Group": "",
     "URL": "https://www.romuluslibrary.org/",
@@ -7322,7 +6799,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "524",
     "Name": "Lyon Township Branch",
     "Group": "Roscommon Area District Library",
     "URL": "https://roscommonlibrary.org/",
@@ -7336,7 +6812,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "525",
     "Name": "Roscommon Area District Library",
     "Group": "Roscommon Area District Library",
     "URL": "https://roscommonlibrary.org/",
@@ -7350,7 +6825,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "526",
     "Name": "Roseville Public Library",
     "Group": "",
     "URL": "https://rosevillelibrary.org/",
@@ -7364,7 +6838,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "527",
     "Name": "Royal Oak Public Library",
     "Group": "",
     "URL": "https://www.ropl.org/",
@@ -7378,7 +6851,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "528",
     "Name": "Royal Oak Township Public Library",
     "Group": "",
     "URL": "https://www.rotownshippl.michlibrary.org/",
@@ -7392,7 +6864,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "529",
     "Name": "Attica Township Library",
     "Group": "Ruth Hughes Memorial District Library",
     "URL": "https://www.ruthhughes.org/",
@@ -7406,7 +6877,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "530",
     "Name": "Ruth Hughes Memorial District Library",
     "Group": "Ruth Hughes Memorial District Library",
     "URL": "https://www.ruthhughes.org/",
@@ -7420,7 +6890,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "531",
     "Name": "Saint Charles District Library",
     "Group": "",
     "URL": "https://www.stcharlesdistrictlibrary.org/",
@@ -7434,7 +6903,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "532",
     "Name": "Algonac-Clay Township Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/algonac_clay",
@@ -7448,7 +6916,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "533",
     "Name": "Burtchville Township Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/burtchville_township",
@@ -7462,7 +6929,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "534",
     "Name": "Capac Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/capac",
@@ -7476,7 +6942,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "535",
     "Name": "G. Lynn Campbell Township Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/g_lynn_campbell",
@@ -7490,7 +6955,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "536",
     "Name": "Ira Township Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/ira_township",
@@ -7504,7 +6968,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "537",
     "Name": "Marine City Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/marine_city",
@@ -7518,7 +6981,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "538",
     "Name": "Marysville Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/marysville",
@@ -7532,7 +6994,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "539",
     "Name": "Memphis Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/memphis",
@@ -7546,7 +7007,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "540",
     "Name": "Main Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/main_library",
@@ -7560,7 +7020,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "541",
     "Name": "St. Clair Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/st_clair",
@@ -7574,7 +7033,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "542",
     "Name": "Yale Public Library",
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/yale",
@@ -7588,7 +7046,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "543",
     "Name": "Saint Clair Shores Public Library",
     "Group": "",
     "URL": "https://www.scsmi.net/1173/Library",
@@ -7602,7 +7059,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "544",
     "Name": "Saint Ignace Public Library",
     "Group": "",
     "URL": "https://stignacelibrary.org/",
@@ -7616,7 +7072,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "545",
     "Name": "Salem Township Library",
     "Group": "",
     "URL": "https://salemtownshiplibrary.org/",
@@ -7630,7 +7085,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "546",
     "Name": "Salem-South Lyon District Library",
     "Group": "",
     "URL": "https://ssldl.info/",
@@ -7644,7 +7098,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "547",
     "Name": "Saline District Library",
     "Group": "",
     "URL": "https://salinelibrary.org/",
@@ -7658,7 +7111,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "548",
     "Name": "Sandusky District Library",
     "Group": "",
     "URL": "https://www.sandusky.lib.mi.us/",
@@ -7672,7 +7124,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "549",
     "Name": "Sanilac District Library",
     "Group": "",
     "URL": "https://www.sanilacdistrictlibrary.lib.mi.us/",
@@ -7686,7 +7137,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "550",
     "Name": "Clarksville Area Library",
     "Group": "Saranac Clarksville District Library",
     "URL": "https://www.saraclark.michlibrary.org/our-locations-hours/clarksville-library",
@@ -7700,7 +7150,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "551",
     "Name": "Saranac Clarksville District Library",
     "Group": "Saranac Clarksville District Library",
     "URL": "https://www.saraclark.michlibrary.org/our-locations-hours/saranac-library",
@@ -7714,7 +7163,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "552",
     "Name": "Saugatuck-Douglas District Library",
     "Group": "",
     "URL": "https://www.sdlibrary.org/",
@@ -7728,7 +7176,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "553",
     "Name": "Schoolcraft Community Library",
     "Group": "",
     "URL": "https://www.schoolcraftlibrary.org/",
@@ -7742,7 +7189,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "554",
     "Name": "Schultz-Holmes Memorial Library",
     "Group": "",
     "URL": "https://www.blissfieldlibrary.org/",
@@ -7756,7 +7202,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "555",
     "Name": "Sebewaing Township Library",
     "Group": "",
     "URL": "https://sebewaing.ploud.net/",
@@ -7770,7 +7215,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "556",
     "Name": "Seville Township Public Library",
     "Group": "",
     "URL": "https://www.seville.michlibrary.org/",
@@ -7784,7 +7228,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "557",
     "Name": "Shelby Area District Library",
     "Group": "",
     "URL": "https://www.shelbylibrary.org/",
@@ -7798,7 +7241,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "558",
     "Name": "Shelby Township Library",
     "Group": "",
     "URL": "https://www.shelbytwp.org/government/departments/library",
@@ -7812,7 +7254,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "559",
     "Name": "Sherman Township Library",
     "Group": "",
     "URL": "https://shermantwplib.com/",
@@ -7826,7 +7267,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "560",
     "Name": "Durand Memorial Branch",
     "Group": "Shiawassee District Library",
     "URL": "https://www.mysdl.org/durand",
@@ -7840,7 +7280,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "561",
     "Name": "Shiawassee District Library",
     "Group": "Shiawassee District Library",
     "URL": "https://www.mysdl.org/",
@@ -7854,7 +7293,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "562",
     "Name": "Sleeper Public Library",
     "Group": "",
     "URL": "https://www.sleeper.michlibrary.org/",
@@ -7868,7 +7306,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "563",
     "Name": "Sodus Township Library",
     "Group": "",
     "URL": "https://sodustwp.ploud.net/",
@@ -7882,7 +7319,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "564",
     "Name": "Somerset Township Library",
     "Group": "",
     "URL": "https://somersettownship.org/township-library/",
@@ -7896,7 +7332,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "565",
     "Name": "South Haven Memorial Library",
     "Group": "",
     "URL": "https://shmlibrary.org/",
@@ -7910,7 +7345,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "566",
     "Name": "Southfield Public Library",
     "Group": "",
     "URL": "https://southfieldlibrary.org/",
@@ -7924,7 +7358,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "567",
     "Name": "Southgate Veterans Memorial Library",
     "Group": "",
     "URL": "https://www.southgate.lib.mi.us/",
@@ -7938,7 +7371,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "568",
     "Name": "Sparta Carnegie Township Library",
     "Group": "",
     "URL": "https://www.spartalib.org/",
@@ -7952,7 +7384,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "569",
     "Name": "Spies Public Library",
     "Group": "",
     "URL": "https://spiespubliclibrary.org/",
@@ -7966,7 +7397,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "570",
     "Name": "Spring Lake District Library",
     "Group": "",
     "URL": "https://sllib.org/",
@@ -7980,7 +7410,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "571",
     "Name": "Springfield Township Library",
     "Group": "",
     "URL": "https://www.springfield.michlibrary.org/",
@@ -7994,7 +7423,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "572",
     "Name": "Stair District Library",
     "Group": "",
     "URL": "https://www.stairlib.org/",
@@ -8008,7 +7436,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "573",
     "Name": "Sterling Heights Public Library",
     "Group": "",
     "URL": "https://www.sterlingheights.gov/2136/Library",
@@ -8022,7 +7449,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "574",
     "Name": "Sturgis District Library",
     "Group": "",
     "URL": "https://www.sturgis-library.org/",
@@ -8036,7 +7462,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "575",
     "Name": "Sunfield District Library",
     "Group": "",
     "URL": "https://www.sunfieldlibrary.michlibrary.org/",
@@ -8050,7 +7475,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "576",
     "Name": "Brevort Township Community Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/brevort-township-community-library",
@@ -8064,7 +7488,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "577",
     "Name": "Curtis Library",
     "Group": "Superior District Library",
     "URL": "https://curtispubliclibrary.org/",
@@ -8078,7 +7501,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "578",
     "Name": "DeTour Area School and Public Library",
     "Group": "Superior District Library",
     "URL": "https://detour.eupschools.org/page/school-public-library",
@@ -8092,7 +7514,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "579",
     "Name": "Drummond Island Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/drummond-island-public-library",
@@ -8106,7 +7527,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "580",
     "Name": "Engadine Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/engadine-library",
@@ -8120,7 +7540,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "581",
     "Name": "Les Cheneaux Community Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/Les-Cheneax-Community-Library",
@@ -8134,7 +7553,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "582",
     "Name": "Mollie R. Kahl Community Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/mollie-r-kahl-community-library",
@@ -8148,7 +7566,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "583",
     "Name": "Pickford Community Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/pickford-community-library",
@@ -8162,7 +7579,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "584",
     "Name": "Bayliss Public Library",
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/bayliss-public-library",
@@ -8176,7 +7592,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "585",
     "Name": "Surrey Township Public Library",
     "Group": "",
     "URL": "https://stpl.org/",
@@ -8190,7 +7605,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "586",
     "Name": "Suttons Bay-Bingham District Library",
     "Group": "",
     "URL": "https://www.sbbdl.org/",
@@ -8204,7 +7618,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "587",
     "Name": "Tahquamenon Area Public Library",
     "Group": "",
     "URL": "https://tahq.bibliocommons.com/",
@@ -8218,7 +7631,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "588",
     "Name": "Tamarack District Library",
     "Group": "",
     "URL": "https://www.tamaracklibrary.org/",
@@ -8232,7 +7644,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "589",
     "Name": "Taylor Community Library",
     "Group": "",
     "URL": "https://taylor.lib.mi.us/",
@@ -8246,7 +7657,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "590",
     "Name": "Taymouth Township Library",
     "Group": "",
     "URL": "https://www.taymouthtwplibrary.org/",
@@ -8260,7 +7670,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "591",
     "Name": "Tecumseh District Library",
     "Group": "",
     "URL": "https://tecumsehlibrary.org/",
@@ -8274,7 +7683,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "592",
     "Name": "Tekonsha Township Public Library",
     "Group": "",
     "URL": "https://www.tekonlib.michlibrary.org/",
@@ -8288,7 +7696,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "593",
     "Name": "Theodore A. Cutler Memorial Library",
     "Group": "",
     "URL": "https://www.stlouismi.com/residents/library/",
@@ -8302,7 +7709,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "594",
     "Name": "Thomas E. Fleschner Memorial Library",
     "Group": "",
     "URL": "https://www.birchruntwp.com/fleschner-memorial-library",
@@ -8316,7 +7722,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "595",
     "Name": "Thomas Township Library",
     "Group": "",
     "URL": "https://www.thomastownshiplibrary.org/",
@@ -8330,7 +7735,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "596",
     "Name": "Thompson Home Public Library",
     "Group": "",
     "URL": "https://www.ithacami.com/community/thompson-home-public-library/",
@@ -8344,7 +7748,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "597",
     "Name": "Thornapple Kellogg School and Community Library",
     "Group": "",
     "URL": "https://www.tkschools.org/apps/pages/index.jsp?uREC_ID=314357&type=d&pREC_ID=720428",
@@ -8358,7 +7761,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "598",
     "Name": "Three Oaks Township Public Library",
     "Group": "",
     "URL": "https://www.threeoaks.michlibrary.org/",
@@ -8372,7 +7774,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "599",
     "Name": "Three Rivers Public Library",
     "Group": "",
     "URL": "https://www.trpld.org/",
@@ -8386,7 +7787,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "600",
     "Name": "Timothy C. Hauenstein Reynolds Township Library",
     "Group": "",
     "URL": "https://www.tchrtl.org/",
@@ -8400,7 +7800,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "601",
     "Name": "Topinabee Public Library",
     "Group": "",
     "URL": "https://mullett-townshipmi.gov/library/",
@@ -8414,7 +7813,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "602",
     "Name": "East Bay Branch",
     "Group": "Traverse Area District Library",
     "URL": "https://www.tadl.org/about/east-bay-library",
@@ -8428,7 +7826,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "603",
     "Name": "Kingsley Public Library Branch",
     "Group": "Traverse Area District Library",
     "URL": "https://www.tadl.org/about/kingsley-branch-library",
@@ -8442,7 +7839,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "604",
     "Name": "Main Library",
     "Group": "Traverse Area District Library",
     "URL": "https://www.tadl.org/about/main-library-traverse-city",
@@ -8456,7 +7852,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "605",
     "Name": "Trenton Veterans Memorial Library",
     "Group": "",
     "URL": "https://www.trenton.lib.mi.us/",
@@ -8470,7 +7865,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "606",
     "Name": "Troy Public Library",
     "Group": "",
     "URL": "https://troypl.org/",
@@ -8484,7 +7878,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "607",
     "Name": "Utica Public Library",
     "Group": "",
     "URL": "https://www.uticalibrary.com/",
@@ -8498,7 +7891,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "608",
     "Name": "Antwerp Sunshine Library",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/antwerp-sunshine-library/",
@@ -8512,7 +7904,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "609",
     "Name": "Bangor Branch",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/bangor-branch-library/",
@@ -8526,7 +7917,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "610",
     "Name": "Bloomingdale Branch",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/bloomingdale-branch-library/",
@@ -8540,7 +7930,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "611",
     "Name": "Covert Branch",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/covert-branch-library/",
@@ -8554,7 +7943,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "612",
     "Name": "Gobles Branch",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/gobles-branch-library/",
@@ -8568,7 +7956,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "613",
     "Name": "Lawrence Branch Community Library",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/branch-locations/lawrence-branch-library/",
@@ -8582,7 +7969,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "614",
     "Name": "Van Buren District Library",
     "Group": "Van Buren District Library",
     "URL": "https://www.vbdl.org/",
@@ -8596,7 +7982,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "615",
     "Name": "Vermontville Township Library",
     "Group": "",
     "URL": "https://www.vmtlib.michlibrary.org/",
@@ -8610,7 +7995,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "616",
     "Name": "Vernon District Public Library",
     "Group": "",
     "URL": "https://www.vernon.michlibrary.org/",
@@ -8624,7 +8008,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "617",
     "Name": "Vicksburg District Library",
     "Group": "",
     "URL": "https://www.vicksburglibrary.org/",
@@ -8638,7 +8021,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "618",
     "Name": "Wakefield Public Library",
     "Group": "",
     "URL": "https://wakefieldpubliclibrary.org/",
@@ -8652,7 +8034,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "619",
     "Name": "Waldron District Library",
     "Group": "",
     "URL": "",
@@ -8666,7 +8047,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "620",
     "Name": "Walkerville Public/School Library",
     "Group": "",
     "URL": "https://walkervillewildcats.com/our-school/library/",
@@ -8680,7 +8060,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "621",
     "Name": "Walled Lake City Library",
     "Group": "",
     "URL": "https://walledlake.ploud.net/",
@@ -8694,7 +8073,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "622",
     "Name": "Walton Erickson Public Library",
     "Group": "",
     "URL": "https://www.morleystanwood.org/staff-links/walton-erickson-library/",
@@ -8708,7 +8086,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "623",
     "Name": "Arthur J. Miller Branch",
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/miller-branch/",
@@ -8722,7 +8099,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "624",
     "Name": "Civic Center Library",
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/civic-center-library/",
@@ -8736,7 +8112,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "625",
     "Name": "Dorothy M. Busch Branch",
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/busch-branch/",
@@ -8750,7 +8125,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "626",
     "Name": "Maybelle Burnette Branch",
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/burnette-branch/",
@@ -8764,7 +8138,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "627",
     "Name": "Waterford Township Public Library",
     "Group": "",
     "URL": "https://www.waterfordmi.gov/1328/Library",
@@ -8778,7 +8151,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "628",
     "Name": "Watertown Township Library",
     "Group": "",
     "URL": "https://watertowntwplibrary.wixsite.com/watertownlibrary",
@@ -8792,7 +8164,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "629",
     "Name": "Watervliet District Library",
     "Group": "",
     "URL": "https://www.watervlietlibrary.net/",
@@ -8806,7 +8177,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "630",
     "Name": "Wayne Public Library",
     "Group": "",
     "URL": "https://www.wayne.lib.mi.us/",
@@ -8820,7 +8190,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "631",
     "Name": "West Bloomfield Township Public Library",
     "Group": "West Bloomfield Township Public Library",
     "URL": "https://wblib.org/branch/main-library/",
@@ -8834,7 +8203,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "632",
     "Name": "Westacres Branch",
     "Group": "West Bloomfield Township Public Library",
     "URL": "https://wblib.org/branch/westacres-branch/",
@@ -8848,7 +8216,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "633",
     "Name": "West Branch District Library",
     "Group": "",
     "URL": "https://www.westbranchlibrary.org/",
@@ -8862,7 +8229,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "634",
     "Name": "West Iron District Library",
     "Group": "",
     "URL": "https://westironlib.org/",
@@ -8876,7 +8242,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "635",
     "Name": "Wheatland Township Library",
     "Group": "",
     "URL": "https://www.remus.org/library",
@@ -8890,7 +8255,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "636",
     "Name": "White Cloud Community Library",
     "Group": "",
     "URL": "https://www.whitecloudlibrary.org/",
@@ -8904,7 +8268,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "637",
     "Name": "White Lake Community Library",
     "Group": "",
     "URL": "https://www.wlclib.org/",
@@ -8918,7 +8281,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "638",
     "Name": "White Lake Township Library",
     "Group": "",
     "URL": "https://whitelakelibrary.org/",
@@ -8932,7 +8294,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "639",
     "Name": "White Pigeon Township Library",
     "Group": "",
     "URL": "https://www.whitepigeonlibrary.org/",
@@ -8946,7 +8307,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "640",
     "Name": "White Pine District Library",
     "Group": "",
     "URL": "https://whitepinelibrary.org/",
@@ -8960,7 +8320,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "641",
     "Name": "Whitefish Township Community Library",
     "Group": "",
     "URL": "https://whitefishtownshiplibrary.org/",
@@ -8974,7 +8333,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "642",
     "Name": "Helen Warner Branch",
     "Group": "Willard Public Library",
     "URL": "https://willardlibrary.org/",
@@ -8988,7 +8346,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "643",
     "Name": "Willard Public Library",
     "Group": "Willard Public Library",
     "URL": "https://willardlibrary.org/",
@@ -9002,7 +8359,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "644",
     "Name": "William P. Faust Public Library of Westland",
     "Group": "",
     "URL": "https://westlandlibrary.org/",
@@ -9016,7 +8372,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "645",
     "Name": "Wixom Public Library",
     "Group": "",
     "URL": "https://www.wixomlibrary.org/",
@@ -9030,7 +8385,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "646",
     "Name": "Wolverine Community Library",
     "Group": "",
     "URL": "https://www.wolverinecl.michlibrary.org/",
@@ -9044,7 +8398,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "647",
     "Name": "Whittaker Branch",
     "Group": "Ypsilanti District Library",
     "URL": "https://www.ypsilibrary.org/about/visit/locations-hours/ydl-whittaker/",
@@ -9058,7 +8411,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "648",
     "Name": "Michigan Avenue Branch",
     "Group": "Ypsilanti District Library",
     "URL": "https://www.ypsilibrary.org/about/visit/locations-hours/ydl-michigan/",
@@ -9072,7 +8424,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "649",
     "Name": "Superior Branch",
     "Group": "Ypsilanti District Library",
     "URL": "https://www.ypsilibrary.org/about/visit/locations-hours/ydl-superior/",
@@ -9086,7 +8437,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "650",
     "Name": "Charles V. Park Library",
     "Group": "Central Michigan University",
     "URL": "https://www.cmich.edu/research/cmu-library/about/location-hours-facilities",
@@ -9100,7 +8450,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "651",
     "Name": "Halle Library",
     "Group": "Eastern Michigan University",
     "URL": "https://www.emich.edu/library/",
@@ -9114,7 +8463,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "652",
     "Name": "FLITE Library",
     "Group": "Ferris State University",
     "URL": "https://www.ferris.edu/library/homepage.htm",
@@ -9128,7 +8476,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "653",
     "Name": "Steelcase Library",
     "Group": "Grand Valley State University",
     "URL": "https://www.gvsu.edu/library/steelcase-library-29.htm",
@@ -9142,7 +8489,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "654",
     "Name": "Frey Foundation Library and Learning Commons",
     "Group": "Grand Valley State University",
     "URL": "https://www.gvsu.edu/library/frey-foundation-library-and-learning-commons-14.htm",
@@ -9156,7 +8502,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "655",
     "Name": "Mary Idema Pew Library",
     "Group": "Grand Valley State University",
     "URL": "https://www.gvsu.edu/library/mary-idema-pew-library-21.htm",
@@ -9170,7 +8515,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "656",
     "Name": "Kenneth J. Shouldice Library",
     "Group": "Lake Superior State University",
     "URL": "https://www.lssu.edu/resources/about-lssu/contact-lssu/library/",
@@ -9184,7 +8528,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "657",
     "Name": "Main Library",
     "Group": "Michigan State University",
     "URL": "https://lib.msu.edu/",
@@ -9198,7 +8541,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "658",
     "Name": "Van Pelt and Opie Library",
     "Group": "Michigan Tech",
     "URL": "https://www.mtu.edu/library/",
@@ -9212,7 +8554,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "659",
     "Name": "Lydia M. Olson Library",
     "Group": "Northern Michigan University",
     "URL": "https://lib.nmu.edu/",
@@ -9226,7 +8567,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "660",
     "Name": "Kresge Library",
     "Group": "Oakland University",
     "URL": "https://library.oakland.edu/",
@@ -9240,7 +8580,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "661",
     "Name": "Melvin J. Zahnow Library",
     "Group": "Saginaw Valley State University",
     "URL": "https://www.svsu.edu/library/",
@@ -9254,7 +8593,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "662",
     "Name": "Hatcher Library",
     "Group": "University of Michigan",
     "URL": "https://www.lib.umich.edu/locations-and-hours/hatcher-library",
@@ -9268,7 +8606,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "663",
     "Name": "Shapiro Undergraduate Library",
     "Group": "University of Michigan",
     "URL": "https://www.lib.umich.edu/locations-and-hours/shapiro-library",
@@ -9282,7 +8619,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "664",
     "Name": "Mardigian Library",
     "Group": "University of Michigan Dearborn",
     "URL": "https://library.umd.umich.edu/",
@@ -9296,7 +8632,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "665",
     "Name": "Frances Willson Thompson Library",
     "Group": "University of Michigan Flint",
     "URL": "https://libguides.umflint.edu/library",
@@ -9310,7 +8645,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "666",
     "Name": "Purdy-Kresge Library",
     "Group": "Wayne State University",
     "URL": "https://library.wayne.edu/pk/",
@@ -9324,7 +8658,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "667",
     "Name": "Undergraduate Library",
     "Group": "Wayne State University",
     "URL": "https://library.wayne.edu/ugl/",
@@ -9338,7 +8671,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "668",
     "Name": "Waldo Library",
     "Group": "Western Michigan University",
     "URL": "https://wmich.edu/library/visit/waldo",
@@ -9352,7 +8684,6 @@
     "gmapaddr": ""
   },
   {
-    "id": "669",
     "Name": "Downtown Campus LRC",
     "Group": "Wayne Community College District",
     "URL": "https://www.wcccd.edu/learning-resource-centers",
@@ -9366,7 +8697,6 @@
     "gmapaddr": "https://maps.app.goo.gl/xVfqtw37ntQedvXv9"
   },
   {
-    "id": "670",
     "Name": "Downriver Campus LRC",
     "Group": "Wayne Community College District",
     "URL": "https://www.wcccd.edu/learning-resource-centers",
@@ -9380,7 +8710,6 @@
     "gmapaddr": "https://maps.app.goo.gl/hsXYviqhRqcpf1DN7"
   },
   {
-    "id": "671",
     "Name": "Eastern Campus LRC",
     "Group": "Wayne Community College District",
     "URL": "https://www.wcccd.edu/learning-resource-centers",
@@ -9394,7 +8723,6 @@
     "gmapaddr": "https://maps.app.goo.gl/AMR2yEEft9k8XgbDA"
   },
   {
-    "id": "672",
     "Name": "Eshleman Library",
     "Group": "Henry Ford College",
     "URL": "https://www.hfcc.edu/library",
@@ -9408,7 +8736,6 @@
     "gmapaddr": "https://maps.app.goo.gl/czJ73P46SvDy8XUT7"
   },
   {
-    "id": "673",
     "Name": "Bradner Library",
     "Group": "Schoolcraft College",
     "URL": "https://www.schoolcraft.edu/lss/library/",
@@ -9422,7 +8749,6 @@
     "gmapaddr": "https://maps.app.goo.gl/3qbK5oQjcMQfXjpb6"
   },
   {
-    "id": "674",
     "Name": "South Campus Library",
     "Group": "Macomb Community College",
     "URL": "https://www.macomb.edu/student-resources/library/index.html",
@@ -9436,7 +8762,6 @@
     "gmapaddr": "https://maps.app.goo.gl/pBVU753QXK74cVpj6"
   },
   {
-    "id": "675",
     "Name": "Center Campus Library",
     "Group": "Macomb Community College",
     "URL": "https://www.macomb.edu/student-resources/library/index.html",
@@ -9450,7 +8775,6 @@
     "gmapaddr": "https://maps.app.goo.gl/wmg5EY8o6ZBgXqMQ9"
   },
   {
-    "id": "676",
     "Name": "Auburn Hills Campus Library",
     "Group": "Oakland Community College",
     "URL": "https://libguides.oaklandcc.edu/about/auburn-hills",
@@ -9464,7 +8788,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jZhNe3c5G6cdt9CR7"
   },
   {
-    "id": "677",
     "Name": "Highland Lakes Campus Library",
     "Group": "Oakland Community College",
     "URL": "https://libguides.oaklandcc.edu/about/highland-lakes",
@@ -9478,7 +8801,6 @@
     "gmapaddr": "https://maps.app.goo.gl/zEfqRh8T6bqUkD4NA"
   },
   {
-    "id": "678",
     "Name": "Orchard Ridge Campus Library",
     "Group": "Oakland Community College",
     "URL": "https://libguides.oaklandcc.edu/about/orchard-ridge",
@@ -9492,7 +8814,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ZWEPgKWXbRQkZcvj6"
   },
   {
-    "id": "679",
     "Name": "Royal Oak Campus Library",
     "Group": "Oakland Community College",
     "URL": "https://libguides.oaklandcc.edu/about/royal-oak",
@@ -9506,7 +8827,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jUhZApbY4HZZDWHf7"
   },
   {
-    "id": "680",
     "Name": "Southfield Resource Room",
     "Group": "Oakland Community College",
     "URL": "https://libguides.oaklandcc.edu/about/southfield",
@@ -9520,7 +8840,6 @@
     "gmapaddr": "https://maps.app.goo.gl/9MjsQjbLkxfnknvd6"
   },
   {
-    "id": "681",
     "Name": "Bailey Library",
     "Group": "Washtenaw Community College",
     "URL": "https://www.wccnet.edu/library/",
@@ -9534,7 +8853,6 @@
     "gmapaddr": "https://maps.app.goo.gl/LQZBhGwZnCxjsUnX8"
   },
   {
-    "id": "682",
     "Name": "Campbell Academic Center",
     "Group": "Monroe County Community College",
     "URL": "https://www.monroeccc.edu/library/hours",
@@ -9548,7 +8866,6 @@
     "gmapaddr": "https://maps.app.goo.gl/nwy5Pi1gLfzMf2Wn8"
   },
   {
-    "id": "683",
     "Name": "St. Clair County Community College",
     "Group": "",
     "URL": "https://esearch.sc4.edu/location_hours",
@@ -9562,7 +8879,6 @@
     "gmapaddr": "https://maps.app.goo.gl/knaUx5hACU55WyFe7"
   },
   {
-    "id": "684",
     "Name": "Mott Community College",
     "Group": "",
     "URL": "https://www.mcc.edu/library/library-hours.shtml",
@@ -9576,7 +8892,6 @@
     "gmapaddr": "https://maps.app.goo.gl/KvqzGoUWfKNkArno9"
   },
   {
-    "id": "685",
     "Name": "Jackson College",
     "Group": "",
     "URL": "https://www.jccmi.edu/services-support/library/hours/",
@@ -9590,7 +8905,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Jwr3917pSMpmupfq9"
   },
   {
-    "id": "686",
     "Name": "Lansing Community College",
     "Group": "",
     "URL": "https://www.lcc.edu/library/",
@@ -9604,7 +8918,6 @@
     "gmapaddr": "https://maps.app.goo.gl/jouEo6KwmiJC4TU26"
   },
   {
-    "id": "687",
     "Name": "Delta College",
     "Group": "",
     "URL": "https://library.delta.edu/home",
@@ -9618,7 +8931,6 @@
     "gmapaddr": "https://maps.app.goo.gl/N8tTZoodYdiCqG5B9"
   },
   {
-    "id": "688",
     "Name": "Morris Library",
     "Group": "Kellogg Community College",
     "URL": "https://guides.kellogg.edu/Information",
@@ -9632,7 +8944,6 @@
     "gmapaddr": "https://maps.app.goo.gl/JiJShyfFZJpW3uzT8"
   },
   {
-    "id": "689",
     "Name": "Montcalm Community College",
     "Group": "",
     "URL": "https://www.montcalm.edu/sub-header/campus-life/student-resources/library/",
@@ -9646,7 +8957,6 @@
     "gmapaddr": "https://maps.app.goo.gl/FjdKdViD2uVb1yAy9"
   },
   {
-    "id": "690",
     "Name": "Glen Oaks Community College",
     "Group": "",
     "URL": "https://www.glenoaks.edu/services/learning-commons/library-services/",
@@ -9660,7 +8970,6 @@
     "gmapaddr": "https://maps.app.goo.gl/MEpMi7ugVuEL7SpY9"
   },
   {
-    "id": "691",
     "Name": "Texas Township Library",
     "Group": "Kalamazoo Valley Community College",
     "URL": "https://www.kvcc.edu/library/",
@@ -9674,7 +8983,6 @@
     "gmapaddr": "https://maps.app.goo.gl/UeG9baR2NeHkLZap7"
   },
   {
-    "id": "692",
     "Name": "Arcadia Commons Library",
     "Group": "Kalamazoo Valley Community College",
     "URL": "https://www.kvcc.edu/library/",
@@ -9688,7 +8996,6 @@
     "gmapaddr": "https://maps.app.goo.gl/AVXw4EpXSaFvLgFW9"
   },
   {
-    "id": "693",
     "Name": "Grand Rapids Community College",
     "Group": "",
     "URL": "https://www.grcc.edu/students-resources/library-learning-commons",
@@ -9702,7 +9009,6 @@
     "gmapaddr": "https://maps.app.goo.gl/3kDvj7JokFMtJwbn7"
   },
   {
-    "id": "694",
     "Name": "Harrison Campus Library",
     "Group": "Mid-Michigan College",
     "URL": "https://midmich.edu/services/lls/library/",
@@ -9716,7 +9022,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Fy3eenybUUfz33sF8"
   },
   {
-    "id": "695",
     "Name": "Mt. Pleasant Campus Library",
     "Group": "Mid-Michigan College",
     "URL": "https://midmich.edu/services/lls/library/",
@@ -9730,7 +9035,6 @@
     "gmapaddr": "https://maps.app.goo.gl/6ZsdMxFL8P1pjhde9"
   },
   {
-    "id": "696",
     "Name": "Fred L. Mathews Library",
     "Group": "Southwestern Michigan College",
     "URL": "https://www.swmich.edu/life-at-smc/student-services/fred-l-mathews-library/",
@@ -9744,7 +9048,6 @@
     "gmapaddr": "https://maps.app.goo.gl/wexLvJCDzPbPZVMcA"
   },
   {
-    "id": "697",
     "Name": "Hendrik Meijer Library",
     "Group": "Muskegon Community College",
     "URL": "https://www.muskegoncc.edu/facilities/hendrik-meijer-library/",
@@ -9758,7 +9061,6 @@
     "gmapaddr": "https://maps.app.goo.gl/1h49rdGmmieTsko18"
   },
   {
-    "id": "698",
     "Name": "William Hessel Library",
     "Group": "Lake Michigan College",
     "URL": "https://www.lakemichigancollege.edu/student-life/library",
@@ -9772,7 +9074,6 @@
     "gmapaddr": "https://maps.app.goo.gl/oLWRbn418Ekk1og87"
   },
   {
-    "id": "699",
     "Name": "Kirtland Community College",
     "Group": "",
     "URL": "https://www.kirtland.edu/library/",
@@ -9786,7 +9087,6 @@
     "gmapaddr": "https://maps.app.goo.gl/woULZWW1y9DCkwrt8"
   },
   {
-    "id": "700",
     "Name": "Stephen H. Fletcher Library",
     "Group": "Alpena Community College",
     "URL": "https://discover.alpenacc.edu/admissions/current_students/library_services.php",
@@ -9800,7 +9100,6 @@
     "gmapaddr": "https://maps.app.goo.gl/3BHaRHLfNbnMLSzk8"
   },
   {
-    "id": "701",
     "Name": "William M. Anderson Library",
     "Group": "West Shore Community College",
     "URL": "https://www.westshore.edu/library/",
@@ -9814,7 +9113,6 @@
     "gmapaddr": "https://maps.app.goo.gl/Ge329tfAmBRZyHfz8"
   },
   {
-    "id": "702",
     "Name": "Northwestern Michigan College",
     "Group": "",
     "URL": "https://www.nmc.edu/library/",
@@ -9828,7 +9126,6 @@
     "gmapaddr": "https://maps.app.goo.gl/nkuRtHEzBb9vJFAG8"
   },
   {
-    "id": "703",
     "Name": "North Central Michigan College",
     "Group": "",
     "URL": "https://www.ncmich.edu/academics/library.html",
@@ -9842,7 +9139,6 @@
     "gmapaddr": "https://maps.app.goo.gl/ountw3jL7TNSE5ZZ9"
   },
   {
-    "id": "704",
     "Name": "Bay Mills Community College",
     "Group": "",
     "URL": "https://bmcc.edu/community/library.html",
@@ -9856,7 +9152,6 @@
     "gmapaddr": "https://maps.app.goo.gl/TUzM3JvKqXsgj9L66"
   },
   {
-    "id": "705",
     "Name": "Bay College",
     "Group": "",
     "URL": "https://library.baycollege.edu/",
@@ -9870,7 +9165,6 @@
     "gmapaddr": "https://maps.app.goo.gl/RdeWeoLt3PhUTaMP8"
   },
   {
-    "id": "706",
     "Name": "Keweenaw Bay Ojibwa Community College",
     "Group": "",
     "URL": "https://www.kbocc.edu/students/library/",
@@ -9884,7 +9178,6 @@
     "gmapaddr": "https://maps.app.goo.gl/sE5pXRwR4P64wJGQ7"
   },
   {
-    "id": "707",
     "Name": "Gogebic Community College",
     "Group": "",
     "URL": "https://www.gogebic.edu/studentlife/library/index.html",
