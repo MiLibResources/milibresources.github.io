@@ -604,11 +604,18 @@ function renderLocationDetail(slug) {
 		'<a class="backlink" href="#" onclick="goHome(); return false;">← Back</a>' +
 		'<article class="card">' +
 		'<div class="name-row"><h3>' + displayName + '</h3></div>' +
-		(locDesc ? ('<p>' + esc(locDesc) + '</p>') : '') +
+		(locDesc ? ('<div class="desc-html">' + locDesc + '</div>') : '') +
 		(addrStr ? ('<p class="muted"><a href="' + esc(locMapLink) + '" target="_blank" rel="noopener">' + esc(addrStr) + '</a></p>') : '') +
 		'</article>' +
 		'<h2 class="section-title">Nearest' + (categorySel.value !== '__ALL__' ? (' ' + esc(categorySel.value)) : '') + ' resources' + ' to ' + baseName + '</h2>';
 	contentEl.appendChild(header);
+	var descEl = header.querySelector && header.querySelector('.desc-html');
+	if (descEl) {
+	  var as = descEl.querySelectorAll('a');
+	  Array.prototype.forEach.call(as, function(a){
+	    if (!a.getAttribute('rel')) a.setAttribute('rel', 'noopener');
+	  });
+	}
 
 	const listWrap = document.createElement('section');
 	listWrap.className = 'results';
