@@ -607,7 +607,7 @@ function renderLocationDetail(slug) {
 		(locDesc ? ('<p>' + esc(locDesc) + '</p>') : '') +
 		(addrStr ? ('<p class="muted"><a href="' + esc(locMapLink) + '" target="_blank" rel="noopener">' + esc(addrStr) + '</a></p>') : '') +
 		'</article>' +
-		'<h2 class="section-title">10 nearest resources' + (categorySel.value !== '__ALL__' ? (' in “' + esc(categorySel.value) + '”') : '') + '</h2>';
+		'<h2 class="section-title">Nearest' + (categorySel.value !== '__ALL__' ? (' ' + esc(categorySel.value)) : '') + ' resources' + ' to ' + baseName + '</h2>';
 	contentEl.appendChild(header);
 
 	const listWrap = document.createElement('section');
