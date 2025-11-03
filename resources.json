@@ -1,118 +1,109 @@
 [
   {
-    "parent id": "[1]",
-    "name": "Little Caesars",
-    "description": "This is a little caesars",
-    "URL": "https://littlecaesars.com/en-us/store/28",
+    "name": "Brown Evangelistic Ministries",
+    "description": "Provides a food pantry. Serves the Cass Corridor neighborhood which is bounded by I-75 at the southern end, Wayne State University to the north, Woodward to the east and 3rd Street to the west. Documentation required: If picking up food for children, bring some form of ID for each child in the household (birth certificate, report card, Social Security card).",
+    "URL": "https://www.foodpantries.org/li/brown_evangelistic_ministries_48201",
     "category": "food",
-    "address": "8801 W Nine Mile Rd",
-    "city": "Oak Park",
+    "address": "4311 3rd St.",
+    "city": "Detroit",
     "state": "MI",
-    "zip": "48237",
-    "lat": "42.459755",
-    "lon": "-83.2378007",
-    "gmapaddr": "https://maps.app.goo.gl/PDSBcgMyx5JEQhsk7"
+    "zip": "48201",
+    "lat": "42.349893",
+    "lon": "-83.06878",
+    "gmapaddr": "https://maps.app.goo.gl/kWxeqMW6YL6XVXWt6"
   },
   {
-    "parent id": "[2]",
-    "name": "Test resource 2",
-    "description": "This is a test description",
-    "URL": "https://google.com",
+    "name": "St. Patrick Senior Center Food Programs",
+    "description": "St. Patrick Senior Center is Detroit’s largest health and wellness hub for people over 55. We offer nutritious meals, health programs, an on-site clinic, transportation, technology training, exercise and dance classes, benefits assistance, in-home services, respite care, fun activities, home delivery of essentials, and more.",
+    "URL": "https://stpatsrctr.org/",
+    "category": "food",
+    "address": "58 Parsons St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48201",
+    "lat": "42.348487",
+    "lon": "-83.05981",
+    "gmapaddr": "https://maps.app.goo.gl/pSEqTtAWoBEAzRzT6"
+  },
+  {
+    "name": "COTS Detroit",
+    "description": "COTS is one of the largest providers of hous­ing to home­less fam­i­lies in the City of Detroit — shel­ter­ing more than 100 home­less chil­dren night­ly. COTS pro­vides emer­gen­cy shel­ter for fam­i­lies, sup­port­ive ser­vices, mobil­i­ty coach­ing through our Pass­port to Self-Suf­fi­cien­cy, child care, long-term hous­ing and safe tran­si­tion­al hous­ing for fam­i­lies.",
+    "URL": "https://cotsdetroit.org/need-help/",
     "category": "shelter",
-    "address": "500 WOODWARD AVE",
-    "city": "DETROIT",
+    "address": "26 Peterboro",
+    "city": "Detroit",
     "state": "MI",
-    "zip": "48226-3417",
-    "lat": "42.330074",
-    "lon": "-83.044944",
-    "gmapaddr": ""
+    "zip": "48201",
+    "lat": "42.34529",
+    "lon": "-83.057587",
+    "gmapaddr": "https://maps.app.goo.gl/sEMSQeBSgeiLnyyS7"
   },
   {
-    "parent id": "[3]",
-    "name": "Test resource 3",
-    "description": "This is a test description",
-    "URL": "https://google.com",
-    "category": "health",
-    "address": "2800 W BUELL RD",
-    "city": "OAKLAND",
+    "name": "Peggy's Place",
+    "description": "A family-only emergency shelter, Peggy's Place, offers welcoming and inclusive emergency support for families They help through the provision of shelter, meals, child care, mobility coaching, and more.",
+    "URL": "https://nextdoor.com/pages/peggys-place-detroit-mi/",
+    "category": "shelter",
+    "address": "16630 Wyoming Ave",
+    "city": "Detroit",
     "state": "MI",
-    "zip": "48363-2116",
-    "lat": "42.755021",
-    "lon": "-83.192596",
-    "gmapaddr": ""
+    "zip": "48221",
+    "lat": "42.414204",
+    "lon": "-83.159552",
+    "gmapaddr": "https://maps.app.goo.gl/rMoJMjJRYaVihbvA6"
   },
   {
-    "parent id": "[4]",
-    "name": "Test resource 4",
-    "description": "This is a test description",
-    "URL": "https://google.com",
-    "category": "financial",
-    "address": "2300 GRAEFIELD DR",
-    "city": "TROY",
-    "state": "MI",
-    "zip": "48084-26ND",
-    "lat": "42.47127",
-    "lon": "-83.115058",
-    "gmapaddr": ""
-  },
-  {
-    "parent id": "[5]",
-    "name": "Test resource 5",
-    "description": "This is a test description",
-    "URL": "https://google.com",
-    "category": "educational",
-    "address": "33801 OAKWOOD DR",
-    "city": "STERLING HEIGHTS",
-    "state": "MI",
-    "zip": "48312-6903",
-    "lat": "42.543692",
-    "lon": "-82.993524",
-    "gmapaddr": ""
-  },
-  {
-    "parent id": "[1,2]",
-    "name": "Test resource 6",
-    "description": "This is a test description",
-    "URL": "https://google.com",
+    "name": "Detroit Parent Network",
+    "description": "A network of parents working to build and engage parents and others to ensure every child has a champion",
+    "URL": "https://www.detroitparentnetwork.com/",
     "category": "childcare",
-    "address": "31325 TAMARACK ST",
-    "city": "WIXOM",
+    "address": "726 Lothrop Rd",
+    "city": "Detroit",
     "state": "MI",
-    "zip": "48393-2522",
-    "lat": "42.525942",
-    "lon": "-83.52233",
-    "gmapaddr": ""
+    "zip": "48202",
+    "lat": "42.369812",
+    "lon": "-83.079595",
+    "gmapaddr": "https://maps.app.goo.gl/tCSB68jXGegHKneP9"
   },
   {
-    "parent id": "[1,3]",
-    "name": "Test resource 7",
-    "description": "This is a test description",
-    "URL": "https://google.com",
-    "category": "food",
-    "address": "29700 INDUSTRIAL RD",
-    "city": "LIVONIA",
+    "name": "Metropolitan Detroit Diaper Bank ",
+    "description": "The MDDB delivers to babies, children, disabled youth, teens, women and community elders in need. We are building a sustainable, cost effective infrastructure for connecting and supporting vulnerable citizens in neighborhoods throughout Metropolitan Detroit.",
+    "URL": "https://www.detroitdiaperbank.com/diapers/",
+    "category": "childcare",
+    "address": "3434 Chene St. #7546",
+    "city": "Detroit",
     "state": "MI",
-    "zip": "48150-2016",
-    "lat": "42.380897",
-    "lon": "-83.336842",
-    "gmapaddr": ""
+    "zip": "48207",
+    "lat": "42.35446",
+    "lon": "-83.032975",
+    "gmapaddr": "https://maps.app.goo.gl/eU2EHf1jVQQVUHo46"
   },
   {
-    "parent id": "[1,4]",
-    "name": "Test resource 8",
-    "description": "This is a test description",
-    "URL": "https://google.com",
+    "name": "First Step",
+    "description": "First Step is a non-profit agency providing comprehensive services for survivors of domestic and sexual violence.",
+    "URL": "https://www.firststep-mi.org/",
     "category": "shelter",
-    "address": "6201 BUXTON DR",
-    "city": "WEST BLOOMFIELD",
+    "address": "4400 S. Venoy",
+    "city": "Wayne",
     "state": "MI",
-    "zip": "48322-2349",
-    "lat": "42.547431",
-    "lon": "-83.356198",
-    "gmapaddr": ""
+    "zip": "48184",
+    "lat": "42.275397",
+    "lon": "-83.364563",
+    "gmapaddr": "https://maps.app.goo.gl/6ipzupCuUqvyux8A6"
   },
   {
-    "parent id": "[1,5]",
+    "name": "Brightmoor Free Store",
+    "description": "At the Brightmoor Free Store, we provide new and gently used clothing, household goods, linens and towels, books, toys, personal care items, diapers and much more. Everyone is welcome; everything is freely given.",
+    "URL": "https://rbidetroit.org/brightmoor-free-store/",
+    "category": "giveaway",
+    "address": "12065 Outer Dr W",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48223",
+    "lat": "42.390427",
+    "lon": "-83.255769",
+    "gmapaddr": "https://maps.app.goo.gl/qbLqbjNuGn37h1BXA"
+  },
+  {
     "name": "Test resource 9",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -126,7 +117,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[2,3]",
     "name": "Test resource 10",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -140,7 +130,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[2,4]",
     "name": "Test resource 11",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -154,7 +143,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[2,5]",
     "name": "Test resource 12",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -168,7 +156,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[3,4]",
     "name": "Test resource 13",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -182,7 +169,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[3,5]",
     "name": "Test resource 14",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -196,7 +182,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[4,5]",
     "name": "Test resource 15",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -210,7 +195,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[1,2,3]",
     "name": "Test resource 16",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -224,7 +208,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[2,3,4]",
     "name": "Test resource 17",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -238,7 +221,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[3,4,5]",
     "name": "Test resource 18",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -252,7 +234,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[1,2,4]",
     "name": "Test resource 19",
     "description": "This is a test description",
     "URL": "https://google.com",
@@ -266,7 +247,6 @@
     "gmapaddr": ""
   },
   {
-    "parent id": "[2,3,5]",
     "name": "Test resource 20",
     "description": "This is a test description",
     "URL": "https://google.com",
