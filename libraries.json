@@ -89,8 +89,8 @@
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1499 HUBERT ROAD",
-    "City": "HUBBARD LAKE",
+    "Address": "1499 Hubert Road",
+    "City": "Hubbard Lake",
     "State": "MI",
     "Zip": "49747-0056",
     "lat": "44.859067",
@@ -117,8 +117,8 @@
     "Group": "Alcona County Library",
     "URL": "https://library.alcona.lib.mi.us/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "330 E TRAVERSE BAY ROAD",
-    "City": "LINCOLN",
+    "Address": "330 E Traverse Bay Road",
+    "City": "Lincoln",
     "State": "MI",
     "Zip": "48742-0115",
     "lat": "44.681498",
@@ -327,7 +327,7 @@
     "Group": "Ann Arbor District Library",
     "URL": "https://aadl.org/aboutus/westgate",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2503 JACKSON AVE",
+    "Address": "2503 Jackson Ave",
     "City": "Ann Arbor",
     "State": "MI",
     "Zip": "48103-3818",
@@ -495,7 +495,7 @@
     "Group": "Bay County Library System",
     "URL": "https://www.baycountylibrary.org/about/hours-locations/alice-jack-wirt-public-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "500 CENTER AVENUE",
+    "Address": "500 Center Avenue",
     "City": "Bay City",
     "State": "MI",
     "Zip": "48708",
@@ -529,7 +529,7 @@
     "Zip": "48650",
     "lat": "43.856349",
     "lon": "-83.961115",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/SxZgGHFNbPKwjKR28"
   },
   {
     "id": "39",
@@ -543,7 +543,7 @@
     "Zip": "48706-4597",
     "lat": "43.603319",
     "lon": "-84.06875",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ynqPbykx1gR4d6ic7"
   },
   {
     "id": "40",
@@ -557,7 +557,7 @@
     "Zip": "49782-0246",
     "lat": "45.746835",
     "lon": "-85.530716",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/wzgfCZAmgBXEnAPT6"
   },
   {
     "id": "41",
@@ -571,7 +571,7 @@
     "Zip": "49615-0477",
     "lat": "44.975187",
     "lon": "-85.210171",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/quWPZ6XAqztQVouD6"
   },
   {
     "id": "42",
@@ -585,7 +585,7 @@
     "Zip": "48111",
     "lat": "42.207397",
     "lon": "-83.490991",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/LrCzJc8DWhar23Pf7"
   },
   {
     "id": "43",
@@ -599,7 +599,7 @@
     "Zip": "48111",
     "lat": "42.131928",
     "lon": "-83.481405",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/BSJi9qTACuNxsVpB9"
   },
   {
     "id": "44",
@@ -607,13 +607,13 @@
     "Group": "",
     "URL": "https://bellevuetownship.org/library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "212 NORTH MAIN STREET",
+    "Address": "212 North Main Street",
     "City": "Bellevue",
     "State": "MI",
     "Zip": "49021-1234",
     "lat": "42.444928",
     "lon": "-85.018267",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/t6UMJXbBdoXcT6M99"
   },
   {
     "id": "45",
@@ -627,7 +627,7 @@
     "Zip": "49022-4499",
     "lat": "42.1156",
     "lon": "-86.453561",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/7irdMBsHPNugvR2A8"
   },
   {
     "id": "46",
@@ -641,7 +641,7 @@
     "Zip": "49635-0631",
     "lat": "44.63225",
     "lon": "-86.234666",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/AyrDs5S2iPTRcM4dA"
   },
   {
     "id": "47",
@@ -649,13 +649,13 @@
     "Group": "",
     "URL": "https://www.benzonialibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "891 MICHIGAN AVENUE",
+    "Address": "891 Michigan Avenue",
     "City": "Benzonia",
     "State": "MI",
     "Zip": "49616",
     "lat": "44.619111",
     "lon": "-86.09867",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/t1zG71phusirBwLP9"
   },
   {
     "id": "48",
@@ -669,7 +669,7 @@
     "Zip": "48072-1689",
     "lat": "42.501044",
     "lon": "-83.18419",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/6G3zVjwMqGsduJKX6"
   },
   {
     "id": "49",
@@ -683,7 +683,7 @@
     "Zip": "49103-1077",
     "lat": "41.948691",
     "lon": "-86.341328",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ZLS2kSgsgdKv8gZM7"
   },
   {
     "id": "50",
@@ -697,7 +697,7 @@
     "Zip": "49911-1596",
     "lat": "46.478436",
     "lon": "-90.050219",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/jMamGDGHYpQm9JyZ7"
   },
   {
     "id": "51",
@@ -711,7 +711,7 @@
     "Zip": "49683-0185",
     "lat": "44.519732",
     "lon": "-85.943272",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/uRycW4T1tntwChxC9"
   },
   {
     "id": "52",
@@ -719,13 +719,13 @@
     "Group": "",
     "URL": "https://www.bigrapidslibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "426 SOUTH MICHIGAN AVENUE",
+    "Address": "426 South Michigan Avenue",
     "City": "Big Rapids",
     "State": "MI",
     "Zip": "49307-2016",
     "lat": "43.694054",
     "lon": "-85.481785",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/zBuhGTA92R4Bj6tU7"
   },
   {
     "id": "53",
@@ -739,7 +739,7 @@
     "Zip": "48017-1599",
     "lat": "42.536827",
     "lon": "-83.146041",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/9aMzVfeoJkidAMWT7"
   },
   {
     "id": "54",
@@ -753,7 +753,7 @@
     "Zip": "48302-2410",
     "lat": "42.565282",
     "lon": "-83.281767",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ecnHaVmitDCBF5j4A"
   },
   {
     "id": "55",
@@ -767,7 +767,7 @@
     "Zip": "49712-1380",
     "lat": "45.211856",
     "lon": "-85.013311",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/N588cv3f93ytfWWU8"
   },
   {
     "id": "56",
@@ -775,17 +775,17 @@
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "580 SOUTH RAY QUINCY ROAD",
+    "Address": "580 South Ray Quincy Road",
     "City": "Quincy",
     "State": "MI",
     "Zip": "49082-9530",
     "lat": "41.831481",
     "lon": "-84.88185",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/wD1esGuN43gqnW1y7"
   },
   {
     "id": "57",
-    "Name": "Branch District Library",
+    "Name": "Coldwater Branch",
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
@@ -795,7 +795,7 @@
     "Zip": "49036-1615",
     "lat": "41.940175",
     "lon": "-85.000203",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/z3mDHu5uLQGpuF8B8"
   },
   {
     "id": "58",
@@ -809,7 +809,7 @@
     "Zip": "49028-1308",
     "lat": "41.87349",
     "lon": "-85.194989",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/M8ZsUDZxLm2p94aeA"
   },
   {
     "id": "59",
@@ -817,13 +817,13 @@
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "11 NORTH MAIN STREET",
+    "Address": "11 North Main Street",
     "City": "Quincy",
     "State": "MI",
     "Zip": "49082-1163",
     "lat": "41.944924",
     "lon": "-84.884296",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/CokP4Ns8VCXYTSUa6"
   },
   {
     "id": "60",
@@ -831,13 +831,13 @@
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "118 SHERMAN STREET",
+    "Address": "118 Sherman Street",
     "City": "Sherwood",
     "State": "MI",
     "Zip": "49089-9801",
     "lat": "42.00031",
     "lon": "-85.238831",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/sgRC4CC5u2SfabFd7"
   },
   {
     "id": "61",
@@ -845,13 +845,13 @@
     "Group": "Branch District Library",
     "URL": "https://www.boynelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "195 N. BROADWAY",
+    "Address": "195 N. Broadway",
     "City": "Union City",
     "State": "MI",
     "Zip": "49094-1153",
     "lat": "42.066298",
     "lon": "-85.134737",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/JqiVMZWaN8CgxHxe9"
   },
   {
     "id": "62",
@@ -865,7 +865,7 @@
     "Zip": "48462-8636",
     "lat": "42.84831",
     "lon": "-83.44904",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/x2qkm9bavkgeJk516"
   },
   {
     "id": "63",
@@ -879,7 +879,7 @@
     "Zip": "48601-5662",
     "lat": "43.373207",
     "lon": "-83.907507",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/x7JJuBLqnmPMmVDq8"
   },
   {
     "id": "64",
@@ -893,7 +893,7 @@
     "Zip": "49106-9510",
     "lat": "41.943075",
     "lon": "-86.560216",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/TCQGJTNFrn7SUm8C9"
   },
   {
     "id": "65",
@@ -907,7 +907,7 @@
     "Zip": "48879-1533",
     "lat": "43.004594",
     "lon": "-84.557973",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/t98wnSrFDnbwsf6a6"
   },
   {
     "id": "66",
@@ -921,7 +921,7 @@
     "Zip": "48116-4328",
     "lat": "42.540852",
     "lon": "-83.791459",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/uLiEZTuWRQTaL9Lp9"
   },
   {
     "id": "67",
@@ -935,7 +935,7 @@
     "Zip": "48416-0058",
     "lat": "43.212327",
     "lon": "-82.988417",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/B75dfxD9pLxgvjf7A"
   },
   {
     "id": "68",
@@ -949,7 +949,7 @@
     "Zip": "49085",
     "lat": "41.827506",
     "lon": "-86.360712",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/W9oxmwQfKZKysfp6A"
   },
   {
     "id": "69",
@@ -963,7 +963,7 @@
     "Zip": "48768-1244",
     "lat": "43.372452",
     "lon": "-83.588061",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/gXJY46bL48dDpBpr6"
   },
   {
     "id": "70",
@@ -977,7 +977,7 @@
     "Zip": "49029-0039",
     "lat": "42.105931",
     "lon": "-85.078469",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Vhjp2q1csvJk3CMdA"
   },
   {
     "id": "71",
@@ -991,7 +991,7 @@
     "Zip": "49030-0309",
     "lat": "41.846214",
     "lon": "-85.316767",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/rRBV9UWYjxfkvVS89"
   },
   {
     "id": "72",
@@ -999,13 +999,13 @@
     "Group": "Cadillac-Wexford County Public Library",
     "URL": "https://www.cadillaclibrary.org/our-locations-and-hours/buckley-public-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "305 S. 1ST STREET",
+    "Address": "305 S. 1st Street",
     "City": "Buckley",
     "State": "MI",
     "Zip": "49620-9526",
     "lat": "44.505984",
     "lon": "-85.677007",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/zE5GM3hnRS3TPWwa7"
   },
   {
     "id": "73",
@@ -1019,7 +1019,7 @@
     "Zip": "49601-2101",
     "lat": "44.246663",
     "lon": "-85.499101",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/GgMqpQ9EEAFR93RDA"
   },
   {
     "id": "74",
@@ -1033,7 +1033,7 @@
     "Zip": "49663-9156",
     "lat": "44.338167",
     "lon": "-85.214585",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/3MS1KmjQmnpD5gMA8"
   },
   {
     "id": "75",
@@ -1047,7 +1047,7 @@
     "Zip": "49668-0208",
     "lat": "44.405545",
     "lon": "-85.713346",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/F7i4sZzvwQLy7fdw8"
   },
   {
     "id": "76",
@@ -1061,7 +1061,7 @@
     "Zip": "49688-0227",
     "lat": "44.105368",
     "lon": "-85.458813",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/fhrYLmoX8PuDDuds7"
   },
   {
     "id": "77",
@@ -1075,7 +1075,7 @@
     "Zip": "49913-1799",
     "lat": "47.241954",
     "lon": "-88.449844",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/HMQs9ze3MpMCzSkt7"
   },
   {
     "id": "78",
@@ -1089,7 +1089,7 @@
     "Zip": "49232",
     "lat": "41.755201",
     "lon": "-84.757721",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/GrhcwoK6AVGxhXnG8"
   },
   {
     "id": "79",
@@ -1103,7 +1103,7 @@
     "Zip": "48188",
     "lat": "42.299059",
     "lon": "-83.486921",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/LTgLDaqrdWJgmAfz7"
   },
   {
     "id": "80",
@@ -1111,13 +1111,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/aurelius",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1939 SOUTH AURELIUS ROAD",
+    "Address": "1939 South Aurelius Road",
     "City": "Mason",
     "State": "MI",
     "Zip": "48854-9729",
     "lat": "42.525741",
     "lon": "-84.522014",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/cMi6T4tpKWkyJNRc9"
   },
   {
     "id": "81",
@@ -1125,13 +1125,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/dansville",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1379 EAST MASON STREET",
+    "Address": "1379 East Mason Street",
     "City": "Dansville",
     "State": "MI",
     "Zip": "48819",
     "lat": "42.556008",
     "lon": "-84.303975",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/xMPeATFh8JM4MG1u9"
   },
   {
     "id": "82",
@@ -1139,13 +1139,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/downtown-lansing",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "401 SOUTH CAPITOL AVENUE",
+    "Address": "401 South Capitol Avenue",
     "City": "Lansing",
     "State": "MI",
     "Zip": "48901-7919",
     "lat": "42.73002",
     "lon": "-84.553926",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/h1gpvCs4ATno3C2x7"
   },
   {
     "id": "83",
@@ -1153,13 +1153,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/foster",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "200 NORTH FOSTER AVENUE",
+    "Address": "200 North Foster Avenue",
     "City": "Lansing",
     "State": "MI",
     "Zip": "48912-4104",
     "lat": "42.734862",
     "lon": "-84.517126",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ybacZ3ey6Bjors7LA"
   },
   {
     "id": "84",
@@ -1173,7 +1173,7 @@
     "Zip": "48840-8403",
     "lat": "42.744582",
     "lon": "-84.405853",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/aFoRbEzv3nojpiHi9"
   },
   {
     "id": "85",
@@ -1181,13 +1181,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/holt-delhi",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2078 AURELIUS ROAD",
+    "Address": "2078 Aurelius Road",
     "City": "Holt",
     "State": "MI",
     "Zip": "48842-1673",
     "lat": "42.642518",
     "lon": "-84.522232",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/rvSKc4K2w9DvfTX48"
   },
   {
     "id": "86",
@@ -1195,13 +1195,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/okemos",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4321 OKEMOS ROAD",
+    "Address": "4321 Okemos Road",
     "City": "Okemos",
     "State": "MI",
     "Zip": "48864-2552",
     "lat": "42.70719",
     "lon": "-84.432497",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ZGzvx2Ww8XGXYZbC8"
   },
   {
     "id": "87",
@@ -1209,13 +1209,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/leslie",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "201 PENNSYLVANIA STREET",
+    "Address": "201 Pennsylvania Street",
     "City": "Leslie",
     "State": "MI",
     "Zip": "49251-9420",
     "lat": "42.45296",
     "lon": "-84.434395",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/zupMvuhtfQaHifw78"
   },
   {
     "id": "88",
@@ -1223,13 +1223,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/mason",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "145 WEST ASH STREET",
+    "Address": "145 West Ash Street",
     "City": "Mason",
     "State": "MI",
     "Zip": "48854-1647",
     "lat": "42.579039",
     "lon": "-84.443629",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Xb81BpXBik31jLkh6"
   },
   {
     "id": "89",
@@ -1237,13 +1237,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/south-lansing",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3500 SOUTH CEDAR STREET",
+    "Address": "3500 South Cedar Street",
     "City": "Lansing",
     "State": "MI",
     "Zip": "48910-4684",
     "lat": "42.696507",
     "lon": "-84.54808",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/5hqBPicgQ3yYKJBdA"
   },
   {
     "id": "90",
@@ -1251,13 +1251,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/stockbridge",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "200 WOOD STREET",
+    "Address": "200 Wood Street",
     "City": "Stockbridge",
     "State": "MI",
     "Zip": "49285-0245",
     "lat": "42.45019",
     "lon": "-84.181308",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/7HcbubtWGVsHvJez9"
   },
   {
     "id": "91",
@@ -1265,13 +1265,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/webberville",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "115 SOUTH MAIN STREET",
+    "Address": "115 South Main Street",
     "City": "Webberville",
     "State": "MI",
     "Zip": "48892-0689",
     "lat": "42.666436",
     "lon": "-84.17446",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ukZCF44TNzYy4b4U8"
   },
   {
     "id": "92",
@@ -1279,13 +1279,13 @@
     "Group": "Capital Area District Libraries",
     "URL": "https://www.cadl.org/about/our-locations/williamston",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "201 School Street",
+    "Address": "3845 Vanneter Rd # 1",
     "City": "Williamston",
     "State": "MI",
     "Zip": "48895",
     "lat": "42.685485",
     "lon": "-84.28391",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/YXnp24sw6j5nW6h49"
   },
   {
     "id": "93",
@@ -1299,7 +1299,7 @@
     "Zip": "48723-1428",
     "lat": "43.488571",
     "lon": "-83.404927",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/QmTVJgo8Wx88UDQG8"
   },
   {
     "id": "94",
@@ -1307,13 +1307,13 @@
     "Group": "",
     "URL": "https://superiorlandlibrary.org/libraries/name/carp-lake-township-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "35349 Mall Circle Dr",
+    "Address": "35362 Mall Circle Dr",
     "City": "White Pine",
     "State": "MI",
     "Zip": "49971-0157",
     "lat": "46.75384",
     "lon": "-89.58404",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/vjjwwFyHYD82iQwK6"
   },
   {
     "id": "95",
@@ -1327,7 +1327,7 @@
     "Zip": "48811-0699",
     "lat": "43.292729",
     "lon": "-85.081565",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/uZiLkeQ5DzmGir5m6"
   },
   {
     "id": "96",
@@ -1335,17 +1335,17 @@
     "Group": "Carson City Public Library",
     "URL": "https://www.carsoncity.michlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "221 W. LAKE ST.",
+    "Address": "101 N. Main st",
     "City": "Crystal",
     "State": "MI",
     "Zip": "48818-9746",
     "lat": "43.211391",
     "lon": "-85.074854",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/9SA2LseWmwwraiq36"
   },
   {
     "id": "97",
-    "Name": "Cass District Library",
+    "Name": "Main Branch",
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/main-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
@@ -1355,7 +1355,7 @@
     "Zip": "49031-1099",
     "lat": "41.841614",
     "lon": "-86.040672",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/vQjqYaKsS4MPmT6K8"
   },
   {
     "id": "98",
@@ -1363,13 +1363,13 @@
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/edwardsburg-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "26745 CHURCH STREET",
+    "Address": "26745 Church Street",
     "City": "Edwardsburg",
     "State": "MI",
     "Zip": "49112-0710",
     "lat": "41.796972",
     "lon": "-86.083584",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/7czTjo5nP6McwRBn6"
   },
   {
     "id": "99",
@@ -1377,13 +1377,13 @@
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/howard-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2341 YANKEE STREET",
+    "Address": "2341 Yankee Street",
     "City": "Niles",
     "State": "MI",
     "Zip": "49120-9355",
     "lat": "41.826339",
     "lon": "-86.209961",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/VbPzmppkYfjUvi9t9"
   },
   {
     "id": "100",
@@ -1391,13 +1391,13 @@
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/local-history-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "145 NORTH BROADWAY",
+    "Address": "145 North Broadway",
     "City": "Cassopolis",
     "State": "MI",
     "Zip": "49031-1301",
     "lat": "41.912389",
     "lon": "-86.01269",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/9Dk69iby7WDSciPe8"
   },
   {
     "id": "101",
@@ -1405,13 +1405,13 @@
     "Group": "Cass District Library",
     "URL": "https://www.cassdistrictlibrary.org/mason-union-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "17049 U.S. HWY. 12 EAST",
+    "Address": "17049 U.s. Hwy. 12 East",
     "City": "Edwardsburg",
     "State": "MI",
     "Zip": "49112-9258",
     "lat": "41.77649",
     "lon": "-85.897923",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ao7K4pvLXedd4P9p9"
   },
   {
     "id": "102",
@@ -1419,13 +1419,13 @@
     "Group": "",
     "URL": "https://www.cedarspringslibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "43 W Cherry St",
+    "Address": "107 N Main St NE",
     "City": "Cedar Springs",
     "State": "MI",
     "Zip": "49319-0280",
     "lat": "43.223455",
     "lon": "-85.55182",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/m1AmknsLwJhAy2E69"
   },
   {
     "id": "103",
@@ -1439,7 +1439,7 @@
     "Zip": "48015-1462",
     "lat": "42.479391",
     "lon": "-83.031611",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/YpYs3vrZZhGkdcHs6"
   },
   {
     "id": "104",
@@ -1453,7 +1453,7 @@
     "Zip": "49622-0397",
     "lat": "45.071393",
     "lon": "-85.262837",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/MDC4xkqas1PftbweA"
   },
   {
     "id": "105",
@@ -1467,7 +1467,7 @@
     "Zip": "49080-1827",
     "lat": "42.441949",
     "lon": "-85.634942",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/WqbLp99NYwSiBDLn6"
   },
   {
     "id": "106",
@@ -1481,7 +1481,7 @@
     "Zip": "49720-1399",
     "lat": "45.316938",
     "lon": "-85.262181",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/oP7QqyGyDqybAr217"
   },
   {
     "id": "107",
@@ -1495,7 +1495,7 @@
     "Zip": "48813-1801",
     "lat": "42.561937",
     "lon": "-84.837074",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/3R3WWgSPJ4LWvTuS8"
   },
   {
     "id": "108",
@@ -1509,7 +1509,7 @@
     "Zip": "49623-0024",
     "lat": "43.889646",
     "lon": "-85.634625",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/iugp4zSHC5hiev348"
   },
   {
     "id": "109",
@@ -1523,7 +1523,7 @@
     "Zip": "49721-1661",
     "lat": "45.643939",
     "lon": "-84.480048",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/5gVvpXEGUFTyuZhy8"
   },
   {
     "id": "110",
@@ -1537,7 +1537,7 @@
     "Zip": "48118-1267",
     "lat": "42.316542",
     "lon": "-84.019908",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/K1of49sRifF7Vayi6"
   },
   {
     "id": "111",
@@ -1551,7 +1551,7 @@
     "Zip": "48051-3804",
     "lat": "42.670343",
     "lon": "-82.840245",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ZzC9EsYNcviNFibB7"
   },
   {
     "id": "112",
@@ -1559,13 +1559,13 @@
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/faith-johnston-memorial-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4035 N MISSION RD",
+    "Address": "4035 N Mission Rd",
     "City": "Rosebush",
     "State": "MI",
     "Zip": "48878-9701",
     "lat": "43.699486",
     "lon": "-84.768067",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/618CEKZyS6Sey2vu6"
   },
   {
     "id": "113",
@@ -1573,13 +1573,13 @@
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/fremont-township-community-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2833 W BLANCHARD RD",
+    "Address": "7959 S Winn Rd",
     "City": "Winn",
     "State": "MI",
-    "Zip": "48896-9516",
+    "Zip": "48858",
     "lat": "43.525037",
     "lon": "-84.902437",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/jZNiCTsv9wdfrFTAA"
   },
   {
     "id": "114",
@@ -1593,7 +1593,7 @@
     "Zip": "48883-2502",
     "lat": "43.524143",
     "lon": "-84.693574",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/nmfsr9bT3XJjHApg8"
   },
   {
     "id": "115",
@@ -1601,13 +1601,13 @@
     "Group": "Chippewa River District Library System",
     "URL": "https://www.crdl.org/tate-memorial-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "324 MAIN STREET",
+    "Address": "324 Main Street",
     "City": "Blanchard",
     "State": "MI",
     "Zip": "49310",
     "lat": "43.519841",
     "lon": "-85.081087",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/JnfdrJxaZdUfGGt77"
   },
   {
     "id": "116",
@@ -1621,7 +1621,7 @@
     "Zip": "48858-2524",
     "lat": "43.602637",
     "lon": "-84.775409",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/arMKynGhC6aXwxoB8"
   },
   {
     "id": "117",
@@ -1635,7 +1635,7 @@
     "Zip": "48346-1501",
     "lat": "42.739278",
     "lon": "-83.408709",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/rAYaEjFZ9tLfTAq76"
   },
   {
     "id": "118",
@@ -1649,7 +1649,7 @@
     "Zip": "49236-9700",
     "lat": "42.013014",
     "lon": "-83.942868",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/WqzxSSaAoL8Ya42v7"
   },
   {
     "id": "119",
@@ -1663,7 +1663,7 @@
     "Zip": "48038-2955",
     "lat": "42.599063",
     "lon": "-82.930263",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Y6nXFioLbQVbGBnVA"
   },
   {
     "id": "120",
@@ -1671,13 +1671,13 @@
     "Group": "Clinton-Macomb Public Library",
     "URL": "https://cmpl.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "16800 24 Mile Rd",
+    "Address": "54100 Broughton Rd",
     "City": "Macomb",
     "State": "MI",
     "Zip": "48042-2990",
     "lat": "42.685622",
     "lon": "-82.956359",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/1oxpPmBWzAepchLv5"
   },
   {
     "id": "121",
@@ -1685,13 +1685,13 @@
     "Group": "Clinton-Macomb Public Library",
     "URL": "https://cmpl.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "35891 S GRATIOT AVE",
+    "Address": "35891 S Gratiot Ave",
     "City": "Clinton Township",
     "State": "MI",
     "Zip": "48035-2855",
     "lat": "42.561595",
     "lon": "-82.896455",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Dxzg4iB1ueNMPFqHA"
   },
   {
     "id": "122",
@@ -1705,7 +1705,7 @@
     "Zip": "48618-0515",
     "lat": "43.755076",
     "lon": "-84.582397",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/wJw6AQeTMwWjww9AA"
   },
   {
     "id": "123",
@@ -1719,7 +1719,7 @@
     "Zip": "49038-0430",
     "lat": "42.185986",
     "lon": "-86.307201",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Anx3XvtBzUkoQdeF6"
   },
   {
     "id": "124",
@@ -1733,7 +1733,7 @@
     "Zip": "49040-0009",
     "lat": "41.958523",
     "lon": "-85.325405",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Q1iFpwWXXuj3Vuvt5"
   },
   {
     "id": "125",
@@ -1747,7 +1747,7 @@
     "Zip": "48767",
     "lat": "43.652761",
     "lon": "-83.466168",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/G5YUTWs4WxEPnSPW9"
   },
   {
     "id": "126",
@@ -1761,7 +1761,7 @@
     "Zip": "48382",
     "lat": "42.591545",
     "lon": "-83.59964",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Xai8chQNDtmGSTP99"
   },
   {
     "id": "127",
@@ -1775,7 +1775,7 @@
     "Zip": "48872-0017",
     "lat": "42.835194",
     "lon": "-84.177623",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/ASiMk2TjQ3WJcpET9"
   },
   {
     "id": "128",
@@ -1783,13 +1783,13 @@
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/byron",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "312 WEST MAPLE",
+    "Address": "312 West Maple",
     "City": "Byron",
     "State": "MI",
     "Zip": "48418-9797",
     "lat": "42.604027",
     "lon": "-83.934172",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/b2Kk8deu9RvUUQ7D6"
   },
   {
     "id": "129",
@@ -1798,12 +1798,12 @@
     "URL": "https://www.mycdl.org/about/locations-hours/corunna",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "210 E. Corunna Ave",
-    "City": "CORUNNA",
+    "City": "Corunna",
     "State": "MI",
     "Zip": "48817-1035",
     "lat": "42.982042",
     "lon": "-84.1161",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/AWFLy3cG8CGbNx498"
   },
   {
     "id": "130",
@@ -1817,7 +1817,7 @@
     "Zip": "48460-0279",
     "lat": "43.116573",
     "lon": "-83.970257",
-    "gmapaddr": ""
+    "gmapaddr": "https://maps.app.goo.gl/Fr7ACSqDzXQ9XgXc7"
   },
   {
     "id": "131",
@@ -1853,7 +1853,7 @@
     "Group": "Community District Library",
     "URL": "https://www.mycdl.org/about/locations-hours/bancroft",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3719 GRAND RIVER ROAD",
+    "Address": "3719 Grand River Road",
     "City": "Bancroft",
     "State": "MI",
     "Zip": "48414-9433",
@@ -1895,7 +1895,7 @@
     "Group": "",
     "URL": "https://www.coopersvillelibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "333 OTTAWA STREET",
+    "Address": "333 Ottawa Street",
     "City": "Coopersville",
     "State": "MI",
     "Zip": "49404-1243",
@@ -1979,7 +1979,7 @@
     "Group": "",
     "URL": "https://mi-crotonlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "8260 S Croton-Hardy Dr",
+    "Address": "8260 S Croton-hardy Dr",
     "City": "Newaygo",
     "State": "MI",
     "Zip": "49337",
@@ -2035,7 +2035,7 @@
     "Group": "Dearborn Heights City Libraries",
     "URL": "https://www.dhlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "24590 GEORGE STREET",
+    "Address": "24590 George Street",
     "City": "Dearborn Heights",
     "State": "MI",
     "Zip": "48127",
@@ -2049,8 +2049,8 @@
     "Group": "Dearborn Heights City Libraries",
     "URL": "https://www.dhlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "24602 VAN BORN ROAD",
-    "City": "DEARBORN HEIGHTS",
+    "Address": "24602 Van Born Road",
+    "City": "Dearborn Heights",
     "State": "MI",
     "Zip": "48125-2006",
     "lat": "42.269141",
@@ -2091,7 +2091,7 @@
     "Group": "Dearborn Public Library",
     "URL": "https://dearbornlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "16301 MICHIGAN AVENUE",
+    "Address": "16301 Michigan Avenue",
     "City": "Dearborn",
     "State": "MI",
     "Zip": "48126-2792",
@@ -2287,7 +2287,7 @@
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/franklin",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "13651 E McNichols Rd",
+    "Address": "13651 E Mcnichols Rd",
     "City": "Detroit",
     "State": "MI",
     "Zip": "48205-3457",
@@ -2301,7 +2301,7 @@
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/douglass",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3666 GRAND RIVER AVENUE",
+    "Address": "3666 Grand River Avenue",
     "City": "Detroit",
     "State": "MI",
     "Zip": "48208-0880",
@@ -2315,7 +2315,7 @@
     "Group": "Detroit Public Library",
     "URL": "https://detroitpubliclibrary.org/locations/hubbard",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "12929 W McNichols Rd",
+    "Address": "12929 W Mcnichols Rd",
     "City": "Detroit",
     "State": "MI",
     "Zip": "48235-4106",
@@ -2456,7 +2456,7 @@
     "URL": "https://dewittlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "13101 Schavey Rd",
-    "City": "DeWitt",
+    "City": "Dewitt",
     "State": "MI",
     "Zip": "48820-9008",
     "lat": "42.826353",
@@ -2665,7 +2665,7 @@
     "Group": "",
     "URL": "https://www.elkrapidslibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "300 Isle of Pines",
+    "Address": "300 Isle Of Pines",
     "City": "Elk Rapids",
     "State": "MI",
     "Zip": "49629-0337",
@@ -2721,7 +2721,7 @@
     "Group": "",
     "URL": "https://evartlibrary.com/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "105 NORTH MAIN STREET",
+    "Address": "105 North Main Street",
     "City": "Evart",
     "State": "MI",
     "Zip": "49631",
@@ -2959,8 +2959,8 @@
     "Group": "",
     "URL": "https://www.fruitportlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "47 PARK STREET",
-    "City": "FRUITPORT",
+    "Address": "47 Park Street",
+    "City": "Fruitport",
     "State": "MI",
     "Zip": "49415-9668",
     "lat": "43.124561",
@@ -3155,7 +3155,7 @@
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/gaines-station-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "103 EAST WALKER",
+    "Address": "103 East Walker",
     "City": "Gaines",
     "State": "MI",
     "Zip": "48436-0095",
@@ -3197,7 +3197,7 @@
     "Group": "Genesee District Library",
     "URL": "https://www.thegdl.org/genesee-valley-center-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3293 SOUTH LINDEN ROAD",
+    "Address": "3293 South Linden Road",
     "City": "Flint",
     "State": "MI",
     "Zip": "48507-3011",
@@ -3337,7 +3337,7 @@
     "Group": "Gladwin County District Library",
     "URL": "https://gcdl.org/beaverton-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "128 WEST SAGINAW STREET",
+    "Address": "128 West Saginaw Street",
     "City": "Beaverton",
     "State": "MI",
     "Zip": "48612-8117",
@@ -3351,7 +3351,7 @@
     "Group": "Gladwin County District Library",
     "URL": "https://gcdl.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "555 WEST CEDAR AVENUE",
+    "Address": "555 West Cedar Avenue",
     "City": "Gladwin",
     "State": "MI",
     "Zip": "48624-2096",
@@ -3435,7 +3435,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/10",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "111 Library St NE",
+    "Address": "111 Library St Ne",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49503-3268",
@@ -3449,7 +3449,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/11",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1201 Madison SE",
+    "Address": "1201 Madison Se",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49507-1200",
@@ -3463,7 +3463,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/12",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1150 Giddings Ave SE",
+    "Address": "1150 Giddings Ave Se",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49506-3255",
@@ -3477,7 +3477,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/13",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2350 Eastern Ave SE",
+    "Address": "2350 Eastern Ave Se",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49507-3233",
@@ -3491,7 +3491,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/14",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1563 Plainfield Ave NE",
+    "Address": "1563 Plainfield Ave Ne",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49505-4943",
@@ -3505,7 +3505,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/15",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1017 Leonard St NW",
+    "Address": "1017 Leonard St Nw",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49504-4135",
@@ -3519,7 +3519,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/16",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "713 Bridge St NW",
+    "Address": "713 Bridge St Nw",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49504-5560",
@@ -3533,7 +3533,7 @@
     "Group": "Grand Rapids Public Library",
     "URL": "https://www.grpl.org/locations/17",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2025 Leonard St NE",
+    "Address": "2025 Leonard St Ne",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49505-5836",
@@ -3561,8 +3561,8 @@
     "Group": "Grosse Pointe Public Library",
     "URL": "https://grossepointelibrary.org/ewald-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "15175 E. JEFFERSON",
-    "City": "GROSSE POINTE PARK",
+    "Address": "15175 E. Jefferson",
+    "City": "Grosse Pointe Park",
     "State": "MI",
     "Zip": "48230-0338",
     "lat": "42.376337",
@@ -3575,7 +3575,7 @@
     "Group": "Grosse Pointe Public Library",
     "URL": "https://grossepointelibrary.org/central-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "10 KERCHEVAL AVENUE",
+    "Address": "10 Kercheval Avenue",
     "City": "Grosse Pointe Farms",
     "State": "MI",
     "Zip": "48236-3693",
@@ -3687,7 +3687,7 @@
     "Group": "",
     "URL": "https://www.htlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "38255 L'Anse Creuse, Ste A.",
+    "Address": "38255 L'anse Creuse, Ste A.",
     "City": "Harrison Township",
     "State": "MI",
     "Zip": "48045",
@@ -3813,7 +3813,7 @@
     "Group": "",
     "URL": "https://highlandlibrary.info/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "444 BEACH FARM CIRCLE",
+    "Address": "444 Beach Farm Circle",
     "City": "Highland",
     "State": "MI",
     "Zip": "48356",
@@ -3939,7 +3939,7 @@
     "Group": "",
     "URL": "https://howelllibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "314 WEST GRAND RIVER",
+    "Address": "314 West Grand River",
     "City": "Howell",
     "State": "MI",
     "Zip": "48843-2146",
@@ -4065,7 +4065,7 @@
     "Group": "Iosco-Arenac District Library",
     "URL": "https://www.ioscoarenaclibrary.org/omer.htm",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "205 EAST CENTER STREET",
+    "Address": "205 East Center Street",
     "City": "Omer",
     "State": "MI",
     "Zip": "48749-9797",
@@ -4261,7 +4261,7 @@
     "Group": "Jackson District Library",
     "URL": "https://myjdl.com/locations/carnegie-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "244 WEST MICHIGAN AVENUE",
+    "Address": "244 West Michigan Avenue",
     "City": "Jackson",
     "State": "MI",
     "Zip": "49201-2230",
@@ -4373,7 +4373,7 @@
     "Group": "",
     "URL": "https://jonesvilledistrictlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "310 CHURCH STREET",
+    "Address": "310 Church Street",
     "City": "Jonesville",
     "State": "MI",
     "Zip": "49250-1046",
@@ -4387,7 +4387,7 @@
     "Group": "",
     "URL": "https://jvdl.info/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1 ONE LIBRARY LANE",
+    "Address": "1 One Library Lane",
     "City": "East Jordan",
     "State": "MI",
     "Zip": "49727",
@@ -4485,7 +4485,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/alp/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "5255 Alpine Ave NW",
+    "Address": "5255 Alpine Ave Nw",
     "City": "Comstock Park",
     "State": "MI",
     "Zip": "49321-9759",
@@ -4499,7 +4499,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/alt/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "6071 Linfield Ave SE",
+    "Address": "6071 Linfield Ave Se",
     "City": "Alto",
     "State": "MI",
     "Zip": "49302-0065",
@@ -4513,7 +4513,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/ada/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "7215 Headley Street SE",
+    "Address": "7215 Headley Street Se",
     "City": "Ada",
     "State": "MI",
     "Zip": "49301-9786",
@@ -4527,7 +4527,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/byr/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "8191 Byron Center Ave SW",
+    "Address": "8191 Byron Center Ave Sw",
     "City": "Bryon Center",
     "State": "MI",
     "Zip": "49315-9401",
@@ -4555,7 +4555,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/cas/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2870 Jacksmith Ave SE",
+    "Address": "2870 Jacksmith Ave Se",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49546-6989",
@@ -4569,7 +4569,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/com/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3943 W River Dr NE",
+    "Address": "3943 W River Dr Ne",
     "City": "Comstock Park",
     "State": "MI",
     "Zip": "49321-8997",
@@ -4583,7 +4583,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/egr/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "746 Lakeside Dr SE",
+    "Address": "746 Lakeside Dr Se",
     "City": "East Grand Rapids",
     "State": "MI",
     "Zip": "49506-3029",
@@ -4597,7 +4597,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/low/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "200 NORTH MONROE",
+    "Address": "200 North Monroe",
     "City": "Lowell",
     "State": "MI",
     "Zip": "49331-1455",
@@ -4611,7 +4611,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/gns/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "421 68TH STREET SE",
+    "Address": "421 68th Street Se",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49548-6928",
@@ -4625,7 +4625,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/gdv/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4055 Maple St SW",
+    "Address": "4055 Maple St Sw",
     "City": "Grandville",
     "State": "MI",
     "Zip": "49418-1284",
@@ -4653,7 +4653,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/kwd/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4950 Breton SE",
+    "Address": "4950 Breton Se",
     "City": "Kentwood",
     "State": "MI",
     "Zip": "49508",
@@ -4681,7 +4681,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/nel/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2 MAPLE STREET",
+    "Address": "2 Maple Street",
     "City": "Sand Lake",
     "State": "MI",
     "Zip": "49343-9574",
@@ -4695,7 +4695,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/pfd/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2650 Five Mile Rd NE",
+    "Address": "2650 Five Mile Rd Ne",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49525-6501",
@@ -4709,7 +4709,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/spe/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "14960 MEDDLER AVENUE",
+    "Address": "14960 Meddler Avenue",
     "City": "Gowen",
     "State": "MI",
     "Zip": "49326-9733",
@@ -4723,7 +4723,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/tyr/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "43 SOUTH MAIN STREET",
+    "Address": "43 South Main Street",
     "City": "Kent City",
     "State": "MI",
     "Zip": "49330-9112",
@@ -4737,7 +4737,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/wal/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4293 REMEMBRANCE NW",
+    "Address": "4293 Remembrance Nw",
     "City": "Walker",
     "State": "MI",
     "Zip": "49544-7502",
@@ -4751,7 +4751,7 @@
     "Group": "Kent District Library",
     "URL": "https://kdl.org/locations/wyo/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3350 MICHAEL AVENUE",
+    "Address": "3350 Michael Avenue",
     "City": "Wyoming",
     "State": "MI",
     "Zip": "49509-3495",
@@ -4766,7 +4766,7 @@
     "URL": "https://lanseschools.org/district-library.php",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "201 N 4th St",
-    "City": "L'Anse",
+    "City": "L'anse",
     "State": "MI",
     "Zip": "49946-1499",
     "lat": "46.757033",
@@ -5017,8 +5017,8 @@
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/addison-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "102 SOUTH TALBOT STREET",
-    "City": "ADDISON",
+    "Address": "102 South Talbot Street",
+    "City": "Addison",
     "State": "MI",
     "Zip": "49221-0234",
     "lat": "41.98645",
@@ -5045,7 +5045,7 @@
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/clayton-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3457 STATE STREET",
+    "Address": "3457 State Street",
     "City": "Clayton",
     "State": "MI",
     "Zip": "49235-0116",
@@ -5059,7 +5059,7 @@
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/deerfield-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "170 RAISIN STREET",
+    "Address": "170 Raisin Street",
     "City": "Deerfield",
     "State": "MI",
     "Zip": "49238-9717",
@@ -5073,7 +5073,7 @@
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/main-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4459 W U.S. 223",
+    "Address": "4459 W U.s. 223",
     "City": "Adrian",
     "State": "MI",
     "Zip": "49221-9461",
@@ -5087,7 +5087,7 @@
     "Group": "Lenawee District Library",
     "URL": "https://lenawee.lib.mi.us/onsted-branch",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "261 SOUTH MAIN STREET",
+    "Address": "261 South Main Street",
     "City": "Onsted",
     "State": "MI",
     "Zip": "49265-9763",
@@ -5116,7 +5116,7 @@
     "URL": "https://www.leroylibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "104 W Gilbert St",
-    "City": "LeRoy",
+    "City": "Leroy",
     "State": "MI",
     "Zip": "49651",
     "lat": "44.410885",
@@ -5409,7 +5409,7 @@
     "Group": "Manistee County Library",
     "URL": "https://manisteelibrary.org/branches-keddie-norconk-memorial-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "12325 VIRGINIA STREET",
+    "Address": "12325 Virginia Street",
     "City": "Bear Lake",
     "State": "MI",
     "Zip": "49614-0266",
@@ -5634,7 +5634,7 @@
     "URL": "https://www.mcbain.michlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "107 E Maple St",
-    "City": "McBain",
+    "City": "Mcbain",
     "State": "MI",
     "Zip": "49657-9672",
     "lat": "44.193661",
@@ -5703,7 +5703,7 @@
     "Group": "Menominee County Library",
     "URL": "https://www.menomineecountylibrary.org/our-locations-and-hours/your-public-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "5319 RAILROAD STREET",
+    "Address": "5319 Railroad Street",
     "City": "Stephenson",
     "State": "MI",
     "Zip": "49887-5108",
@@ -5745,7 +5745,7 @@
     "Group": "",
     "URL": "https://www.milfordlibrary.info/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "330 FAMILY DRIVE",
+    "Address": "330 Family Drive",
     "City": "Milford",
     "State": "MI",
     "Zip": "48381-1596",
@@ -5857,7 +5857,7 @@
     "Group": "Monroe County Library System",
     "URL": "https://mymcls.com/branch/ellis-library-reference-center/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "3700 SOUTH CUSTER ROAD",
+    "Address": "3700 South Custer Road",
     "City": "Monroe",
     "State": "MI",
     "Zip": "48161-9732",
@@ -6039,7 +6039,7 @@
     "Group": "Montmorency County Public Libraries",
     "URL": "https://montmorencylibrary.com/atlanta-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "11901 HAYMEADOW",
+    "Address": "11901 Haymeadow",
     "City": "Atlanta",
     "State": "MI",
     "Zip": "49709-9375",
@@ -6124,7 +6124,7 @@
     "URL": "https://madl.org/locations/ud/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "4845 3175 5th St.",
-    "City": "Twin Lake, MI",
+    "City": "Twin Lake, Mi",
     "State": "MI",
     "Zip": "49457",
     "lat": "43.360905",
@@ -6151,7 +6151,7 @@
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/uh/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "8776 Holton-Duck Lake Rd",
+    "Address": "8776 Holton-duck Lake Rd",
     "City": "Holton",
     "State": "MI",
     "Zip": "49425-9543",
@@ -6165,7 +6165,7 @@
     "Group": "Muskegon Area District Library",
     "URL": "https://madl.org/locations/ua/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "991 W. GIles Rd.",
+    "Address": "991 W. Giles Rd.",
     "City": "Muskegon",
     "State": "MI",
     "Zip": "49445",
@@ -6194,7 +6194,7 @@
     "URL": "https://madl.org/locations/um/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
     "Address": "4845 Airline Rd. - Unit 5",
-    "City": "MUSKEGON",
+    "City": "Muskegon",
     "State": "MI",
     "Zip": "49444-4563",
     "lat": "43.164248",
@@ -6403,7 +6403,7 @@
     "Group": "",
     "URL": "https://www.novilibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "45255 WEST TEN MILE ROAD",
+    "Address": "45255 West Ten Mile Road",
     "City": "Novi",
     "State": "MI",
     "Zip": "48375-3014",
@@ -6543,7 +6543,7 @@
     "Group": "Oscoda County District Library",
     "URL": "https://www.oscoda.lib.mi.us/our-locations-and-hours/your-public-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "430 WEST EIGHTH STREET",
+    "Address": "430 West Eighth Street",
     "City": "Mio",
     "State": "MI",
     "Zip": "48647-9136",
@@ -6697,7 +6697,7 @@
     "Group": "",
     "URL": "https://peninsulacommunitylibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "2893 ISLAND VIEW ROAD",
+    "Address": "2893 Island View Road",
     "City": "Traverse City",
     "State": "MI",
     "Zip": "49686-9701",
@@ -7005,7 +7005,7 @@
     "Group": "Public Libraries of Saginaw",
     "URL": "https://www.saginawlibrary.org/branch/hoyt-main",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "505 JANES AVENUE",
+    "Address": "505 Janes Avenue",
     "City": "Saginaw",
     "State": "MI",
     "Zip": "48607-1285",
@@ -7257,7 +7257,7 @@
     "Group": "",
     "URL": "https://riverviewpubliclibrary.com/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "14300 SIBLEY ROAD",
+    "Address": "14300 Sibley Road",
     "City": "Riverview",
     "State": "MI",
     "Zip": "48193",
@@ -7327,7 +7327,7 @@
     "Group": "Roscommon Area District Library",
     "URL": "https://roscommonlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "7851 W. HIGGINS LAKE DRIVE",
+    "Address": "7851 W. Higgins Lake Drive",
     "City": "Higgins Lake",
     "State": "MI",
     "Zip": "48653",
@@ -7551,7 +7551,7 @@
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/main_library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "210 McMorran Blvd",
+    "Address": "210 Mcmorran Blvd",
     "City": "Port Huron",
     "State": "MI",
     "Zip": "48060-4014",
@@ -7565,7 +7565,7 @@
     "Group": "Saint Clair County Library System",
     "URL": "https://stclaircountylibrary.org/locations/list/st_clair",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "310 SOUTH SECOND STREET",
+    "Address": "310 South Second Street",
     "City": "Saint Clair",
     "State": "MI",
     "Zip": "48079-5000",
@@ -7719,7 +7719,7 @@
     "Group": "",
     "URL": "https://www.sdlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "174 CENTER ST",
+    "Address": "174 Center St",
     "City": "Douglas",
     "State": "MI",
     "Zip": "49406",
@@ -7915,7 +7915,7 @@
     "Group": "",
     "URL": "https://southfieldlibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "26300 EVERGREEN ROAD",
+    "Address": "26300 Evergreen Road",
     "City": "Southfield",
     "State": "MI",
     "Zip": "48076-2055",
@@ -7929,7 +7929,7 @@
     "Group": "",
     "URL": "https://www.southgate.lib.mi.us/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "14680 Dix-Toledo Rd.",
+    "Address": "14680 Dix-toledo Rd.",
     "City": "Southgate",
     "State": "MI",
     "Zip": "48195",
@@ -8055,7 +8055,7 @@
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/brevort-township-community-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4009 NORTH CHURCH STREET",
+    "Address": "4009 North Church Street",
     "City": "Moran",
     "State": "MI",
     "Zip": "49760-9773",
@@ -8069,7 +8069,7 @@
     "Group": "Superior District Library",
     "URL": "https://curtispubliclibrary.org/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "9220 NORTH PORTAGE AVENUE",
+    "Address": "9220 North Portage Avenue",
     "City": "Curtis",
     "State": "MI",
     "Zip": "49820",
@@ -8097,7 +8097,7 @@
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/drummond-island-public-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "29934 EAST COURT STREET",
+    "Address": "29934 East Court Street",
     "City": "Drummond Island",
     "State": "MI",
     "Zip": "49726-0202",
@@ -8125,7 +8125,7 @@
     "Group": "Superior District Library",
     "URL": "https://www.sdl.michlibrary.org/branches-1/Les-Cheneax-Community-Library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "75 EAST HODECK STREET",
+    "Address": "75 East Hodeck Street",
     "City": "Cedarville",
     "State": "MI",
     "Zip": "49719-0099",
@@ -8657,7 +8657,7 @@
     "Group": "",
     "URL": "",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "107 NORTH MAIN STREET",
+    "Address": "107 North Main Street",
     "City": "Waldron",
     "State": "MI",
     "Zip": "49288-0136",
@@ -8727,7 +8727,7 @@
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/civic-center-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "1 CITY SQUARE",
+    "Address": "1 City Square",
     "City": "Warren",
     "State": "MI",
     "Zip": "48093-5290",
@@ -8741,7 +8741,7 @@
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/busch-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "23333 RYAN ROAD",
+    "Address": "23333 Ryan Road",
     "City": "Warren",
     "State": "MI",
     "Zip": "48091-4553",
@@ -8755,7 +8755,7 @@
     "Group": "Warren Public Library",
     "URL": "https://warrenlibrary.net/category/burnette-branch/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "23345 VAN DYKE AVENUE",
+    "Address": "23345 Van Dyke Avenue",
     "City": "Warren",
     "State": "MI",
     "Zip": "48089-2324",
@@ -8825,7 +8825,7 @@
     "Group": "West Bloomfield Township Public Library",
     "URL": "https://wblib.org/branch/main-library/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "4600 WALNUT LAKE ROAD",
+    "Address": "4600 Walnut Lake Road",
     "City": "West Bloomfield",
     "State": "MI",
     "Zip": "48323-2557",
@@ -9063,7 +9063,7 @@
     "Group": "Ypsilanti District Library",
     "URL": "https://www.ypsilibrary.org/about/visit/locations-hours/ydl-michigan/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "229 W. MICHIGAN AVENUE",
+    "Address": "229 W. Michigan Avenue",
     "City": "Ypsilanti",
     "State": "MI",
     "Zip": "48197-5440",
@@ -9147,7 +9147,7 @@
     "Group": "Grand Valley State University",
     "URL": "https://www.gvsu.edu/library/frey-foundation-library-and-learning-commons-14.htm",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "333 Michigan St NE",
+    "Address": "333 Michigan St Ne",
     "City": "Grand Rapids",
     "State": "MI",
     "Zip": "49503",
@@ -9185,7 +9185,7 @@
   },
   {
     "id": "657",
-    "Name": "MSU Libraries",
+    "Name": "Main Library",
     "Group": "Michigan State University",
     "URL": "https://lib.msu.edu/",
     "desc": "Insert any information, resources, or other services that your branch offers here",
@@ -9255,11 +9255,11 @@
   },
   {
     "id": "662",
-    "Name": "UMich Libraries",
+    "Name": "Hatcher Library",
     "Group": "University of Michigan",
-    "URL": "https://www.lib.umich.edu/",
+    "URL": "https://www.lib.umich.edu/locations-and-hours/hatcher-library",
     "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "913 S. University Ave",
+    "Address": "913 S. University Avenue",
     "City": "Ann Arbor",
     "State": "MI",
     "Zip": "48109-1190",
@@ -9269,6 +9269,20 @@
   },
   {
     "id": "663",
+    "Name": "Shapiro Undergraduate Library",
+    "Group": "University of Michigan",
+    "URL": "https://www.lib.umich.edu/locations-and-hours/shapiro-library",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "919 S. University Ave",
+    "City": "Ann Arbor",
+    "State": "MI",
+    "Zip": "48109-1190",
+    "lat": "42.275608",
+    "lon": "-83.737191",
+    "gmapaddr": ""
+  },
+  {
+    "id": "664",
     "Name": "Mardigian Library",
     "Group": "University of Michigan Dearborn",
     "URL": "https://library.umd.umich.edu/",
@@ -9282,7 +9296,7 @@
     "gmapaddr": ""
   },
   {
-    "id": "664",
+    "id": "665",
     "Name": "Frances Willson Thompson Library",
     "Group": "University of Michigan Flint",
     "URL": "https://libguides.umflint.edu/library",
@@ -9296,7 +9310,7 @@
     "gmapaddr": ""
   },
   {
-    "id": "665",
+    "id": "666",
     "Name": "Purdy-Kresge Library",
     "Group": "Wayne State University",
     "URL": "https://library.wayne.edu/pk/",
@@ -9310,7 +9324,7 @@
     "gmapaddr": ""
   },
   {
-    "id": "666",
+    "id": "667",
     "Name": "Undergraduate Library",
     "Group": "Wayne State University",
     "URL": "https://library.wayne.edu/ugl/",
@@ -9324,35 +9338,7 @@
     "gmapaddr": ""
   },
   {
-    "id": "667",
-    "Name": "Neef Law Library",
-    "Group": "Wayne State University",
-    "URL": "https://guides.lib.wayne.edu/neef/",
-    "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "474 Gilmour Mall",
-    "City": "Detroit",
-    "State": "MI",
-    "Zip": "48202",
-    "lat": "42.374786",
-    "lon": "-83.077718",
-    "gmapaddr": ""
-  },
-  {
     "id": "668",
-    "Name": "Shiffman Medical Library",
-    "Group": "Wayne State University",
-    "URL": "https://guides.lib.wayne.edu/shiffman",
-    "desc": "Insert any information, resources, or other services that your branch offers here",
-    "Address": "320 E. Canfield St",
-    "City": "Detroit",
-    "State": "MI",
-    "Zip": "48201",
-    "lat": "42.354155",
-    "lon": "-83.05734",
-    "gmapaddr": ""
-  },
-  {
-    "id": "669",
     "Name": "Waldo Library",
     "Group": "Western Michigan University",
     "URL": "https://wmich.edu/library/visit/waldo",
@@ -9364,5 +9350,551 @@
     "lat": "42.284284",
     "lon": "-85.61131",
     "gmapaddr": ""
+  },
+  {
+    "id": "669",
+    "Name": "Downtown Campus LRC",
+    "Group": "Wayne Community College District",
+    "URL": "https://www.wcccd.edu/learning-resource-centers",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "801 W Fort St",
+    "City": "Detroit",
+    "State": "MI",
+    "Zip": "48226",
+    "lat": "42.32716",
+    "lon": "-83.054253",
+    "gmapaddr": "https://maps.app.goo.gl/xVfqtw37ntQedvXv9"
+  },
+  {
+    "id": "670",
+    "Name": "Downriver Campus LRC",
+    "Group": "Wayne Community College District",
+    "URL": "https://www.wcccd.edu/learning-resource-centers",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "21000 Northline Rd",
+    "City": "Taylor",
+    "State": "MI",
+    "Zip": "48180",
+    "lat": "42.212991",
+    "lon": "-83.239242",
+    "gmapaddr": "https://maps.app.goo.gl/hsXYviqhRqcpf1DN7"
+  },
+  {
+    "id": "671",
+    "Name": "Eastern Campus LRC",
+    "Group": "Wayne Community College District",
+    "URL": "https://www.wcccd.edu/learning-resource-centers",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "5901 Conner St",
+    "City": "Detroit",
+    "State": "MI",
+    "Zip": "48213",
+    "lat": "42.394258",
+    "lon": "-82.98694",
+    "gmapaddr": "https://maps.app.goo.gl/AMR2yEEft9k8XgbDA"
+  },
+  {
+    "id": "672",
+    "Name": "Eshleman Library",
+    "Group": "Henry Ford College",
+    "URL": "https://www.hfcc.edu/library",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "5101 Evergreen Rd Building B",
+    "City": "Dearborn",
+    "State": "MI",
+    "Zip": "48128",
+    "lat": "42.323236",
+    "lon": "-83.233661",
+    "gmapaddr": "https://maps.app.goo.gl/czJ73P46SvDy8XUT7"
+  },
+  {
+    "id": "673",
+    "Name": "Bradner Library",
+    "Group": "Schoolcraft College",
+    "URL": "https://www.schoolcraft.edu/lss/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "18600 Haggerty Rd",
+    "City": "Livonia",
+    "State": "MI",
+    "Zip": "48152",
+    "lat": "42.420736",
+    "lon": "-83.43289",
+    "gmapaddr": "https://maps.app.goo.gl/3qbK5oQjcMQfXjpb6"
+  },
+  {
+    "id": "674",
+    "Name": "South Campus Library",
+    "Group": "Macomb Community College",
+    "URL": "https://www.macomb.edu/student-resources/library/index.html",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "14500 E. 12 Mile Road",
+    "City": "Warren",
+    "State": "MI",
+    "Zip": "48088-3896",
+    "lat": "42.508207",
+    "lon": "-82.97632",
+    "gmapaddr": "https://maps.app.goo.gl/pBVU753QXK74cVpj6"
+  },
+  {
+    "id": "675",
+    "Name": "Center Campus Library",
+    "Group": "Macomb Community College",
+    "URL": "https://www.macomb.edu/student-resources/library/index.html",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "44575 Garfield Road",
+    "City": "Clinton Township",
+    "State": "MI",
+    "Zip": "48038-1139",
+    "lat": "42.623271",
+    "lon": "-82.955987",
+    "gmapaddr": "https://maps.app.goo.gl/wmg5EY8o6ZBgXqMQ9"
+  },
+  {
+    "id": "676",
+    "Name": "Auburn Hills Campus Library",
+    "Group": "Oakland Community College",
+    "URL": "https://libguides.oaklandcc.edu/about/auburn-hills",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2900 Featherstone Road",
+    "City": "Auburn Hills",
+    "State": "MI",
+    "Zip": "48326-2845",
+    "lat": "42.646681",
+    "lon": "-83.225295",
+    "gmapaddr": "https://maps.app.goo.gl/jZhNe3c5G6cdt9CR7"
+  },
+  {
+    "id": "677",
+    "Name": "Highland Lakes Campus Library",
+    "Group": "Oakland Community College",
+    "URL": "https://libguides.oaklandcc.edu/about/highland-lakes",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "7350 Cooley Lake Rd",
+    "City": "Waterford Township",
+    "State": "MI",
+    "Zip": "48327",
+    "lat": "42.618713",
+    "lon": "-83.431027",
+    "gmapaddr": "https://maps.app.goo.gl/zEfqRh8T6bqUkD4NA"
+  },
+  {
+    "id": "678",
+    "Name": "Orchard Ridge Campus Library",
+    "Group": "Oakland Community College",
+    "URL": "https://libguides.oaklandcc.edu/about/orchard-ridge",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "27055 Orchard Lake Rd",
+    "City": "Farmington Hills",
+    "State": "MI",
+    "Zip": "48334",
+    "lat": "42.493284",
+    "lon": "-83.36874",
+    "gmapaddr": "https://maps.app.goo.gl/ZWEPgKWXbRQkZcvj6"
+  },
+  {
+    "id": "679",
+    "Name": "Royal Oak Campus Library",
+    "Group": "Oakland Community College",
+    "URL": "https://libguides.oaklandcc.edu/about/royal-oak",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "739 S Washington Ave",
+    "City": "Royal Oak",
+    "State": "MI",
+    "Zip": "48067",
+    "lat": "42.484078",
+    "lon": "-83.145311",
+    "gmapaddr": "https://maps.app.goo.gl/jUhZApbY4HZZDWHf7"
+  },
+  {
+    "id": "680",
+    "Name": "Southfield Resource Room",
+    "Group": "Oakland Community College",
+    "URL": "https://libguides.oaklandcc.edu/about/southfield",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "22322 Rutland Dr",
+    "City": "Southfield",
+    "State": "MI",
+    "Zip": "48075",
+    "lat": "42.456444",
+    "lon": "-83.213345",
+    "gmapaddr": "https://maps.app.goo.gl/9MjsQjbLkxfnknvd6"
+  },
+  {
+    "id": "681",
+    "Name": "Bailey Library",
+    "Group": "Washtenaw Community College",
+    "URL": "https://www.wccnet.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "4800 E Huron River Dr",
+    "City": "Ann Arbor",
+    "State": "MI",
+    "Zip": "48105",
+    "lat": "42.263371",
+    "lon": "-83.663719",
+    "gmapaddr": "https://maps.app.goo.gl/LQZBhGwZnCxjsUnX8"
+  },
+  {
+    "id": "682",
+    "Name": "Campbell Academic Center",
+    "Group": "Monroe County Community College",
+    "URL": "https://www.monroeccc.edu/library/hours",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1555 S. Raisinville Rd",
+    "City": "Monroe",
+    "State": "MI",
+    "Zip": "48161-9746",
+    "lat": "41.916056",
+    "lon": "-83.46783",
+    "gmapaddr": "https://maps.app.goo.gl/nwy5Pi1gLfzMf2Wn8"
+  },
+  {
+    "id": "683",
+    "Name": "St. Clair County Community College",
+    "Group": "",
+    "URL": "https://esearch.sc4.edu/location_hours",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "323 Erie St.",
+    "City": "Port Huron",
+    "State": "MI",
+    "Zip": "48061-5015",
+    "lat": "42.978189",
+    "lon": "-82.427936",
+    "gmapaddr": "https://maps.app.goo.gl/knaUx5hACU55WyFe7"
+  },
+  {
+    "id": "684",
+    "Name": "Mott Community College",
+    "Group": "",
+    "URL": "https://www.mcc.edu/library/library-hours.shtml",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1401 E Court St.",
+    "City": "Flint",
+    "State": "MI",
+    "Zip": "48503",
+    "lat": "43.018581",
+    "lon": "-83.672835",
+    "gmapaddr": "https://maps.app.goo.gl/KvqzGoUWfKNkArno9"
+  },
+  {
+    "id": "685",
+    "Name": "Jackson College",
+    "Group": "",
+    "URL": "https://www.jccmi.edu/services-support/library/hours/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2111 Emmons Rd",
+    "City": "Jackson",
+    "State": "MI",
+    "Zip": "49201",
+    "lat": "42.167659",
+    "lon": "-84.405185",
+    "gmapaddr": "https://maps.app.goo.gl/Jwr3917pSMpmupfq9"
+  },
+  {
+    "id": "686",
+    "Name": "Lansing Community College",
+    "Group": "",
+    "URL": "https://www.lcc.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "400 N Capitol Ave",
+    "City": "Lansing",
+    "State": "MI",
+    "Zip": "48933",
+    "lat": "42.737288",
+    "lon": "-84.553819",
+    "gmapaddr": "https://maps.app.goo.gl/jouEo6KwmiJC4TU26"
+  },
+  {
+    "id": "687",
+    "Name": "Delta College",
+    "Group": "",
+    "URL": "https://library.delta.edu/home",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1961 Delta Rd.",
+    "City": "University Center",
+    "State": "MI",
+    "Zip": "48710",
+    "lat": "43.552156",
+    "lon": "-83.973697",
+    "gmapaddr": "https://maps.app.goo.gl/N8tTZoodYdiCqG5B9"
+  },
+  {
+    "id": "688",
+    "Name": "Morris Library",
+    "Group": "Kellogg Community College",
+    "URL": "https://guides.kellogg.edu/Information",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "450 North Ave",
+    "City": "Battle Creek",
+    "State": "MI",
+    "Zip": "49017",
+    "lat": "42.33414",
+    "lon": "-85.179623",
+    "gmapaddr": "https://maps.app.goo.gl/JiJShyfFZJpW3uzT8"
+  },
+  {
+    "id": "689",
+    "Name": "Montcalm Community College",
+    "Group": "",
+    "URL": "https://www.montcalm.edu/sub-header/campus-life/student-resources/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2800 College Dr",
+    "City": "Sidney",
+    "State": "MI",
+    "Zip": "48885",
+    "lat": "43.235402",
+    "lon": "-85.191444",
+    "gmapaddr": "https://maps.app.goo.gl/FjdKdViD2uVb1yAy9"
+  },
+  {
+    "id": "690",
+    "Name": "Glen Oaks Community College",
+    "Group": "",
+    "URL": "https://www.glenoaks.edu/services/learning-commons/library-services/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "62249 Shimmel Rd",
+    "City": "Centreville",
+    "State": "MI",
+    "Zip": "49032",
+    "lat": "41.893497",
+    "lon": "-85.507094",
+    "gmapaddr": "https://maps.app.goo.gl/MEpMi7ugVuEL7SpY9"
+  },
+  {
+    "id": "691",
+    "Name": "Texas Township Library",
+    "Group": "Kalamazoo Valley Community College",
+    "URL": "https://www.kvcc.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "6767 W O Ave",
+    "City": "Kalamazoo",
+    "State": "MI",
+    "Zip": "49009",
+    "lat": "42.229816",
+    "lon": "-85.683391",
+    "gmapaddr": "https://maps.app.goo.gl/UeG9baR2NeHkLZap7"
+  },
+  {
+    "id": "692",
+    "Name": "Arcadia Commons Library",
+    "Group": "Kalamazoo Valley Community College",
+    "URL": "https://www.kvcc.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "202 N Rose St",
+    "City": "Kalamazoo",
+    "State": "MI",
+    "Zip": "49007",
+    "lat": "42.292604",
+    "lon": "-85.58464",
+    "gmapaddr": "https://maps.app.goo.gl/AVXw4EpXSaFvLgFW9"
+  },
+  {
+    "id": "693",
+    "Name": "Grand Rapids Community College",
+    "Group": "",
+    "URL": "https://www.grcc.edu/students-resources/library-learning-commons",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "140 Ransom Ave NE",
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Zip": "49503",
+    "lat": "42.966618",
+    "lon": "-85.664268",
+    "gmapaddr": "https://maps.app.goo.gl/3kDvj7JokFMtJwbn7"
+  },
+  {
+    "id": "694",
+    "Name": "Harrison Campus Library",
+    "Group": "Mid-Michigan College",
+    "URL": "https://midmich.edu/services/lls/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1375 S Clare Ave",
+    "City": "Harrison",
+    "State": "MI",
+    "Zip": "48625",
+    "lat": "43.968559",
+    "lon": "-84.767965",
+    "gmapaddr": "https://maps.app.goo.gl/Fy3eenybUUfz33sF8"
+  },
+  {
+    "id": "695",
+    "Name": "Mt. Pleasant Campus Library",
+    "Group": "Mid-Michigan College",
+    "URL": "https://midmich.edu/services/lls/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2600 S Summerton Rd",
+    "City": "Mt Pleasant",
+    "State": "MI",
+    "Zip": "48858",
+    "lat": "43.602866",
+    "lon": "-84.727452",
+    "gmapaddr": "https://maps.app.goo.gl/6ZsdMxFL8P1pjhde9"
+  },
+  {
+    "id": "696",
+    "Name": "Fred L. Mathews Library",
+    "Group": "Southwestern Michigan College",
+    "URL": "https://www.swmich.edu/life-at-smc/student-services/fred-l-mathews-library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "58900 Cherry Grove Rd",
+    "City": "Dowagiac",
+    "State": "MI",
+    "Zip": "49047",
+    "lat": "41.947829",
+    "lon": "-86.077886",
+    "gmapaddr": "https://maps.app.goo.gl/wexLvJCDzPbPZVMcA"
+  },
+  {
+    "id": "697",
+    "Name": "Hendrik Meijer Library",
+    "Group": "Muskegon Community College",
+    "URL": "https://www.muskegoncc.edu/facilities/hendrik-meijer-library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "221 S. Quarterline Road",
+    "City": "Muskegon",
+    "State": "MI",
+    "Zip": "49442",
+    "lat": "43.246913",
+    "lon": "-86.195466",
+    "gmapaddr": "https://maps.app.goo.gl/1h49rdGmmieTsko18"
+  },
+  {
+    "id": "698",
+    "Name": "William Hessel Library",
+    "Group": "Lake Michigan College",
+    "URL": "https://www.lakemichigancollege.edu/student-life/library",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2755 E Napier Ave",
+    "City": "Benton Harbor",
+    "State": "MI",
+    "Zip": "49022",
+    "lat": "42.089723",
+    "lon": "-86.396066",
+    "gmapaddr": "https://maps.app.goo.gl/oLWRbn418Ekk1og87"
+  },
+  {
+    "id": "699",
+    "Name": "Kirtland Community College",
+    "Group": "",
+    "URL": "https://www.kirtland.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "4800 W 4 Mile Rd",
+    "City": "Grayling",
+    "State": "MI",
+    "Zip": "49738",
+    "lat": "44.598292",
+    "lon": "-84.739",
+    "gmapaddr": "https://maps.app.goo.gl/woULZWW1y9DCkwrt8"
+  },
+  {
+    "id": "700",
+    "Name": "Stephen H. Fletcher Library",
+    "Group": "Alpena Community College",
+    "URL": "https://discover.alpenacc.edu/admissions/current_students/library_services.php",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "665 Johnson St",
+    "City": "Alpena",
+    "State": "MI",
+    "Zip": "49707",
+    "lat": "45.079756",
+    "lon": "-83.447911",
+    "gmapaddr": "https://maps.app.goo.gl/3BHaRHLfNbnMLSzk8"
+  },
+  {
+    "id": "701",
+    "Name": "William M. Anderson Library",
+    "Group": "West Shore Community College",
+    "URL": "https://www.westshore.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "3000 N Stiles Rd",
+    "City": "Scottville",
+    "State": "MI",
+    "Zip": "49454",
+    "lat": "44.009654",
+    "lon": "-86.329965",
+    "gmapaddr": "https://maps.app.goo.gl/Ge329tfAmBRZyHfz8"
+  },
+  {
+    "id": "702",
+    "Name": "Northwestern Michigan College",
+    "Group": "",
+    "URL": "https://www.nmc.edu/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1720 College Dr",
+    "City": "Traverse City",
+    "State": "MI",
+    "Zip": "49686",
+    "lat": "44.766533",
+    "lon": "-85.58273",
+    "gmapaddr": "https://maps.app.goo.gl/nkuRtHEzBb9vJFAG8"
+  },
+  {
+    "id": "703",
+    "Name": "North Central Michigan College",
+    "Group": "",
+    "URL": "https://www.ncmich.edu/academics/library.html",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "1515 Howard St",
+    "City": "Petoskey",
+    "State": "MI",
+    "Zip": "49770",
+    "lat": "45.360569",
+    "lon": "-84.952968",
+    "gmapaddr": "https://maps.app.goo.gl/ountw3jL7TNSE5ZZ9"
+  },
+  {
+    "id": "704",
+    "Name": "Bay Mills Community College",
+    "Group": "",
+    "URL": "https://bmcc.edu/community/library.html",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "12214 W Lakeshore Dr",
+    "City": "Brimley",
+    "State": "MI",
+    "Zip": "49715",
+    "lat": "46.454122",
+    "lon": "-84.60615",
+    "gmapaddr": "https://maps.app.goo.gl/TUzM3JvKqXsgj9L66"
+  },
+  {
+    "id": "705",
+    "Name": "Bay College",
+    "Group": "",
+    "URL": "https://library.baycollege.edu/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "2001 N Lincoln Rd",
+    "City": "Escanaba",
+    "State": "MI",
+    "Zip": "49829",
+    "lat": "45.770026",
+    "lon": "-87.080767",
+    "gmapaddr": "https://maps.app.goo.gl/RdeWeoLt3PhUTaMP8"
+  },
+  {
+    "id": "706",
+    "Name": "Keweenaw Bay Ojibwa Community College",
+    "Group": "",
+    "URL": "https://www.kbocc.edu/students/library/",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "770 N Main St",
+    "City": "L'Anse",
+    "State": "MI",
+    "Zip": "49946",
+    "lat": "46.764672",
+    "lon": "-88.445583",
+    "gmapaddr": "https://maps.app.goo.gl/sE5pXRwR4P64wJGQ7"
+  },
+  {
+    "id": "707",
+    "Name": "Gogebic Community College",
+    "Group": "",
+    "URL": "https://www.gogebic.edu/studentlife/library/index.html",
+    "desc": "Insert any information, resources, or other services that your branch offers here",
+    "Address": "E4946 Jackson Rd",
+    "City": "Ironwood",
+    "State": "MI",
+    "Zip": "49938",
+    "lat": "46.46529",
+    "lon": "-90.145849",
+    "gmapaddr": "https://maps.app.goo.gl/E7QfstFUt77SFr8j8"
   }
 ]
