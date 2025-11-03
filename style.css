@@ -323,3 +323,9 @@ select:focus {
 		transform: rotate(360deg);
 	}
 }
+
+.desc-html{ margin:.5rem 0 0; font-size:.95rem; }
+.desc-html p{ margin:.35rem 0; }
+.desc-html ul{ margin:.35rem 0 .35rem 1.25rem; padding:0; }
+.desc-html li{ margin:.2rem 0; }
+.desc-html a{ color:#0b57d0; text-decoration:underline; }
