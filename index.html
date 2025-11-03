@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>Michigan Library Resource Network</title>
+	<link rel="icon" type="image/x-icon" href="favicon.svg">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="color-scheme" content="light" />
+	<link rel="preconnect" href="https://unpkg.com" crossorigin>
+	<link rel="preload" href="Metropolis-Regular-fixed.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="Metropolis-Bold-fixed.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="Garamond.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<header>
+		<div class="header-bar">
+			<h1>Michigan Library Resource Network</h1>
+			<button id="about-btn" class="btn" aria-expanded="false" aria-controls="about-panel">About</button>
+		</div>
+		<div id="about-panel" class="about" hidden>Millions of Americans are about to lose their SNAP benefits, while millions more are about to lose other critical safety nets like insurance, education programs, health care, and student loan services. This goal of this project is to show people the community resources closest to them, as curated by their local libraries.<br>
+			Are you a library and want to add your local resources? <a href="https://forms.cloud.microsoft/r/FsPvrEntwh" target="_blank">Submit them here</a>.
+		</div>
+	</header>
+	<div class="wrap">
+		<div id="spinner" class="spinner" role="status" aria-live="polite" aria-busy="true" hidden>
+			<div class="spinner-inner">
+				<div class="loader" aria-hidden="true"></div>
+				<div id="spinner-text" class="spinner-text">Loading…</div>
+			</div>
+		</div>
+		<section class="controls" aria-label="Filters and tools">
+			<div>
+				<label for="search">Search resources & libraries</label>
+				<input id="search" type="search" placeholder="Search by name, group, description, category, or address...">
+			</div>
+			<div>
+				<label for="category">Category</label>
+				<select id="category">
+					<option value="__ALL__">All categories</option>
+				</select>
+			</div>
+			<div style="display:flex;align-items:end;justify-content:flex-start;">
+				<button id="use-geo" class="btn primary" title="Retry precise location">Use precise location</button>
+			</div>
+		</section>
+		<div class="status" id="status-text">Closest resources to your location:</div>
+		<section id="content"></section>
+		<div id="map-wrap">
+			<h2 class="section-title">Map</h2>
+			<div id="map" role="region" aria-label="Map of visible resources and locations"></div>
+		</div>
+		<div>
+			<p>Want to contribute? <a href="https://forms.cloud.microsoft/r/FsPvrEntwh" target="_blank">Fill out this form</a></p>
+			<p>Questions/comments? <a href="mailto:vxh@wayne.edu?subject=MiLib Resource Network">Email me</a></p>
+		</div>
+	</div>
+	<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin></script>
+	<script defer src="main.js"></script>
+</body>
+
+</html>
